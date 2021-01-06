@@ -77,6 +77,69 @@
       "link_mp3" : "https://archive.org/download/HabibUmarMuthohar/2012-02-14HabibUmarAl-muthoharMajelisRiyadhulJannah.mp3",
       "lirik" : "",
       "durasi" : 28
+    },
+		    {
+      "id" : 5,
+      "judul" : "Habib Umar Al-Muthohar di Majelis Riyadlul Jannah 2",
+      "host" : "Habib Umar",
+      "gambar" : "https://ia800300.us.archive.org/1/items/HabibUmarMuthohar/HabibUmarMuthohar.jpg",
+      "link_mp3" : "https://archive.org/download/HabibUmarMuthohar/2012-12-22HabibUmarAl-muthoharDiMajelisRiyadlulJannah.mp3",
+      "lirik" : "",
+      "durasi" : 28
+    },
+		    {
+      "id" : 6,
+      "judul" : "Habib Umar Muthohar, HUT kab. Batang ke 47",
+      "host" : "Habib Umar",
+      "gambar" : "https://ia800300.us.archive.org/1/items/HabibUmarMuthohar/HabibUmarMuthohar.jpg",
+      "link_mp3" : "https://archive.org/download/HabibUmarMuthohar/2013-04-06HabibUmarMuthoharHutKab.BatangKe47.mp3",
+      "lirik" : "",
+      "durasi" : 28
+    },
+		    {
+      "id" : 7,
+      "judul" : "Habib Umar Al-Muthohar, Maulid Nabi di Klidang Wetan Batang",
+      "host" : "Habib Umar",
+      "gambar" : "https://ia800300.us.archive.org/1/items/HabibUmarMuthohar/HabibUmarMuthohar.jpg",
+      "link_mp3" : "https://archive.org/download/HabibUmarMuthohar/2013-04-13HabibUmarAl-muthoharMaulidNabiDiKlidangWetanBatang.mp3",
+      "lirik" : "",
+      "durasi" : 28
+    },
+		    {
+      "id" : 8,
+      "judul" : "Habib Umar Al-Muthohar, Haul PP. Al Azhar, Kec. Turen - Kab. Malang",
+      "host" : "Habib Umar",
+      "gambar" : "https://ia800300.us.archive.org/1/items/HabibUmarMuthohar/HabibUmarMuthohar.jpg",
+      "link_mp3" : "https://archive.org/download/HabibUmarMuthohar/2013-06-22HabibUmarAl-muthoharHaulPp.AlAzharKec.Turen-Kab.Malang.mp3",
+      "lirik" : "",
+      "durasi" : 28
+    },
+		    {
+      "id" : 9,
+      "judul" : "Habib Umar Al-Muthohar, Halal Bi Halal dan HUT RI ke-68 di PCNU Pekalongan",
+      "host" : "Habib Umar",
+      "gambar" : "https://ia800300.us.archive.org/1/items/HabibUmarMuthohar/HabibUmarMuthohar.jpg",
+      "link_mp3" : "https://archive.org/download/HabibUmarMuthohar/2013-08-24HabibUmarAl-muthoharHalalBiHalalDanHutRiKe-68DiPcnuPekalongan.mp3",
+      "lirik" : "",
+      "durasi" : 28
+    },
+		    {
+      "id" : 10,
+      "judul" : "Habib Umar Al-Muthohar Bunut Wetan, Pakis",
+      "host" : "Habib Umar",
+      "gambar" : "https://ia800300.us.archive.org/1/items/HabibUmarMuthohar/HabibUmarMuthohar.jpg",
+      "link_mp3" : "https://archive.org/download/HabibUmarMuthohar/2013-11-02HabibUmarAl-muthoharBunutWetanPakis.mp3",
+      "lirik" : "",
+      "durasi" : 28
+    },
+		    {
+      "id" : 11,
+      "judul" : "Habib Umar Al-Muthohar, Maulid di Ponpes Darussalam Purworejo",
+      "host" : "Habib Umar",
+      "gambar" : "https://ia800300.us.archive.org/1/items/HabibUmarMuthohar/HabibUmarMuthohar.jpg",
+      "link_mp3" : "https://archive.org/download/HabibUmarMuthohar/2013HabibUmarAl-muthoharMaulidDiPonpesDarussalamPurworejo.mp3",
+      "lirik" : "",
+      "durasi" : 28
     }
   ]
 
