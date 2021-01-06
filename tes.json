@@ -32,7 +32,15 @@
 
         }
     ],
-
+	
+  "Category": [
+    {
+      "id" : 1,
+      "host" : "Habib Munzir",
+      "gambar" : "https://ia802909.us.archive.org/31/items/MR2011/Habib%20Munzir%20%282%29.jpg"
+    }
+  ],
+	
   "music": [
     {
       "id" : 1,
