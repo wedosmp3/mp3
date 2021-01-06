@@ -1,51 +1,49 @@
-{
-    "redirect":
-	[
+{ 
+    
+    "Iklan": [
         {
-		"url_utama": "file:///android_asset/music/playlist.html",
-
-
-    "inter_count": 5,
-		"enable_mp3": false,
-		"enable_strap": false,
-		"enable_strap_Splah": false,
-		"ads_on_exit_dialog": true,
-
-		"enable_Share_button": true,
-		"Share_TXT": "Supperr APPS Download Now",
-
-		"pengaturan_iklan": "0",
-		"json_popup_wait" : "Ready . . . .",
-
-
-		"exit_popup_dialog":
-		"Agar Kami lebih semangat mengembangkan Aplikasi ini \n\n Bantu kami dengan rating bingtang 5 ya :)",
-		"rate_button" : "Rate 5 Stars",
-		"later_button" : "Rate Later",
-		"more_button" : "Share Via WhatsApp",
-		"url_more_apps": "https://play.google.com/store/apps/developer?id=",
-
-
-		"startapp": "12345",
+        "status": "0",
+        "link": "https://play.google.com/store/apps/details?id=",
 
         "appid": "pub-3940256099942544",
         "admobappid": "ca-app-pub-3940256099942544~3347511713",
-		"bannerid": "ca-app-pub-3940256099942544/6300978111",
-		"interid": "ca-app-pub-3940256099942544/1033173712",
-		"nativeid": "ca-app-pub-3940256099942544/2247696110",
-
-		"hpk_alien": "",
-		"hpkadmob1": "",
-		"hpkadmob2": "",
-		"hpkadmob3": "",
-		"hpkadmob4": "",
-		"hpkadmob5": "",
+        "interid": "ca-app-pub-3940256099942544/1033173712",
+        "bannerid":"ca-app-pub-3940256099942544/6300978111",
+   
 
 
-		"fan_inter": "",
-		"fan_banner": "",
-		"fan_native": ""
+        "pengaturan_iklan":"1",
+        
+        "deskripsi_update": "Ini mah hanya contoh saja promosi iklan via json",
+        "link_update": "https://www.google.com/",
+        "version_app":1,
+        
+        "fan_inter":"YOUR_PLACEMENT_ID",
+        "fan_banner":"YOUR_PLACEMENT_ID",
+   
+   		"startappid":"123456789",
 
-		}
-    ]
+        "hpk_admob1":"",
+        "hpk_admob2":"",
+        "hpk_admob3":"",
+        "hpk_admob4":"",
+        "hpk_admob5":""
+  
+
+        }
+    ],
+
+  "music": [
+    {
+      "id" : 1,
+      "judul" : "Bagian dari iman",
+      "host" : "Habib Munzir",
+      "gambar" : "https://ia802909.us.archive.org/31/items/MR2011/Habib%20Munzir%20%282%29.jpg",
+      "link_mp3" : "https://archive.org/download/MR2011/60%20Bagian%20Dari%20Iman.mp3",
+      "lirik" : "",
+      "durasi" : 52
+    }
+  ]
+
+}
 }
