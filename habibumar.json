@@ -1,0 +1,84 @@
+{ 
+    
+    "Iklan": [
+        {
+        "status": "0",
+        "link": "https://play.google.com/store/apps/details?id=",
+
+        "appid": "",
+        "admobappid": "",
+        "interid": "",
+        "bannerid":"",
+   
+
+
+        "pengaturan_iklan":"0",
+        
+        "deskripsi_update": "",
+        "link_update": "",
+        "version_app":1,
+        
+        "fan_inter":"",
+        "fan_banner":"",
+   
+   		"startappid":"123456789",
+
+        "hpk_admob1":"",
+        "hpk_admob2":"",
+        "hpk_admob3":"",
+        "hpk_admob4":"",
+        "hpk_admob5":""
+  
+
+        }
+    ],
+	
+  "Category": [
+    {
+      "id" : 1,
+      "host" : "Habib Umar",
+      "gambar" : "https://ia800300.us.archive.org/1/items/HabibUmarMuthohar/HabibUmarMuthohar.jpg"
+    }
+  ],
+	
+  "music": [
+    {
+      "id" : 1,
+      "judul" : "Habib Umar Al-Muthohar, Haul Maqom Sarah",
+      "host" : "Habib Umar",
+      "gambar" : "https://ia800300.us.archive.org/1/items/HabibUmarMuthohar/HabibUmarMuthohar.jpg",
+      "link_mp3" : "https://archive.org/download/HabibUmarMuthohar/2009-04-15HabibUmarAl-muthoharHaulMaqomSarah.mp3",
+      "lirik" : "",
+      "durasi" : 28
+    },
+	    {
+      "id" : 2,
+      "judul" : "Habib Umar Muthohar, Maulid dan Haul Ponpes Miftahul Huda Pekalongan",
+      "host" : "Habib Umar",
+      "gambar" : "https://ia800300.us.archive.org/1/items/HabibUmarMuthohar/HabibUmarMuthohar.jpg",
+      "link_mp3" : "https://archive.org/download/HabibUmarMuthohar/2010HabibUmarMuthoharMaulidDanHaulPonpesMiftahulHudaPekalongan.mp3",
+      "lirik" : "",
+      "durasi" : 28
+    },
+	    {
+      "id" : 3,
+      "judul" : "Habib Umar Al-Muthohar, Halal Bi Halal di Singokerten, Batang",
+      "host" : "Habib Umar",
+      "gambar" : "https://ia800300.us.archive.org/1/items/HabibUmarMuthohar/HabibUmarMuthohar.jpg",
+      "link_mp3" : "https://archive.org/download/HabibUmarMuthohar/2011-09-08HabibUmarAl-muthoharHalalBiHalalDiSingokertenBatang.mp3",
+      "lirik" : "",
+      "durasi" : 28
+    },
+	    {
+      "id" : 4,
+      "judul" : "Habib Umar Al-Muthohar, Majelis Riyadhul Jannah",
+      "host" : "Habib Umar",
+      "gambar" : "https://ia800300.us.archive.org/1/items/HabibUmarMuthohar/HabibUmarMuthohar.jpg",
+      "link_mp3" : "https://archive.org/download/HabibUmarMuthohar/2012-02-14HabibUmarAl-muthoharMajelisRiyadhulJannah.mp3",
+      "lirik" : "",
+      "durasi" : 28
+    }
+  ]
+
+}
+}
