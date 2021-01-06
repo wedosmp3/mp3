@@ -42,6 +42,42 @@
       "link_mp3" : "https://archive.org/download/MR2011/60%20Bagian%20Dari%20Iman.mp3",
       "lirik" : "",
       "durasi" : 52
+    },
+	   {
+      "id" : 1,
+      "judul" : "Awal Kiblat ke Arah Ka'bah​",
+      "host" : "Habib Munzir",
+      "gambar" : "https://ia802909.us.archive.org/31/items/MR2011/Habib%20Munzir%20%282%29.jpg",
+      "link_mp3" : "https://archive.org/download/MR2011/Awal%20Kiblat%20Ke%20Arah%20Kabah.mp3",
+      "lirik" : "",
+      "durasi" : 52
+    },
+	   {
+      "id" : 1,
+      "judul" : "Baik-Buruknya Jasad Seseorang",
+      "host" : "Habib Munzir",
+      "gambar" : "https://ia802909.us.archive.org/31/items/MR2011/Habib%20Munzir%20%282%29.jpg",
+      "link_mp3" : "https://archive.org/download/MR2011/Baik-buruknya%20Jasad%20Seseorang.mp3",
+      "lirik" : "",
+      "durasi" : 52
+    },
+	   {
+      "id" : 1,
+      "judul" : "Diperlihatkannya Amal Manusia Setelah Wafat​",
+      "host" : "Habib Munzir",
+      "gambar" : "https://ia802909.us.archive.org/31/items/MR2011/Habib%20Munzir%20%282%29.jpg",
+      "link_mp3" : "https://archive.org/download/MR2011/Diperlihatkannya%20Amal%20Manusia%20Setelah%20Wafat.mp3",
+      "lirik" : "",
+      "durasi" : 52
+    },
+	   {
+      "id" : 1,
+      "judul" : "Diperlihatkannya Tempat Manusia Setelah Wafat",
+      "host" : "Habib Munzir",
+      "gambar" : "https://ia802909.us.archive.org/31/items/MR2011/Habib%20Munzir%20%282%29.jpg",
+      "link_mp3" : "https://archive.org/download/MR2011/Diperlihatkannya%20Tempat%20Manusia%20Setelah%20Wafat.mp3",
+      "lirik" : "",
+      "durasi" : 52
     }
   ]
 
