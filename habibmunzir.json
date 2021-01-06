@@ -1,0 +1,49 @@
+{ 
+    
+    "Iklan": [
+        {
+        "status": "0",
+        "link": "https://play.google.com/store/apps/details?id=",
+
+        "appid": "pub-3940256099942544",
+        "admobappid": "ca-app-pub-3940256099942544~3347511713",
+        "interid": "ca-app-pub-3940256099942544/1033173712",
+        "bannerid":"ca-app-pub-3940256099942544/6300978111",
+   
+
+
+        "pengaturan_iklan":"1",
+        
+        "deskripsi_update": "Ini mah hanya contoh saja promosi iklan via json",
+        "link_update": "https://www.google.com/",
+        "version_app":1,
+        
+        "fan_inter":"YOUR_PLACEMENT_ID",
+        "fan_banner":"YOUR_PLACEMENT_ID",
+   
+   		"startappid":"123456789",
+
+        "hpk_admob1":"",
+        "hpk_admob2":"",
+        "hpk_admob3":"",
+        "hpk_admob4":"",
+        "hpk_admob5":""
+  
+
+        }
+    ],
+
+  "music": [
+    {
+      "id" : 1,
+      "judul" : "Bagian dari iman",
+      "host" : "Habib Munzir",
+      "gambar" : "https://ia802909.us.archive.org/31/items/MR2011/Habib%20Munzir%20%282%29.jpg",
+      "link_mp3" : "https://archive.org/download/MR2011/60%20Bagian%20Dari%20Iman.mp3",
+      "lirik" : "",
+      "durasi" : 52
+    }
+  ]
+
+}
+}
