@@ -38,6 +38,11 @@
       "id" : 1,
       "host" : "Habib Munzir",
       "gambar" : "https://ia802909.us.archive.org/31/items/MR2011/Habib%20Munzir%20%282%29.jpg"
+    },
+    {
+      "id" : 1,
+      "host" : "Habib Umar Al-Muthohar",
+      "gambar" : "https://ia800300.us.archive.org/1/items/HabibUmarMuthohar/HabibUmarMuthohar.jpg"
     }
   ],
 	
@@ -84,6 +89,15 @@
       "host" : "Habib Munzir",
       "gambar" : "https://ia802909.us.archive.org/31/items/MR2011/Habib%20Munzir%20%282%29.jpg",
       "link_mp3" : "https://archive.org/download/MR2011/Diperlihatkannya%20Tempat%20Manusia%20Setelah%20Wafat.mp3",
+      "lirik" : "",
+      "durasi" : 52
+    },
+	{
+      "id" : 1,
+      "judul" : "Habib Umar Al-Muthohar, Maulid di Ponpes Darussalam Purworejo",
+      "host" : "Habib Umar Al-Muthohar",
+      "gambar" : "https://ia800300.us.archive.org/1/items/HabibUmarMuthohar/HabibUmarMuthohar.jpg",
+      "link_mp3" : "https://archive.org/download/HabibUmarMuthohar/2013HabibUmarAl-muthoharMaulidDiPonpesDarussalamPurworejo.mp3",
       "lirik" : "",
       "durasi" : 52
     }
