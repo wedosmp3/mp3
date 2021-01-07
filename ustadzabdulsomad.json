@@ -1,0 +1,84 @@
+{ 
+    
+    "Iklan": [
+        {
+        "status": "0",
+        "link": "https://play.google.com/store/apps/details?id=",
+
+        "appid": "",
+        "admobappid": "",
+        "interid": "",
+        "bannerid":"",
+   
+
+
+        "pengaturan_iklan":"0",
+        
+        "deskripsi_update": "",
+        "link_update": "",
+        "version_app":1,
+        
+        "fan_inter":"",
+        "fan_banner":"",
+   
+   		"startappid":"123456789",
+
+        "hpk_admob1":"",
+        "hpk_admob2":"",
+        "hpk_admob3":"",
+        "hpk_admob4":"",
+        "hpk_admob5":""
+  
+
+        }
+    ],
+	
+  "Category": [
+    {
+      "id" : 1,
+      "host" : "Ustadz Abdul Somad",
+      "gambar" : "C:\Users\name1337\Downloads\abdulsomad.jpg"
+    }
+  ],
+	
+  "music": [
+    {
+      "id" : 1,
+      "judul" : "1. Tips Yang Ingin Berhijrah - Ust. Abdul Somad, Lc. MA",
+      "host" : "Ustadz Abdul Somad",
+      "gambar" : "C:\Users\name1337\Downloads\abdulsomad.jpg",
+      "link_mp3" : "https://archive.org/download/CeramahUstadzAbdulSomad/3%20Tips%20Yang%20Ingin%20Berhijrah%20-%20Ust.%20Abdul%20Somad%2C%20Lc.%20MA.mp3",
+      "lirik" : "",
+      "durasi" : 50
+    },
+	    {
+      "id" : 2,
+      "judul" : "2. Rahasia Ketenangan Hati - Ust. Abdul Somad, Lc. MA",
+      "host" : "Ustadz Abdul Somad",
+      "gambar" : "C:\Users\name1337\Downloads\abdulsomad.jpg",
+      "link_mp3" : "https://archive.org/download/CeramahUstadzAbdulSomad/4%20Rahasia%20Ketenangan%20Hati%20-%20Ust.%20Abdul%20Somad%2C%20Lc.%20MA.mp3",
+      "lirik" : "",
+      "durasi" : 40
+    },
+	    {
+      "id" : 3,
+      "judul" : "3. Hal Penting Hidup di Usia 18 Tahun - Ust. Abdul Somad, Lc. MA",
+      "host" : "Ustadz Abdul Somad",
+      "gambar" : "C:\Users\name1337\Downloads\abdulsomad.jpg",
+      "link_mp3" : "https://archive.org/download/CeramahUstadzAbdulSomad/5%20Hal%20Penting%20Hidup%20di%20Usia%2018%20Tahun%20-%20Ust.%20Abdul%20Somad%2C%20Lc.%20MA.mp3",
+      "lirik" : "",
+      "durasi" : 59
+    },
+	    {
+      "id" : 4,
+      "judul" : "4. Tanda kiamat yang telah muncul di Indonesia - Ust. Abdul Somad, Lc. MA",
+      "host" : "Ustadz Abdul Somad",
+      "gambar" : "C:\Users\name1337\Downloads\abdulsomad.jpg",
+      "link_mp3" : "https://archive.org/download/CeramahUstadzAbdulSomad/6%20Tanda%20kiamat%20yang%20telah%20muncul%20di%20Indonesia%20-%20Ust.%20Abdul%20Somad%2C%20Lc.%20MA.mp3",
+      "lirik" : "",
+      "durasi" : 22
+    }
+  ]
+
+}
+}
