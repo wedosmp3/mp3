@@ -221,52 +221,8 @@
       "link_mp3" : "https://archive.org/download/CeramahUstadzAbdulSomad/Siapakah%20Orang%20Alim%20yang%20Munafik%20%D8%9F%20-%20Ustadz%20Abdul%20Somad%20Lc%20%2C%20MA.mp3",
       "lirik" : "",
       "durasi" : 57
-    },
-		{
-      "id" : 21,
-      "judul" : "21. Untuk Wanita - Ustad Abdul Somad Lc, MA",
-      "host" : "Ustadz Abdul Somad",
-      "gambar" : "",
-      "link_mp3" : "https://archive.org/download/CeramahUstadzAbdulSomad/Untuk%20Wanita%20-%20Ustad%20Abdul%20Somad%20Lc%2C%20MA.mp3",
-      "lirik" : "",
-      "durasi" : 43
-    },
-		{
-      "id" : 22,
-      "judul" : "22. Ustadz Abdul Somad   Pengampunan Dosa",
-      "host" : "Ustadz Abdul Somad",
-      "gambar" : "",
-      "link_mp3" : "https://archive.org/download/CeramahUstadzAbdulSomad/Ustadz%20Abdul%20Somad%20%20%20Pengampunan%20Dosa.mp3",
-      "lirik" : "",
-      "durasi" : 23
-    },
-		{
-      "id" : 23,
-      "judul" : "23. Masalah 4: Bolehkah Sholat Tahajud Setelah Witir? - Ustadz Abdul Somad, Lc. MA",
-      "host" : "Ustadz Abdul Somad",
-      "gambar" : "",
-      "link_mp3" : "https://archive.org/download/ustadzabdulsomad2/Masalah%204%20Bolehkah%20Sholat%20Tahajud%20Setelah%20Witir%20-%20Ustadz%20Abdul%20Somad%2C%20Lc.%20MA.mp3",
-      "lirik" : "",
-      "durasi" : 05
-    },
-		{
-      "id" : 24,
-      "judul" : "24. Menghidupkan Al-Quran di Hidup Kita - Ustadz Abdul Somad, Lc MA"",
-      "host" : "Ustadz Abdul Somad",
-      "gambar" : "",
-      "link_mp3" : "https://archive.org/download/ustadzabdulsomad2/Menghidupkan%20Al-Quran%20di%20Hidup%20Kita%20-%20Ustadz%20Abdul%20Somad%2C%20Lc%20MA.mp3",
-      "lirik" : "",
-      "durasi" : 52
-    },
-		{
-      "id" : 25,
-      "judul" : "25. Mengapa Allah Sisakan Kaum Israel (362017) - Ustadz Abdul Somad, Lc MA",
-      "host" : "Ustadz Abdul Somad",
-      "gambar" : "",
-      "link_mp3" : "https://archive.org/download/ustadzabdulsomad2/Mengapa%20Allah%20Sisakan%20Kaum%20Israel%20%28362017%29%20-%20Ustadz%20Abdul%20Somad%2C%20Lc%20MA.mp3",
-      "lirik" : "",
-      "durasi" : 44
     }
+	  
   ]
 
 }
