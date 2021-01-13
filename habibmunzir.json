@@ -53,7 +53,7 @@
       "host" : "Ceramah Habib Munzir",
       "gambar" : "https://ia802909.us.archive.org/31/items/MR2011/Habib%20Munzir%20%282%29.jpg",
       "link_mp3" : "https://archive.org/download/MR2011/60%20Bagian%20Dari%20Iman.mp3",
-      "lirik" : "",
+      "lirik" : "Bismillah",
       "durasi" : 28
     },
 			{
@@ -62,12 +62,12 @@
       "host" : "Ceramah Habib Munzir",
       "gambar" : "https://ia802909.us.archive.org/31/items/MR2011/Habib%20Munzir%20%282%29.jpg",
       "link_mp3" : "https://archive.org/download/MR2011/Awal%20Kiblat%20Ke%20Arah%20Kabah.mp3",
-      "lirik" : "",
+      "lirik" : "Assalamualaikum",
       "durasi" : 28
     },
 	    {
       "id" : 1,
-      "judul" : "Habib Umar Muthohar, Maulid dan Haul Ponpes Miftahul Huda Pekalongan",
+      "judul" : "1. Habib Umar Muthohar, Maulid dan Haul Ponpes Miftahul Huda Pekalongan",
       "host" : "Habib Umar",
       "gambar" : "https://ia800300.us.archive.org/1/items/HabibUmarMuthohar/HabibUmarMuthohar.jpg",
       "link_mp3" : "https://archive.org/download/HabibUmarMuthohar/2010HabibUmarMuthoharMaulidDanHaulPonpesMiftahulHudaPekalongan.mp3",
@@ -76,7 +76,7 @@
     },
 	    {
       "id" : 2,
-      "judul" : "Habib Umar Al-Muthohar, Halal Bi Halal di Singokerten, Batang",
+      "judul" : "2. Habib Umar Al-Muthohar, Halal Bi Halal di Singokerten, Batang",
       "host" : "Habib Umar",
       "gambar" : "https://ia800300.us.archive.org/1/items/HabibUmarMuthohar/HabibUmarMuthohar.jpg",
       "link_mp3" : "https://archive.org/download/HabibUmarMuthohar/2011-09-08HabibUmarAl-muthoharHalalBiHalalDiSingokertenBatang.mp3",
