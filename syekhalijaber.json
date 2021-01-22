@@ -1,0 +1,57 @@
+{ 
+    
+    "Iklan": [
+        {
+        "status": "0",
+        "link": "https://play.google.com/store/apps/details?id=",
+
+        "appid": "",
+        "admobappid": "",
+        "interid": "",
+        "bannerid":"",
+   
+
+
+        "pengaturan_iklan":"0",
+        
+        "deskripsi_update": "",
+        "link_update": "",
+        "version_app":1,
+        
+        "fan_inter":"",
+        "fan_banner":"",
+   
+   		"startappid":"123456789",
+
+        "hpk_admob1":"",
+        "hpk_admob2":"",
+        "hpk_admob3":"",
+        "hpk_admob4":"",
+        "hpk_admob5":""
+  
+
+        }
+    ],
+	
+  "Category": [
+    {
+      "id" : 1,
+      "host" : "Ceramah Syekh Ali Jaber",
+      "gambar" : "https://cdn.idntimes.com/content-images/post/20200913/unnamed-900x675-bd2b9daede45a4728e861594b00cf7a0_600x400.jpg"
+    }
+  ],
+	
+  "music": [
+    {
+      "id" : 1,
+      "judul" : "1. Amalan Agar Hidup Tidak Merugi",
+      "host" : "Ceramah Syekh Ali Jaber",
+      "gambar" : "https://kanalberita.co/wp-content/uploads/2020/09/Profil-Lengkap-Syekh-Ali-Jaber-750x450-1-696x418.png",
+      "link_mp3" : "https://archive.org/download/Ceramah-Syaikh-Ali-Jaber-Indonesia/3%20Amalan%20Agar%20Hidup%20Tidak%20Merugi%20-%20Ceramah%20Syekh%20Ali%20Jaber.mp3",
+      "lirik" : "",
+      "durasi" : 46
+    }
+  ]
+
+}
+}
