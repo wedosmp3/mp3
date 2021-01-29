@@ -1,0 +1,210 @@
+{ 
+    
+    "Iklan": [
+        {
+        "status": "0",
+        "link": "https://play.google.com/store/apps/details?id=",
+
+        "appid": "",
+        "admobappid": "",
+        "interid": "",
+        "bannerid":"",
+   
+
+
+        "pengaturan_iklan":"0",
+        
+        "deskripsi_update": "",
+        "link_update": "",
+        "version_app":1,
+        
+        "fan_inter":"",
+        "fan_banner":"",
+   
+   		"startappid":"123456789",
+
+        "hpk_admob1":"",
+        "hpk_admob2":"",
+        "hpk_admob3":"",
+        "hpk_admob4":"",
+        "hpk_admob5":""
+  
+
+        }
+    ],
+	
+  "Category": [
+    {
+      "id" : 1,
+      "host" : "Ceramah Gus Baha",
+      "gambar" : "https://www.laduni.id/panel/themes/default/uploads/post/Screenshot_20200209-182303_Gallery.jpg"
+    }
+  ],
+	
+  "music": [
+    {
+      "id" : 1,
+      "judul" : "1. Cara Mendidik Anak Yang Baik",
+      "host" : "Ceramah Gus Baha",
+      "gambar" : "https://iqra.id/wp-content/uploads/2020/07/Gus-Baha-ngaji.jpg",
+      "link_mp3" : "https://archive.org/download/gus-baha-terbaru-2020/Gus%20Baha%20%20Cara%20Mendidik%20Anak%20Yang%20Baik.mp3",
+      "lirik" : "",
+      "durasi" : 46
+    },
+		{
+      "id" : 2,
+      "judul" : "2. Bolehkah Menerima Pemberian Orang Kafir?",
+      "host" : "Ceramah Gus Baha",
+      "gambar" : "https://iqra.id/wp-content/uploads/2020/07/Gus-Baha-ngaji.jpg",
+      "link_mp3" : "https://archive.org/download/gus-baha-terbaru-2020/Gus%20Baha%20%20Bolehkah%20Menerima%20Pemberian%20Orang%20Kafir%20%28Terjemah%20Indonesia%29.mp3",
+      "lirik" : "",
+      "durasi" : 
+    },
+		{
+      "id" : 3,
+      "judul" : "3. Alasan Kenapa Nabi Poligami",
+      "host" : "Ceramah Gus Baha",
+      "gambar" : "https://iqra.id/wp-content/uploads/2020/07/Gus-Baha-ngaji.jpg",
+      "link_mp3" : "https://archive.org/download/gus-baha-terbaru-2020/Gus%20Baha%20%20Alasan%20Kenapa%20Nabi%20Poligami%20%28Terjemah%20Indonesia%29.mp3",
+      "lirik" : "",
+      "durasi" : 01.16
+    },
+		{
+      "id" : 4,
+      "judul" : "4. Apakah Boleh Berbohong?",
+      "host" : "Ceramah Gus Baha",
+      "gambar" : "https://iqra.id/wp-content/uploads/2020/07/Gus-Baha-ngaji.jpg",
+      "link_mp3" : "https://archive.org/download/gus-baha-terbaru-2020/Gus%20Baha%20%20Apakah%20Boleh%20Berbohong%20%5BTerjemah%20Indonesia%5D.mp3",
+      "lirik" : "",
+      "durasi" : 01.16
+    },
+		{
+      "id" : 5,
+      "judul" : "5. Bumi Datar Atau Bulat?",
+      "host" : "Ceramah Gus Baha",
+      "gambar" : "https://iqra.id/wp-content/uploads/2020/07/Gus-Baha-ngaji.jpg",
+      "link_mp3" : "https://archive.org/download/gus-baha-terbaru-2020/Bumi%20Datar%20Atau%20Bulat%20%20%20Gus%20Baha%20Terjemah%20Indonesia.mp3",
+      "lirik" : "",
+      "durasi" : 01.16
+    },
+		{
+      "id" : 6,
+      "judul" : "6. Asal-Usul Najisnya Hewan Anjing",
+      "host" : "Ceramah Gus Baha",
+      "gambar" : "https://iqra.id/wp-content/uploads/2020/07/Gus-Baha-ngaji.jpg",
+      "link_mp3" : "https://archive.org/download/gus-baha-terbaru-2020/ASAL-USUL%20NAJISNYA%20ANJING%20%20%20Ngaji%20Online%20Gus%20Baha%27.mp3",
+      "lirik" : "",
+      "durasi" : 01.16
+    },
+		{
+      "id" : 7,
+      "judul" : "7. Hidup Itu Yang Ceria",
+      "host" : "Ceramah Gus Baha",
+      "gambar" : "https://iqra.id/wp-content/uploads/2020/07/Gus-Baha-ngaji.jpg",
+      "link_mp3" : "https://archive.org/download/gus-baha-terbaru-2020/Gus%20Baha%20%20Hidup%20Itu%20Yang%20Ceria.mp3",
+      "lirik" : "",
+      "durasi" : 01.16
+    },
+		{
+      "id" : 8,
+      "judul" : "8. Kedahsyatan Kiamat",
+      "host" : "Ceramah Gus Baha",
+      "gambar" : "https://iqra.id/wp-content/uploads/2020/07/Gus-Baha-ngaji.jpg",
+      "link_mp3" : "https://archive.org/download/gus-baha-terbaru-2020/Gus%20Baha%20%20Kedahsyatan%20Kiamat.mp3",
+      "lirik" : "",
+      "durasi" : 01.16
+    },
+		{
+      "id" : 9,
+      "judul" : "9. Orang Tidur yang Ditakuti Setan Daripada Orang Sholat",
+      "host" : "Ceramah Gus Baha",
+      "gambar" : "https://iqra.id/wp-content/uploads/2020/07/Gus-Baha-ngaji.jpg",
+      "link_mp3" : "https://archive.org/download/gus-baha-terbaru-2020/Gus%20Baha%20%20Orang%20Tidur%20yang%20Ditakuti%20Setan%20Daripada%20Orang%20Sholat%20%5BTerjemah%20Indonesia%5D.mp3",
+      "lirik" : "",
+      "durasi" : 01.16
+    },
+		{
+      "id" : 10,
+      "judul" : "10. Sarana Kesalehan Ditangan Orang Tidak Soleh Bahaya",
+      "host" : "Ceramah Gus Baha",
+      "gambar" : "https://iqra.id/wp-content/uploads/2020/07/Gus-Baha-ngaji.jpg",
+      "link_mp3" : "https://archive.org/download/gus-baha-terbaru-2020/Gus%20Baha%20%20Sarana%20Kesalehan%20Ditangan%20Orang%20Tidak%20Soleh%20Bahaya%20%5BTerjemah%20Indonesia%5D.mp3",
+      "lirik" : "",
+      "durasi" : 01.16
+    },
+		{
+      "id" : 11,
+      "judul" : "11. Sembahlah Allah Walau Caramu Salah",
+      "host" : "Ceramah Gus Baha",
+      "gambar" : "https://iqra.id/wp-content/uploads/2020/07/Gus-Baha-ngaji.jpg",
+      "link_mp3" : "https://archive.org/download/gus-baha-terbaru-2020/Gus%20Baha%20%20Sembahlah%20Allah%20Walau%20Caramu%20Salah%20%5BTerjemah%20Indonesia%5D.mp3",
+      "lirik" : "",
+      "durasi" : 01.16
+    },
+		{
+      "id" : 12,
+      "judul" : "12. Hukum Shalat Jumat Kurang Dari 40 Orang",
+      "host" : "Ceramah Gus Baha",
+      "gambar" : "https://iqra.id/wp-content/uploads/2020/07/Gus-Baha-ngaji.jpg",
+      "link_mp3" : "https://archive.org/download/gus-baha-terbaru-2020/Gus%20Baha%20-%20Hukum%20Shalat%20Jumat%20Kurang%20Dari%2040%20Orang%20%20%20Episode%2020.mp3",
+      "lirik" : "",
+      "durasi" : 01.16
+    },
+		{
+      "id" : 13,
+      "judul" : "13. Hukum Rokok",
+      "host" : "Ceramah Gus Baha",
+      "gambar" : "https://iqra.id/wp-content/uploads/2020/07/Gus-Baha-ngaji.jpg",
+      "link_mp3" : "https://archive.org/download/gus-baha-terbaru-2020/Hukum%20Rokok%20%20%20Gus%20Baha%20Terjemah%20Indonesia.mp3",
+      "lirik" : "",
+      "durasi" : 01.16
+    },
+		{
+      "id" : 14,
+      "judul" : "14. Jangan Menganggap Istrimu Belahan Jiwamu",
+      "host" : "Ceramah Gus Baha",
+      "gambar" : "https://iqra.id/wp-content/uploads/2020/07/Gus-Baha-ngaji.jpg",
+      "link_mp3" : "https://archive.org/download/gus-baha-terbaru-2020/Jangan%20Menganggap%20Istrimu%20Belahan%20Jiwamu%20%20%20Gus%20Baha.mp3",
+      "lirik" : "",
+      "durasi" : 01.16
+    },
+		{
+      "id" : 15,
+      "judul" : "15. Kirim Doa Ke Mayit Tidak Sampai?",
+      "host" : "Ceramah Gus Baha",
+      "gambar" : "https://iqra.id/wp-content/uploads/2020/07/Gus-Baha-ngaji.jpg",
+      "link_mp3" : "https://archive.org/download/gus-baha-terbaru-2020/Kirim%20Doa%20Ke%20Mayit%20Tidak%20Sampai%20%20%20Gus%20Baha%20Terjemah%20Indonesia.mp3",
+      "lirik" : "",
+      "durasi" : 01.16
+    },
+		{
+      "id" : 16,
+      "judul" : "16. Kisah Sahabat Yang Gemar Mabuk",
+      "host" : "Ceramah Gus Baha",
+      "gambar" : "https://iqra.id/wp-content/uploads/2020/07/Gus-Baha-ngaji.jpg",
+      "link_mp3" : "https://archive.org/download/gus-baha-terbaru-2020/Kisah%20Sahabat%20Yang%20Gemar%20Mabuk%20-%20Gus%20Baha.mp3",
+      "lirik" : "",
+      "durasi" : 01.16
+    },
+		{
+      "id" : 17,
+      "judul" : "17. Masuk Surga Bukan Karena Amal",
+      "host" : "Ceramah Gus Baha",
+      "gambar" : "https://iqra.id/wp-content/uploads/2020/07/Gus-Baha-ngaji.jpg",
+      "link_mp3" : "https://archive.org/download/gus-baha-terbaru-2020/Masuk%20Surga%20Bukan%20Karena%20Amal%20%20%20Gus%20Baha%20Terjemah%20Indonesia.mp3",
+      "lirik" : "",
+      "durasi" : 01.16
+    },
+		{
+      "id" : 18,
+      "judul" : "18. Menurut Saya Resepsi Nikah Itu Haram",
+      "host" : "Ceramah Gus Baha",
+      "gambar" : "https://iqra.id/wp-content/uploads/2020/07/Gus-Baha-ngaji.jpg",
+      "link_mp3" : "https://archive.org/download/gus-baha-terbaru-2020/Menurut%20Saya%20Resepsi%20Nikah%20Itu%20Haram%20%20%20Gus%20Baha.mp3",
+      "lirik" : "",
+      "durasi" : 01.16
+    }
+  ]
+
+}
+}
