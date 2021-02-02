@@ -203,6 +203,116 @@
       "link_mp3" : "https://archive.org/download/gus-baha-terbaru-2020/Menurut%20Saya%20Resepsi%20Nikah%20Itu%20Haram%20%20%20Gus%20Baha.mp3",
       "lirik" : "",
       "durasi" : 09
+    },
+		{
+      "id" : 19,
+      "judul" : "19. Ruh Tidak Pernah Mati",
+      "host" : "Ceramah Gus Baha",
+      "gambar" : "https://iqra.id/wp-content/uploads/2020/07/Gus-Baha-ngaji.jpg",
+      "link_mp3" : "https://archive.org/download/gus-baha-terbaru-2020/Ruh%20Tidak%20Pernah%20Mati%20%20%20Gus%20Baha%20Terjemah%20Indonesia.mp3",
+      "lirik" : "",
+      "durasi" : 10
+    },
+		{
+      "id" : 20,
+      "judul" : "20. Penyesatan Setan Melalui Ibadah",
+      "host" : "Ceramah Gus Baha",
+      "gambar" : "https://iqra.id/wp-content/uploads/2020/07/Gus-Baha-ngaji.jpg",
+      "link_mp3" : "https://archive.org/download/gus-baha-terbaru-2020/Penyesatan%20Setan%20Melalui%20Ibadah%20%20%20Gus%20Baha%20Terjemah%20Indonesia.mp3",
+      "lirik" : "",
+      "durasi" : 14
+    },
+		{
+      "id" : 21,
+      "judul" : "21. Qodo' Qodar Allah",
+      "host" : "Ceramah Gus Baha",
+      "gambar" : "https://iqra.id/wp-content/uploads/2020/07/Gus-Baha-ngaji.jpg",
+      "link_mp3" : "https://archive.org/download/gus-baha-terbaru-2020/Qodo%27%20Qodar%20Allah%20%20%20Gus%20Baha%20Terjemah%20Indonesia.mp3",
+      "lirik" : "",
+      "durasi" : 05
+    },
+		{
+      "id" : 22,
+      "judul" : "22. Orang Sholeh Pasif Juga Salah",
+      "host" : "Ceramah Gus Baha",
+      "gambar" : "https://iqra.id/wp-content/uploads/2020/07/Gus-Baha-ngaji.jpg",
+      "link_mp3" : "https://archive.org/download/gus-baha-terbaru-2020/Orang%20Sholeh%20Pasif%20Juga%20Salah%20%20%20Gus%20Baha.mp3",
+      "lirik" : "",
+      "durasi" : 08
+    },
+		{
+      "id" : 23,
+      "judul" : "23. Nabi Saja Tak Perlu di Bela, Apalagi Allah",
+      "host" : "Ceramah Gus Baha",
+      "gambar" : "https://iqra.id/wp-content/uploads/2020/07/Gus-Baha-ngaji.jpg",
+      "link_mp3" : "https://archive.org/download/gus-baha-terbaru-2020/Nabi%20Saja%20Tak%20Perlu%20di%20Bela%2C%20Apalagi%20Allah%20%20%20Ngaji%20Gus%20Baha.mp3",
+      "lirik" : "",
+      "durasi" : 12
+    },
+		{
+      "id" : 24,
+      "judul" : "24. Masuk Surga Bukan Karena Amal",
+      "host" : "Ceramah Gus Baha",
+      "gambar" : "https://iqra.id/wp-content/uploads/2020/07/Gus-Baha-ngaji.jpg",
+      "link_mp3" : "https://archive.org/download/gus-baha-terbaru-2020/Masuk%20Surga%20Bukan%20Karena%20Amal%20%20%20Gus%20Baha%20Terjemah%20Indonesia.mp3",
+      "lirik" : "",
+      "durasi" : 04
+    },
+		{
+      "id" : 25,
+      "judul" : "25. Pentingnya Ghiroh Islam",
+      "host" : "Ceramah Gus Baha",
+      "gambar" : "https://iqra.id/wp-content/uploads/2020/07/Gus-Baha-ngaji.jpg",
+      "link_mp3" : "https://archive.org/download/gus-baha-terbaru-2020/Pentingnya%20Ghiroh%20Islam%20%20%20Gus%20Baha%20Terjemah%20Indonesia.mp3",
+      "lirik" : "",
+      "durasi" : 08
+    },
+		{
+      "id" : 26,
+      "judul" : "26. semua ulama klo ditanya nabi pertama pasti Nuh bkn adam",
+      "host" : "Ceramah Gus Baha",
+      "gambar" : "https://iqra.id/wp-content/uploads/2020/07/Gus-Baha-ngaji.jpg",
+      "link_mp3" : "https://archive.org/download/gus-baha-terbaru-2020/Gus%20Baha%20-%20semua%20ulama%20klo%20ditanya%20nabi%20pertama%20pasti%20Nuh%20bkn%20adam.mp3",
+      "lirik" : "",
+      "durasi" : 10
+    },
+		{
+      "id" : 27,
+      "judul" : "27. Hukum Shalat Jumat Kurang Dari 40 Orang",
+      "host" : "Ceramah Gus Baha",
+      "gambar" : "https://iqra.id/wp-content/uploads/2020/07/Gus-Baha-ngaji.jpg",
+      "link_mp3" : "https://archive.org/download/gus-baha-terbaru-2020/Gus%20Baha%20-%20Hukum%20Shalat%20Jumat%20Kurang%20Dari%2040%20Orang%20%20%20Episode%2020.mp3",
+      "lirik" : "",
+      "durasi" : 10
+    },
+		{
+      "id" : 28,
+      "judul" : "28. Hukum Rajam bagi orang yang berzina",
+      "host" : "Ceramah Gus Baha",
+      "gambar" : "https://iqra.id/wp-content/uploads/2020/07/Gus-Baha-ngaji.jpg",
+      "link_mp3" : "https://archive.org/download/gus-baha-terbaru-2020/Gus%20Baha%27%20Hukum%20Rajam%20bagi%20orang%20yang%20berzina.mp3",
+      "lirik" : "",
+      "durasi" : 08
+    }
+	,
+		{
+      "id" : 29,
+      "judul" : "29. Jihad atau Mayoritas",
+      "host" : "Ceramah Gus Baha",
+      "gambar" : "https://iqra.id/wp-content/uploads/2020/07/Gus-Baha-ngaji.jpg",
+      "link_mp3" : "https://archive.org/download/gus-baha-terbaru-2020/Jihad%20atau%20Mayoritas%20%20%20Ngaji%20Gus%20Baha.mp3",
+      "lirik" : "",
+      "durasi" : 15
+    }
+	,
+		{
+      "id" : 30,
+      "judul" : "30. Do'a yan saya dapat dari Nabi Khidir",
+      "host" : "Ceramah Gus Baha",
+      "gambar" : "https://iqra.id/wp-content/uploads/2020/07/Gus-Baha-ngaji.jpg",
+      "link_mp3" : "https://archive.org/download/gus-baha-terbaru-2020/19%23%20Ngaji%20Gus%20Baha%20%20Do%27a%20yan%20saya%20dapat%20dari%20Nabi%20Khidir%20%20%20Terejemah%20Indonesia.mp3",
+      "lirik" : "",
+      "durasi" : 12
     }
   ]
 
