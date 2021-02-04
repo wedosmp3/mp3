@@ -64,8 +64,10 @@
       "link_mp3" : "https://archive.org/download/HabibUmarMuthohar/2010HabibUmarMuthoharMaulidDanHaulPonpesMiftahulHudaPekalongan.mp3",
       "lirik" : "",
       "durasi" : 28
-    },
-	  {
+    }
+	  ],  
+  "music": [
+    {
       "id" : 1,
       "judul" : "1. Cara Mendidik Anak Yang Baik",
       "host" : "Ceramah Gus Baha",
