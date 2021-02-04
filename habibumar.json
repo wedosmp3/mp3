@@ -64,8 +64,8 @@
       "link_mp3" : "https://archive.org/download/HabibUmarMuthohar/2010HabibUmarMuthoharMaulidDanHaulPonpesMiftahulHudaPekalongan.mp3",
       "lirik" : "",
       "durasi" : 28
-    }
-	{
+    },
+	  {
       "id" : 1,
       "judul" : "1. Cara Mendidik Anak Yang Baik",
       "host" : "Ceramah Gus Baha",
@@ -74,7 +74,7 @@
       "lirik" : "",
       "durasi" : 10
     },
-		{
+	  {
       "id" : 2,
       "judul" : "2. Bolehkah Menerima Pemberian Orang Kafir?",
       "host" : "Ceramah Gus Baha",
