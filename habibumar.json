@@ -47,6 +47,7 @@
   ],
 	
   "music": [
+	[
     {
       "id" : 1,
       "judul" : "Habib Umar Al-Muthohar, Haul Maqom Sarah",
@@ -64,8 +65,9 @@
       "link_mp3" : "https://archive.org/download/HabibUmarMuthohar/2010HabibUmarMuthoharMaulidDanHaulPonpesMiftahulHudaPekalongan.mp3",
       "lirik" : "",
       "durasi" : 28
-    }
-	  ],  
+    },
+	  ],
+	    
   "music": [
     {
       "id" : 1,
@@ -85,6 +87,7 @@
       "lirik" : "",
       "durasi" : 13
     }
+	  ]
   ]
 
 }
