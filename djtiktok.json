@@ -43,7 +43,23 @@
       "id" : 2,
       "host" : "Dj Koplo Viral",
       "gambar" : "https://archive.org/download/dj-tiktok/DJ%20TIKTOKS.png"
+    },
+		{
+      "id" : 3,
+      "host" : "Dj Koplo Viral",
+      "gambar" : "https://archive.org/download/dj-tiktok/DJ%20TIKTOKS.png"
+    },
+		{
+      "id" : 4,
+      "host" : "Dj Koplo Viral",
+      "gambar" : "https://archive.org/download/dj-tiktok/DJ%20TIKTOKS.png"
+    },
+		{
+      "id" : 5,
+      "host" : "Dj Koplo Viral",
+      "gambar" : "https://archive.org/download/dj-tiktok/DJ%20TIKTOKS.png"
     }
+    
   ],
 	
   "music": [
