@@ -1,0 +1,144 @@
+{ 
+    
+    "Iklan": [
+        {
+        "status": "0",
+        "link": "https://play.google.com/store/apps/details?id=",
+
+        "appid": "",
+        "admobappid": "",
+        "interid": "",
+        "bannerid":"",
+   
+
+
+        "pengaturan_iklan":"0",
+        
+        "deskripsi_update": "",
+        "link_update": "",
+        "version_app":1,
+        
+        "fan_inter":"",
+        "fan_banner":"",
+   
+   		"startappid":"123456789",
+
+        "hpk_admob1":"",
+        "hpk_admob2":"",
+        "hpk_admob3":"",
+        "hpk_admob4":"",
+        "hpk_admob5":""
+  
+
+        }
+    ],
+	
+  "Category": [
+    {
+      "id" : 1,
+      "host" : "Dj Tik-Tok Viral",
+      "gambar" : "https://archive.org/download/dj-tiktok/DJ%20TIKTOKS.png"
+    },
+		{
+      "id" : 2,
+      "host" : "Dj Koplo Viral",
+      "gambar" : "https://archive.org/download/dj-tiktok/DJ%20TIKTOKS.png"
+    }
+  ],
+	
+  "music": [
+    {
+      "id" : 1,
+      "judul" : "DJ Tiktok Terbaru Cidro 2 Full Bass",
+      "host" : "Dj Tik-Tok Viral",
+      "gambar" : "https://archive.org/download/dj-tiktok/dj%20TIKTOK.png",
+      "link_mp3" : "https://archive.org/download/dj-tiktok-terbaru-keegoan-cinta/DJ%20TIKTOK%20Terbaru%20Cidro%202%20Full%20Bass.mp3",
+      "lirik" : "",
+      "durasi" : 07
+    },
+		{
+      "id" : 2,
+      "judul" : "DJ Tiktok TERBARU Terpesona Full Bass",
+      "host" : "Dj Tik-Tok Viral",
+      "gambar" : "https://archive.org/download/dj-tiktok/dj%20TIKTOK.png",
+      "link_mp3" : "https://archive.org/download/dj-tiktok-terbaru-keegoan-cinta/DJ%20TIKTOK%20TERBARU%20Terpesona%20Full%20Bass.mp3",
+      "lirik" : "",
+      "durasi" : 05
+    },
+		{
+      "id" : 3,
+      "judul" : "DJ Tiktok TERBARU Im Yours",
+      "host" : "Dj Tik-Tok Viral",
+      "gambar" : "https://archive.org/download/dj-tiktok/dj%20TIKTOK.png",
+      "link_mp3" : "https://archive.org/download/dj-tiktok-terbaru-keegoan-cinta/DJ%20TIKTOK%20TERBARU%20Im%20Yours.mp3",
+      "lirik" : "",
+      "durasi" : 07
+    },
+		{
+      "id" : 4,
+      "judul" : "DJ Tiktok TERBARU Aduh Mamae",
+      "host" : "Dj Tik-Tok Viral",
+      "gambar" : "https://archive.org/download/dj-tiktok/dj%20TIKTOK.png",
+      "link_mp3" : "https://archive.org/download/dj-tiktok-terbaru-keegoan-cinta/DJ%20TIKTOK%20TERBARU%20Aduh%20Mamae.mp3",
+      "lirik" : "",
+      "durasi" : 05
+    },
+		{
+      "id" : 5,
+      "judul" : "DJ Tiktok TERBARU Baby Family Friendly",
+      "host" : "Dj Tik-Tok Viral",
+      "gambar" : "https://archive.org/download/dj-tiktok/dj%20TIKTOK.png",
+      "link_mp3" : "https://archive.org/download/dj-tiktok-terbaru-keegoan-cinta/DJ%20TIKTOK%20TERBARU%20Baby%20Family%20Friendly.mp3",
+      "lirik" : "",
+      "durasi" : 05
+    },
+		{
+      "id" : 6,
+      "judul" : "DJ Tiktok TERBARU Jujur Sa Su Bilang",
+      "host" : "Dj Tik-Tok Viral",
+      "gambar" : "https://archive.org/download/dj-tiktok/dj%20TIKTOK.png",
+      "link_mp3" : "https://archive.org/download/dj-tiktok-terbaru-keegoan-cinta/DJ%20TIKTOK%20TERBARU%20Jujur%20Sa%20Su%20Bilang.mp3",
+      "lirik" : "",
+      "durasi" : 05
+    },
+		{
+      "id" : 7,
+      "judul" : "Dj Sayang Jangan Marah-Marah",
+      "host" : "Dj Tik-Tok Viral",
+      "gambar" : "https://archive.org/download/dj-tiktok/dj%20TIKTOK.png",
+      "link_mp3" : "https://archive.org/download/dj-tiktok-terbaru-keegoan-cinta/dj%20sayang%20jangan%20marah%20marah.mp3",
+      "lirik" : "",
+      "durasi" : 06
+    },
+		{
+      "id" : 8,
+      "judul" : "Dj Ampun Bang Jago",
+      "host" : "Dj Tik-Tok Viral",
+      "gambar" : "https://archive.org/download/dj-tiktok/dj%20TIKTOK.png",
+      "link_mp3" : "https://archive.org/download/dj-tiktok-terbaru-keegoan-cinta/dj%20ampun%20bang%20jago.mp3",
+      "lirik" : "",
+      "durasi" : 05
+    },
+		{
+      "id" : 9,
+      "judul" : "DJ Tiktok Terbaru keegoan cinta",
+      "host" : "Dj Tik-Tok Viral",
+      "gambar" : "https://archive.org/download/dj-tiktok/dj%20TIKTOK.png",
+      "link_mp3" : "https://archive.org/download/dj-tiktok-terbaru-keegoan-cinta/DJ%20TIKTOK%20TERBARU%20keegoan%20cinta%20.mp3",
+      "lirik" : "",
+      "durasi" : 08
+    },
+		{
+      "id" : 10,
+      "judul" : "DJ Tiktok Terbaru Butiran Sandiwara Cinta",
+      "host" : "Dj Tik-Tok Viral",
+      "gambar" : "https://archive.org/download/dj-tiktok/dj%20TIKTOK.png",
+      "link_mp3" : "https://archive.org/download/dj-tiktok-terbaru-keegoan-cinta/DJ%20TIKTOK%20TERBARU%20Butiran%20Sandiwara%20Cinta.mp3",
+      "lirik" : "",
+      "durasi" : 06
+     
+    }
+  ]
+
+}
+}
