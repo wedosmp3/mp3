@@ -1,1 +1,67 @@
-abc
+{ 
+    
+    "Iklan": [
+        {
+        "status": "0",
+        "link": "https://play.google.com/store/apps/details?id=",
+
+        "appid": "",
+        "admobappid": "",
+        "interid": "",
+        "bannerid":"",
+   
+
+
+        "pengaturan_iklan":"0",
+        
+        "deskripsi_update": "",
+        "link_update": "",
+        "version_app":1,
+        
+        "fan_inter":"",
+        "fan_banner":"",
+   
+   		"startappid":"123456789",
+
+        "hpk_admob1":"",
+        "hpk_admob2":"",
+        "hpk_admob3":"",
+        "hpk_admob4":"",
+        "hpk_admob5":""
+  
+
+        }
+    ],
+	
+  "Category": [
+    {
+      "id" : 1,
+      "host" : "Dj Tik-Tok Viral",
+      "gambar" : "https://1.bp.blogspot.com/-w5GUA_5Rt9c/YCdcop2yh2I/AAAAAAAAAas/3HIHNR9fo3sX23Dt5CEEH1PgGKNjX3KIgCLcBGAsYHQ/s320/DJ%2BTIKTOKS.png"
+    }
+    
+  ],
+	
+  "music": [
+    {
+      "id" : 1,
+      "judul" : "DJ Tiktok - Cidro 2 Full Bass",
+      "host" : "Dj Tik-Tok Viral",
+      "gambar" : "https://1.bp.blogspot.com/-ePpJ37Y4pN8/YCdcpAD-kCI/AAAAAAAAAaw/1iS_Z8mc_TAFzqHr7t4g34vFB7VWpnP2wCLcBGAsYHQ/s320/dj%2BTIKTOK.png",
+      "link_mp3" : "https://archive.org/download/dj-tiktok-terbaru-keegoan-cinta/DJ%20TIKTOK%20Terbaru%20Cidro%202%20Full%20Bass.mp3",
+      "lirik" : "",
+      "durasi" : 07
+    },
+		{
+      "id" : 2,
+      "judul" : "DJ Tiktok - Terpesona Full Bass",
+      "host" : "Dj Tik-Tok Viral",
+      "gambar" : "https://1.bp.blogspot.com/-ePpJ37Y4pN8/YCdcpAD-kCI/AAAAAAAAAaw/1iS_Z8mc_TAFzqHr7t4g34vFB7VWpnP2wCLcBGAsYHQ/s320/dj%2BTIKTOK.png",
+      "link_mp3" : "https://archive.org/download/dj-tiktok-terbaru-keegoan-cinta/DJ%20TIKTOK%20TERBARU%20Terpesona%20Full%20Bass.mp3",
+      "lirik" : "",
+      "durasi" : 05
+    }
+  ]
+
+}
+}
