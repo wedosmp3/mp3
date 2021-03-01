@@ -1,0 +1,405 @@
+{
+  "Ads": [
+    {
+      "select_ads": "FACEBOOK",
+      "status_app": "0",
+      "link_redirect": "https://play.google.com/store/apps/details?id=",
+      "admob_interid": "",
+      "admob_bannerid": "",
+      "admob_openid": "",
+      "interval_intertitial": "5",
+      "startappid": "201270579",
+      "fan_inter": "",
+      "fan_banner": "",
+      "mopub_banner": "",
+      "mopub_inter": "",
+      "appodeal_key": "",
+      "packagename": "com.sndstudio.djopus"
+    }
+  ],
+  "Categories": [
+    {
+      "id": 1,
+      "name_category": "Dj Opus Viral",
+      "image": "https://1.bp.blogspot.com/-sBPoYQms5IU/YDxyFuZpavI/AAAAAAAAAgE/TDZNPfZqDCky3dfoKOdbZN_pnOPPS_IQQCLcBGAsYHQ/s320/1.png"
+    },
+	{
+      "id": 2,
+      "name_category": "Dj Opus Full Bass",
+      "image": "https://1.bp.blogspot.com/-sBPoYQms5IU/YDxyFuZpavI/AAAAAAAAAgE/TDZNPfZqDCky3dfoKOdbZN_pnOPPS_IQQCLcBGAsYHQ/s320/1.png"
+    },
+	{
+      "id": 3,
+      "name_category": "Dj Opus populer",
+      "image": "https://1.bp.blogspot.com/-sBPoYQms5IU/YDxyFuZpavI/AAAAAAAAAgE/TDZNPfZqDCky3dfoKOdbZN_pnOPPS_IQQCLcBGAsYHQ/s320/1.png"
+    },
+	{
+      "id": 4,
+      "name_category": "Dj Opus Terbaru",
+      "image": "https://1.bp.blogspot.com/-sBPoYQms5IU/YDxyFuZpavI/AAAAAAAAAgE/TDZNPfZqDCky3dfoKOdbZN_pnOPPS_IQQCLcBGAsYHQ/s320/1.png"
+    }
+  ],
+  "Data": [
+    {
+      "id": 1,
+      "name_category": "Dj Opus Viral",
+      "title": "Dj Gam Gam Piri",
+      "image": "https://1.bp.blogspot.com/-f3AVYhdP3iY/YDxyGH0HJlI/AAAAAAAAAgI/wzN5LtcSk0IhLEyUisOGYibJa4kvMGWxACLcBGAsYHQ/s320/2.png",
+      "link_mp3": "https://archive.org/download/dj-tik-tok-figurinha/Dj%20TikTok%20Gam%20Gam%20Piri.mp3",
+      "duration": "04",
+      "lyrics": "<p><span style=\"color:#ffffff\"><strong>Selamat menikmati audio music mp3</strong><br />\r\n<strong>Jangan lupa rating 5 bintangnya</strong><br />\r\n<strong>Jika anda suka dengan aplikasi music mp3 ini</strong><br />\r\n<strong>Terimakasih</strong></span></p>\r\n"
+    },
+    {
+      "id": 2,
+      "name_category": "Dj Opus Full Bass",
+      "title": "DJ Shaun The Sheep",
+      "image": "https://1.bp.blogspot.com/-f3AVYhdP3iY/YDxyGH0HJlI/AAAAAAAAAgI/wzN5LtcSk0IhLEyUisOGYibJa4kvMGWxACLcBGAsYHQ/s320/2.png",
+      "link_mp3": "https://archive.org/download/dj-tik-tok-figurinha/DJ%20Shaun%20The%20Sheep.mp3",
+      "duration": "06",
+      "lyrics": "<p><span style=\"color:#ffffff\"><strong>Selamat menikmati audio music mp3</strong><br />\r\n<strong>Jangan lupa rating 5 bintangnya</strong><br />\r\n<strong>Jika anda suka dengan aplikasi music mp3 ini</strong><br />\r\n<strong>Terimakasih</strong></span></p>\r\n"
+    },
+    {
+      "id": 3,
+      "name_category": "Dj Opus Terbaru",
+      "title": "DJ Haning",
+      "image": "https://1.bp.blogspot.com/-f3AVYhdP3iY/YDxyGH0HJlI/AAAAAAAAAgI/wzN5LtcSk0IhLEyUisOGYibJa4kvMGWxACLcBGAsYHQ/s320/2.png",
+      "link_mp3": "https://archive.org/download/dj-tik-tok-figurinha/DJ%20Haning.mp3",
+      "duration": "06",
+      "lyrics": "<p><span style=\"color:#ffffff\"><strong>Selamat menikmati audio music mp3</strong><br />\r\n<strong>Jangan lupa rating 5 bintangnya</strong><br />\r\n<strong>Jika anda suka dengan aplikasi music mp3 ini</strong><br />\r\n<strong>Terimakasih</strong></span></p>\r\n"
+    },
+    {
+      "id": 4,
+      "name_category": "Dj Opus Terbaru",
+      "title": "DJ Pale-Pale",
+      "image": "https://1.bp.blogspot.com/-f3AVYhdP3iY/YDxyGH0HJlI/AAAAAAAAAgI/wzN5LtcSk0IhLEyUisOGYibJa4kvMGWxACLcBGAsYHQ/s320/2.png",
+      "link_mp3": "https://archive.org/download/dj-tik-tok-figurinha/DJ%20Pale-Pale.mp3",
+      "duration": "06",
+      "lyrics": "<p><span style=\"color:#ffffff\"><strong>Selamat menikmati audio music mp3</strong><br />\r\n<strong>Jangan lupa rating 5 bintangnya</strong><br />\r\n<strong>Jika anda suka dengan aplikasi music mp3 ini</strong><br />\r\n<strong>Terimakasih</strong></span></p>\r\n"
+    },
+    {
+      "id": 5,
+      "name_category": "Dj Opus Terbaru",
+      "title": "Dj Yakamoz",
+      "image": "https://1.bp.blogspot.com/-f3AVYhdP3iY/YDxyGH0HJlI/AAAAAAAAAgI/wzN5LtcSk0IhLEyUisOGYibJa4kvMGWxACLcBGAsYHQ/s320/2.png",
+      "link_mp3": "https://archive.org/download/dj-tik-tok-figurinha/Dj%20TikTok%20Yakamoz.mp3",
+      "duration": "05",
+      "lyrics": "<p><span style=\"color:#ffffff\"><strong>Selamat menikmati audio music mp3</strong><br />\r\n<strong>Jangan lupa rating 5 bintangnya</strong><br />\r\n<strong>Jika anda suka dengan aplikasi music mp3 ini</strong><br />\r\n<strong>Terimakasih</strong></span></p>\r\n"
+    },
+    {
+      "id": 6,
+      "name_category": "Dj Opus Full Bass",
+      "title": "Dj Tiban-Tiban",
+      "image": "https://1.bp.blogspot.com/-f3AVYhdP3iY/YDxyGH0HJlI/AAAAAAAAAgI/wzN5LtcSk0IhLEyUisOGYibJa4kvMGWxACLcBGAsYHQ/s320/2.png",
+      "link_mp3": "https://archive.org/download/dj-tik-tok-figurinha/Dj%20TikTok%20Tiban-Tiban.mp3",
+      "duration": "06",
+      "lyrics": "<p><span style=\"color:#ffffff\"><strong>Selamat menikmati audio music mp3</strong><br />\r\n<strong>Jangan lupa rating 5 bintangnya</strong><br />\r\n<strong>Jika anda suka dengan aplikasi music mp3 ini</strong><br />\r\n<strong>Terimakasih</strong></span></p>\r\n"
+    },
+    {
+      "id": 7,
+      "name_category": "Dj Opus Full Bass",
+      "title": "DJ Im Yours",
+      "image": "https://1.bp.blogspot.com/-f3AVYhdP3iY/YDxyGH0HJlI/AAAAAAAAAgI/wzN5LtcSk0IhLEyUisOGYibJa4kvMGWxACLcBGAsYHQ/s320/2.png",
+      "link_mp3": "https://archive.org/download/dj-tiktok-terbaru-keegoan-cinta/DJ%20TIKTOK%20TERBARU%20Im%20Yours.mp3",
+      "duration": "07",
+      "lyrics": "<p><span style=\"color:#ffffff\"><strong>Selamat menikmati audio music mp3</strong><br />\r\n<strong>Jangan lupa rating 5 bintangnya</strong><br />\r\n<strong>Jika anda suka dengan aplikasi music mp3 ini</strong><br />\r\n<strong>Terimakasih</strong></span></p>\r\n"
+    },
+    {
+      "id": 8,
+      "name_category": "Dj Opus Viral",
+      "title": "Dj Figurinha",
+      "image": "https://1.bp.blogspot.com/-f3AVYhdP3iY/YDxyGH0HJlI/AAAAAAAAAgI/wzN5LtcSk0IhLEyUisOGYibJa4kvMGWxACLcBGAsYHQ/s320/2.png",
+      "link_mp3": "https://archive.org/download/dj-tik-tok-figurinha/Dj%20TikTok%20Figurinha.mp3",
+      "duration": "08",
+      "lyrics": "<p><span style=\"color:#ffffff\"><strong>Selamat menikmati audio music mp3</strong><br />\r\n<strong>Jangan lupa rating 5 bintangnya</strong><br />\r\n<strong>Jika anda suka dengan aplikasi music mp3 ini</strong><br />\r\n<strong>Terimakasih</strong></span></p>\r\n"
+    },
+    {
+      "id": 9,
+      "name_category": "Dj Opus Terbaru",
+      "title": "DJ Awas Jatuh Cinta",
+      "image": "https://1.bp.blogspot.com/-f3AVYhdP3iY/YDxyGH0HJlI/AAAAAAAAAgI/wzN5LtcSk0IhLEyUisOGYibJa4kvMGWxACLcBGAsYHQ/s320/2.png",
+      "link_mp3": "https://archive.org/download/dj-tik-tok-figurinha/DJ%20Awas%20Jatuh%20Cinta.mp3",
+      "duration": "05",
+      "lyrics": "<p><span style=\"color:#ffffff\"><strong>Selamat menikmati audio music mp3</strong><br />\r\n<strong>Jangan lupa rating 5 bintangnya</strong><br />\r\n<strong>Jika anda suka dengan aplikasi music mp3 ini</strong><br />\r\n<strong>Terimakasih</strong></span></p>\r\n"
+    },
+    {
+      "id": 10,
+      "name_category": "Dj Opus Terbaru",
+      "title": "DJ Haredang",
+      "image": "https://1.bp.blogspot.com/-f3AVYhdP3iY/YDxyGH0HJlI/AAAAAAAAAgI/wzN5LtcSk0IhLEyUisOGYibJa4kvMGWxACLcBGAsYHQ/s320/2.png",
+      "link_mp3": "https://archive.org/download/dj-tik-tok-figurinha/DJ%20Haredang.mp3",
+      "duration": "06",
+      "lyrics": "<p><span style=\"color:#ffffff\"><strong>Selamat menikmati audio music mp3</strong><br />\r\n<strong>Jangan lupa rating 5 bintangnya</strong><br />\r\n<strong>Jika anda suka dengan aplikasi music mp3 ini</strong><br />\r\n<strong>Terimakasih</strong></span></p>\r\n"
+    },
+    {
+      "id": 11,
+      "name_category": "Dj Opus Terbaru",
+      "title": "DJ Aku Tenang",
+      "image": "https://1.bp.blogspot.com/-f3AVYhdP3iY/YDxyGH0HJlI/AAAAAAAAAgI/wzN5LtcSk0IhLEyUisOGYibJa4kvMGWxACLcBGAsYHQ/s320/2.png",
+      "link_mp3": "https://archive.org/download/dj-tik-tok-figurinha/DJ%20Aku%20Tenang.mp3",
+      "duration": "04",
+      "lyrics": "<p><span style=\"color:#ffffff\"><strong>Selamat menikmati audio music mp3</strong><br />\r\n<strong>Jangan lupa rating 5 bintangnya</strong><br />\r\n<strong>Jika anda suka dengan aplikasi music mp3 ini</strong><br />\r\n<strong>Terimakasih</strong></span></p>\r\n"
+    },
+    {
+      "id": 12,
+      "name_category": "Dj Opus Full Bass",
+      "title": "DJ Aisyah Akumah Apa",
+      "image": "https://1.bp.blogspot.com/-f3AVYhdP3iY/YDxyGH0HJlI/AAAAAAAAAgI/wzN5LtcSk0IhLEyUisOGYibJa4kvMGWxACLcBGAsYHQ/s320/2.png",
+      "link_mp3": "https://archive.org/download/dj-tik-tok-figurinha/DJ%20Aisyah%20Akumah%20Apa.mp3",
+      "duration": "04",
+      "lyrics": "<p><span style=\"color:#ffffff\"><strong>Selamat menikmati audio music mp3</strong><br />\r\n<strong>Jangan lupa rating 5 bintangnya</strong><br />\r\n<strong>Jika anda suka dengan aplikasi music mp3 ini</strong><br />\r\n<strong>Terimakasih</strong></span></p>\r\n"
+    },
+    {
+      "id": 13,
+      "name_category": "Dj Opus Full Bass",
+      "title": "DJ Coba Kau Ingat-Ingat Kembali",
+      "image": "https://1.bp.blogspot.com/-f3AVYhdP3iY/YDxyGH0HJlI/AAAAAAAAAgI/wzN5LtcSk0IhLEyUisOGYibJa4kvMGWxACLcBGAsYHQ/s320/2.png",
+      "link_mp3": "https://archive.org/download/dj-tiktok-terbaru-keegoan-cinta/DJ%20TIKTOK%20TERBARU%20Coba%20Kau%20Ingat-Ingat%20Kembali.mp3",
+      "duration": "07",
+      "lyrics": "<p><span style=\"color:#ffffff\"><strong>Selamat menikmati audio music mp3</strong><br />\r\n<strong>Jangan lupa rating 5 bintangnya</strong><br />\r\n<strong>Jika anda suka dengan aplikasi music mp3 ini</strong><br />\r\n<strong>Terimakasih</strong></span></p>\r\n"
+    },
+    {
+      "id": 14,
+      "name_category": "Dj Opus Terbaru",
+      "title": "DJ Kutak Akan Bersuara",
+      "image": "https://1.bp.blogspot.com/-f3AVYhdP3iY/YDxyGH0HJlI/AAAAAAAAAgI/wzN5LtcSk0IhLEyUisOGYibJa4kvMGWxACLcBGAsYHQ/s320/2.png",
+      "link_mp3": "https://archive.org/download/dj-tik-tok-figurinha/DJ%20Kutak%20Akan%20Bersuara.mp3",
+      "duration": "04",
+      "lyrics": "<p><span style=\"color:#ffffff\"><strong>Selamat menikmati audio music mp3</strong><br />\r\n<strong>Jangan lupa rating 5 bintangnya</strong><br />\r\n<strong>Jika anda suka dengan aplikasi music mp3 ini</strong><br />\r\n<strong>Terimakasih</strong></span></p>\r\n"
+    },
+    {
+      "id": 15,
+      "name_category": "Dj Opus Full Bass",
+      "title": "DJ Cidro 2",
+      "image": "https://1.bp.blogspot.com/-f3AVYhdP3iY/YDxyGH0HJlI/AAAAAAAAAgI/wzN5LtcSk0IhLEyUisOGYibJa4kvMGWxACLcBGAsYHQ/s320/2.png",
+      "link_mp3": "https://archive.org/download/dj-tiktok-terbaru-keegoan-cinta/DJ%20TIKTOK%20Terbaru%20Cidro%202%20Full%20Bass.mp3",
+      "duration": "07",
+      "lyrics": "<p><span style=\"color:#ffffff\"><strong>Selamat menikmati audio music mp3</strong><br />\r\n<strong>Jangan lupa rating 5 bintangnya</strong><br />\r\n<strong>Jika anda suka dengan aplikasi music mp3 ini</strong><br />\r\n<strong>Terimakasih</strong></span></p>\r\n"
+    },
+    {
+      "id": 16,
+      "name_category": "Dj Opus Terbaru",
+      "title": "DJ Lemon Tree",
+      "image": "https://1.bp.blogspot.com/-f3AVYhdP3iY/YDxyGH0HJlI/AAAAAAAAAgI/wzN5LtcSk0IhLEyUisOGYibJa4kvMGWxACLcBGAsYHQ/s320/2.png",
+      "link_mp3": "https://archive.org/download/dj-tik-tok-figurinha/DJ%20TIK%20TOK%20Lemon%20Three.mp3",
+      "duration": "05",
+      "lyrics": "<p><span style=\"color:#ffffff\"><strong>Selamat menikmati audio music mp3</strong><br />\r\n<strong>Jangan lupa rating 5 bintangnya</strong><br />\r\n<strong>Jika anda suka dengan aplikasi music mp3 ini</strong><br />\r\n<strong>Terimakasih</strong></span></p>\r\n"
+    },
+    {
+      "id": 17,
+      "name_category": "Dj Opus Full Bass",
+      "title": "DJ Odading Mang Oleng",
+      "image": "https://1.bp.blogspot.com/-f3AVYhdP3iY/YDxyGH0HJlI/AAAAAAAAAgI/wzN5LtcSk0IhLEyUisOGYibJa4kvMGWxACLcBGAsYHQ/s320/2.png",
+      "link_mp3": "https://archive.org/download/dj-tik-tok-figurinha/DJ%20TIK%20TOK%20Odading%20Mang%20Oleng.mp3",
+      "duration": "05",
+      "lyrics": "<p><span style=\"color:#ffffff\"><strong>Selamat menikmati audio music mp3</strong><br />\r\n<strong>Jangan lupa rating 5 bintangnya</strong><br />\r\n<strong>Jika anda suka dengan aplikasi music mp3 ini</strong><br />\r\n<strong>Terimakasih</strong></span></p>\r\n"
+    },
+    {
+      "id": 18,
+      "name_category": "Dj Opus Terbaru",
+      "title": "Dj Ampun Bang Jago",
+      "image": "https://1.bp.blogspot.com/-f3AVYhdP3iY/YDxyGH0HJlI/AAAAAAAAAgI/wzN5LtcSk0IhLEyUisOGYibJa4kvMGWxACLcBGAsYHQ/s320/2.png",
+      "link_mp3": "https://archive.org/download/dj-tik-tok-figurinha/Dj%20TikTok%20Ampun%20Bang%20Jago.mp3",
+      "duration": "05",
+      "lyrics": "<p><span style=\"color:#ffffff\"><strong>Selamat menikmati audio music mp3</strong><br />\r\n<strong>Jangan lupa rating 5 bintangnya</strong><br />\r\n<strong>Jika anda suka dengan aplikasi music mp3 ini</strong><br />\r\n<strong>Terimakasih</strong></span></p>\r\n"
+    },
+    {
+      "id": 19,
+      "name_category": "Dj Opus Full Bass",
+      "title": "Dj Saya Masih Ting Ting Dijamin Masih Ting Ting",
+      "image": "https://1.bp.blogspot.com/-f3AVYhdP3iY/YDxyGH0HJlI/AAAAAAAAAgI/wzN5LtcSk0IhLEyUisOGYibJa4kvMGWxACLcBGAsYHQ/s320/2.png",
+      "link_mp3": "https://archive.org/download/dj-tik-tok-figurinha/Dj%20Saya%20Masih%20Ting%20Ting%20Dijamin%20Masih%20Ting%20Ting%20Tik%20Tok%20Terbaru%202021.mp3",
+      "duration": "05",
+      "lyrics": "<p><span style=\"color:#ffffff\"><strong>Selamat menikmati audio music mp3</strong><br />\r\n<strong>Jangan lupa rating 5 bintangnya</strong><br />\r\n<strong>Jika anda suka dengan aplikasi music mp3 ini</strong><br />\r\n<strong>Terimakasih</strong></span></p>\r\n"
+    },
+    {
+      "id": 20,
+      "name_category": "Dj Opus Viral",
+      "title": "Dj Plis Cobain",
+      "image": "https://1.bp.blogspot.com/-f3AVYhdP3iY/YDxyGH0HJlI/AAAAAAAAAgI/wzN5LtcSk0IhLEyUisOGYibJa4kvMGWxACLcBGAsYHQ/s320/2.png",
+      "link_mp3": "https://archive.org/download/dj-tik-tok-figurinha/Dj%20TikTok%20Plis%20Cobain.mp3",
+      "duration": "07",
+      "lyrics": "<p><span style=\"color:#ffffff\"><strong>Selamat menikmati audio music mp3</strong><br />\r\n<strong>Jangan lupa rating 5 bintangnya</strong><br />\r\n<strong>Jika anda suka dengan aplikasi music mp3 ini</strong><br />\r\n<strong>Terimakasih</strong></span></p>\r\n"
+    },
+    {
+      "id": 21,
+      "name_category": "Dj Opus Full Bass",
+      "title": "Dj Ambarai",
+      "image": "https://1.bp.blogspot.com/-f3AVYhdP3iY/YDxyGH0HJlI/AAAAAAAAAgI/wzN5LtcSk0IhLEyUisOGYibJa4kvMGWxACLcBGAsYHQ/s320/2.png",
+      "link_mp3": "https://archive.org/download/dj-tik-tok-figurinha/Dj%20TikTok%20Ambarai.mp3",
+      "duration": "06",
+      "lyrics": "<p><span style=\"color:#ffffff\"><strong>Selamat menikmati audio music mp3</strong><br />\r\n<strong>Jangan lupa rating 5 bintangnya</strong><br />\r\n<strong>Jika anda suka dengan aplikasi music mp3 ini</strong><br />\r\n<strong>Terimakasih</strong></span></p>\r\n"
+    },
+    {
+      "id": 22,
+      "name_category": "Dj Opus Terbaru",
+      "title": "DJ Girls Like You",
+      "image": "https://1.bp.blogspot.com/-f3AVYhdP3iY/YDxyGH0HJlI/AAAAAAAAAgI/wzN5LtcSk0IhLEyUisOGYibJa4kvMGWxACLcBGAsYHQ/s320/2.png",
+      "link_mp3": "https://archive.org/download/dj-tik-tok-figurinha/DJ%20Girls%20Like%20You.mp3",
+      "duration": "05",
+      "lyrics": "<p><span style=\"color:#ffffff\"><strong>Selamat menikmati audio music mp3</strong><br />\r\n<strong>Jangan lupa rating 5 bintangnya</strong><br />\r\n<strong>Jika anda suka dengan aplikasi music mp3 ini</strong><br />\r\n<strong>Terimakasih</strong></span></p>\r\n"
+    },
+    {
+      "id": 23,
+      "name_category": "Dj Opus Viral",
+      "title": "DJ On May Way",
+      "image": "https://1.bp.blogspot.com/-f3AVYhdP3iY/YDxyGH0HJlI/AAAAAAAAAgI/wzN5LtcSk0IhLEyUisOGYibJa4kvMGWxACLcBGAsYHQ/s320/2.png",
+      "link_mp3": "https://archive.org/download/dj-tik-tok-figurinha/DJ%20On%20May%20Way.mp3",
+      "duration": "05",
+      "lyrics": "<p><span style=\"color:#ffffff\"><strong>Selamat menikmati audio music mp3</strong><br />\r\n<strong>Jangan lupa rating 5 bintangnya</strong><br />\r\n<strong>Jika anda suka dengan aplikasi music mp3 ini</strong><br />\r\n<strong>Terimakasih</strong></span></p>\r\n"
+    },
+    {
+      "id": 24,
+      "name_category": "Dj Opus Viral",
+      "title": "DJ BOMA BOMAYE",
+      "image": "https://1.bp.blogspot.com/-f3AVYhdP3iY/YDxyGH0HJlI/AAAAAAAAAgI/wzN5LtcSk0IhLEyUisOGYibJa4kvMGWxACLcBGAsYHQ/s320/2.png",
+      "link_mp3": "https://archive.org/download/dj-jar-of-heart/DJ%20BOMA%20BOMAYE.mp3",
+      "duration": "05",
+      "lyrics": "<p><span style=\"color:#ffffff\"><strong>Selamat menikmati audio music mp3</strong><br />\r\n<strong>Jangan lupa rating 5 bintangnya</strong><br />\r\n<strong>Jika anda suka dengan aplikasi music mp3 ini</strong><br />\r\n<strong>Terimakasih</strong></span></p>\r\n"
+    },
+    {
+      "id": 25,
+      "name_category": "Dj Opus Full Bass",
+      "title": "Dj Sa Su Bilang",
+      "image": "https://1.bp.blogspot.com/-f3AVYhdP3iY/YDxyGH0HJlI/AAAAAAAAAgI/wzN5LtcSk0IhLEyUisOGYibJa4kvMGWxACLcBGAsYHQ/s320/2.png",
+      "link_mp3": "https://archive.org/download/dj-tik-tok-figurinha/Dj%20TikTok%20Sa%20Su%20Bilang.mp3",
+      "duration": "05",
+      "lyrics": "<p><span style=\"color:#ffffff\"><strong>Selamat menikmati audio music mp3</strong><br />\r\n<strong>Jangan lupa rating 5 bintangnya</strong><br />\r\n<strong>Jika anda suka dengan aplikasi music mp3 ini</strong><br />\r\n<strong>Terimakasih</strong></span></p>\r\n"
+    },
+    {
+      "id": 26,
+      "name_category": "Dj Opus Viral",
+      "title": "DJ Terpesona",
+      "image": "https://1.bp.blogspot.com/-f3AVYhdP3iY/YDxyGH0HJlI/AAAAAAAAAgI/wzN5LtcSk0IhLEyUisOGYibJa4kvMGWxACLcBGAsYHQ/s320/2.png",
+      "link_mp3": "https://archive.org/download/dj-tiktok-terbaru-keegoan-cinta/DJ%20TIKTOK%20TERBARU%20Terpesona%20Full%20Bass.mp3",
+      "duration": "05",
+      "lyrics": "<p><span style=\"color:#ffffff\"><strong>Selamat menikmati audio music mp3</strong><br />\r\n<strong>Jangan lupa rating 5 bintangnya</strong><br />\r\n<strong>Jika anda suka dengan aplikasi music mp3 ini</strong><br />\r\n<strong>Terimakasih</strong></span></p>\r\n"
+    },
+    {
+      "id": 27,
+      "name_category": "Dj Opus Viral",
+      "title": "DJ Los Dol Baling-Baling Bambu",
+      "image": "https://1.bp.blogspot.com/-f3AVYhdP3iY/YDxyGH0HJlI/AAAAAAAAAgI/wzN5LtcSk0IhLEyUisOGYibJa4kvMGWxACLcBGAsYHQ/s320/2.png",
+      "link_mp3": "https://archive.org/download/dj-tik-tok-figurinha/DJ%20Los%20Dol%20Baling-Baling%20Bambu.mp3",
+      "duration": "05",
+      "lyrics": "<p><span style=\"color:#ffffff\"><strong>Selamat menikmati audio music mp3</strong><br />\r\n<strong>Jangan lupa rating 5 bintangnya</strong><br />\r\n<strong>Jika anda suka dengan aplikasi music mp3 ini</strong><br />\r\n<strong>Terimakasih</strong></span></p>\r\n"
+    },
+    {
+      "id": 28,
+      "name_category": "Dj Opus Viral",
+      "title": "DJ Papi Chulo",
+      "image": "https://1.bp.blogspot.com/-f3AVYhdP3iY/YDxyGH0HJlI/AAAAAAAAAgI/wzN5LtcSk0IhLEyUisOGYibJa4kvMGWxACLcBGAsYHQ/s320/2.png",
+      "link_mp3": "https://archive.org/download/dj-tik-tok-figurinha/DJ%20Papi%20Chulo.mp3",
+      "duration": "06",
+      "lyrics": "<p><span style=\"color:#ffffff\"><strong>Selamat menikmati audio music mp3</strong><br />\r\n<strong>Jangan lupa rating 5 bintangnya</strong><br />\r\n<strong>Jika anda suka dengan aplikasi music mp3 ini</strong><br />\r\n<strong>Terimakasih</strong></span></p>\r\n"
+    },
+    {
+      "id": 29,
+      "name_category": "Dj Opus Viral",
+      "title": "DJ Pokemon Dimana Kamu",
+      "image": "https://1.bp.blogspot.com/-f3AVYhdP3iY/YDxyGH0HJlI/AAAAAAAAAgI/wzN5LtcSk0IhLEyUisOGYibJa4kvMGWxACLcBGAsYHQ/s320/2.png",
+      "link_mp3": "https://archive.org/download/dj-tik-tok-figurinha/DJ%20TIK%20TOK%20Pokemon%20Dimana%20Kamu.mp3",
+      "duration": "06",
+      "lyrics": "<p><span style=\"color:#ffffff\"><strong>Selamat menikmati audio music mp3</strong><br />\r\n<strong>Jangan lupa rating 5 bintangnya</strong><br />\r\n<strong>Jika anda suka dengan aplikasi music mp3 ini</strong><br />\r\n<strong>Terimakasih</strong></span></p>\r\n"
+    },
+    {
+      "id": 30,
+      "name_category": "Dj Opus Viral",
+      "title": "DJ Vaaste",
+      "image": "https://1.bp.blogspot.com/-f3AVYhdP3iY/YDxyGH0HJlI/AAAAAAAAAgI/wzN5LtcSk0IhLEyUisOGYibJa4kvMGWxACLcBGAsYHQ/s320/2.png",
+      "link_mp3": "https://archive.org/download/dj-tik-tok-figurinha/DJ%20Tiktok%20Vaaste.mp3",
+      "duration": "03",
+      "lyrics": "<p><span style=\"color:#ffffff\"><strong>Selamat menikmati audio music mp3</strong><br />\r\n<strong>Jangan lupa rating 5 bintangnya</strong><br />\r\n<strong>Jika anda suka dengan aplikasi music mp3 ini</strong><br />\r\n<strong>Terimakasih</strong></span></p>\r\n"
+    },
+    {
+      "id": 31,
+      "name_category": "Dj Opus populer",
+      "title": "DJ Ditinggal Pas Sayang Sayange",
+      "image": "https://1.bp.blogspot.com/-f3AVYhdP3iY/YDxyGH0HJlI/AAAAAAAAAgI/wzN5LtcSk0IhLEyUisOGYibJa4kvMGWxACLcBGAsYHQ/s320/2.png",
+      "link_mp3": "https://archive.org/download/dj-truk-oleng-terbaru/Dj%20Truk%20Oleng%201.mp3",
+      "duration": "05",
+      "lyrics": "<p><span style=\"color:#ffffff\"><strong>Selamat menikmati audio music mp3</strong><br />\r\n<strong>Jangan lupa rating 5 bintangnya</strong><br />\r\n<strong>Jika anda suka dengan aplikasi music mp3 ini</strong><br />\r\n<strong>Terimakasih</strong></span></p>\r\n"
+    },
+    {
+      "id": 32,
+      "name_category": "Dj Opus populer",
+      "title": "DJ Pipipi Calon Mantu",
+      "image": "https://1.bp.blogspot.com/-f3AVYhdP3iY/YDxyGH0HJlI/AAAAAAAAAgI/wzN5LtcSk0IhLEyUisOGYibJa4kvMGWxACLcBGAsYHQ/s320/2.png",
+      "link_mp3": "https://archive.org/download/dj-truk-oleng-terbaru/Dj%20Truk%20Oleng%2012.mp3",
+      "duration": "04",
+      "lyrics": "<p><span style=\"color:#ffffff\"><strong>Selamat menikmati audio music mp3</strong><br />\r\n<strong>Jangan lupa rating 5 bintangnya</strong><br />\r\n<strong>Jika anda suka dengan aplikasi music mp3 ini</strong><br />\r\n<strong>Terimakasih</strong></span></p>\r\n"
+    },
+    {
+      "id": 33,
+      "name_category": "Dj Opus populer",
+      "title": "DJ Juragan Empang",
+      "image": "https://1.bp.blogspot.com/-f3AVYhdP3iY/YDxyGH0HJlI/AAAAAAAAAgI/wzN5LtcSk0IhLEyUisOGYibJa4kvMGWxACLcBGAsYHQ/s320/2.png",
+      "link_mp3": "https://archive.org/download/dj-koplo-koyo-langit-ambi-bumi-cover-daeren-okta/VIRALLLLLL%21%21%21%21%21%21%20JURAGAN%20EMPANG%20FULL%20BASS....%20BASS%20SANTAI%20TAPI%20NENDANG.....mp3",
+      "duration": "05",
+      "lyrics": "<p><span style=\"color:#ffffff\"><strong>Selamat menikmati audio music mp3</strong><br />\r\n<strong>Jangan lupa rating 5 bintangnya</strong><br />\r\n<strong>Jika anda suka dengan aplikasi music mp3 ini</strong><br />\r\n<strong>Terimakasih</strong></span></p>\r\n"
+    },
+    {
+      "id": 34,
+      "name_category": "Dj Opus populer",
+      "title": "DJ Ninggal Tatu",
+      "image": "https://1.bp.blogspot.com/-f3AVYhdP3iY/YDxyGH0HJlI/AAAAAAAAAgI/wzN5LtcSk0IhLEyUisOGYibJa4kvMGWxACLcBGAsYHQ/s320/2.png",
+      "link_mp3": "https://archive.org/download/dj-koplo-koyo-langit-ambi-bumi-cover-daeren-okta/NINGGAL%20TATU%20%28%20Dory%20harsa%20%29%20Versi%20REMIX%20terbaru%202020%20Fullbass%20By%20Arga%20RMX.mp3",
+      "duration": "06",
+      "lyrics": "<p><span style=\"color:#ffffff\"><strong>Selamat menikmati audio music mp3</strong><br />\r\n<strong>Jangan lupa rating 5 bintangnya</strong><br />\r\n<strong>Jika anda suka dengan aplikasi music mp3 ini</strong><br />\r\n<strong>Terimakasih</strong></span></p>\r\n"
+    },
+    {
+      "id": 35,
+      "name_category": "Dj Opus populer",
+      "title": "DJ Korban Janji",
+      "image": "https://1.bp.blogspot.com/-f3AVYhdP3iY/YDxyGH0HJlI/AAAAAAAAAgI/wzN5LtcSk0IhLEyUisOGYibJa4kvMGWxACLcBGAsYHQ/s320/2.png",
+      "link_mp3": "https://archive.org/download/dj-koplo-koyo-langit-ambi-bumi-cover-daeren-okta/DJ%20KORBAN%20JANJI%20GUYON%20WATON%20KAMPUNG%20DJ%20HAK%20E%20HAK%20E.mp3",
+      "duration": "",
+      "lyrics": "<p><span style=\"color:#ffffff\"><strong>Selamat menikmati audio music mp3</strong><br />\r\n<strong>Jangan lupa rating 5 bintangnya</strong><br />\r\n<strong>Jika anda suka dengan aplikasi music mp3 ini</strong><br />\r\n<strong>Terimakasih</strong></span></p>\r\n"
+    },
+    {
+      "id": 36,
+      "name_category": "Dj Opus populer",
+      "title": "DJ Sepine Wengi",
+      "image": "https://1.bp.blogspot.com/-f3AVYhdP3iY/YDxyGH0HJlI/AAAAAAAAAgI/wzN5LtcSk0IhLEyUisOGYibJa4kvMGWxACLcBGAsYHQ/s320/2.png",
+      "link_mp3": "https://archive.org/download/dj-koplo-koyo-langit-ambi-bumi-cover-daeren-okta/DJ%20REMIX%20SLOW%20FULL%20BASS%20-%20SEPINE%20WENGI%20VIVI%20VOLETHA.mp3",
+      "duration": "06",
+      "lyrics": "<p><span style=\"color:#ffffff\"><strong>Selamat menikmati audio music mp3</strong><br />\r\n<strong>Jangan lupa rating 5 bintangnya</strong><br />\r\n<strong>Jika anda suka dengan aplikasi music mp3 ini</strong><br />\r\n<strong>Terimakasih</strong></span></p>\r\n"
+    },
+    {
+      "id": 37,
+      "name_category": "Dj Opus populer",
+      "title": "DJ Sayang 2",
+      "image": "https://1.bp.blogspot.com/-f3AVYhdP3iY/YDxyGH0HJlI/AAAAAAAAAgI/wzN5LtcSk0IhLEyUisOGYibJa4kvMGWxACLcBGAsYHQ/s320/2.png",
+      "link_mp3": "https://archive.org/download/dj-koplo-koyo-langit-ambi-bumi-cover-daeren-okta/DJ%20SLOW%20SAYANG%202%20versi%20enak%20enak%20dong.mp3",
+      "duration": "04",
+      "lyrics": "<p><span style=\"color:#ffffff\"><strong>Selamat menikmati audio music mp3</strong><br />\r\n<strong>Jangan lupa rating 5 bintangnya</strong><br />\r\n<strong>Jika anda suka dengan aplikasi music mp3 ini</strong><br />\r\n<strong>Terimakasih</strong></span></p>\r\n"
+    },
+    {
+      "id": 38,
+      "name_category": "Dj Opus populer",
+      "title": "DJ Tak Ikhlasno",
+      "image": "https://1.bp.blogspot.com/-f3AVYhdP3iY/YDxyGH0HJlI/AAAAAAAAAgI/wzN5LtcSk0IhLEyUisOGYibJa4kvMGWxACLcBGAsYHQ/s320/2.png",
+      "link_mp3": "https://archive.org/download/dj-koplo-koyo-langit-ambi-bumi-cover-daeren-okta/DJ%20TAK%20IKHLASNO%20%28Remix%20Full%20Bass%20Terbaru%202019%29.mp3",
+      "duration": "06",
+      "lyrics": "<p><span style=\"color:#ffffff\"><strong>Selamat menikmati audio music mp3</strong><br />\r\n<strong>Jangan lupa rating 5 bintangnya</strong><br />\r\n<strong>Jika anda suka dengan aplikasi music mp3 ini</strong><br />\r\n<strong>Terimakasih</strong></span></p>\r\n"
+    },
+    {
+      "id": 39,
+      "name_category": "Dj Opus populer",
+      "title": "DJ Ngelabur Langit",
+      "image": "https://1.bp.blogspot.com/-f3AVYhdP3iY/YDxyGH0HJlI/AAAAAAAAAgI/wzN5LtcSk0IhLEyUisOGYibJa4kvMGWxACLcBGAsYHQ/s320/2.png",
+      "link_mp3": "https://archive.org/download/dj-koplo-koyo-langit-ambi-bumi-cover-daeren-okta/DJ%20ngelabur%20langit%20slow%20termantap%20full%20bass.mp3",
+      "duration": "09",
+      "lyrics": "<p><span style=\"color:#ffffff\"><strong>Selamat menikmati audio music mp3</strong><br />\r\n<strong>Jangan lupa rating 5 bintangnya</strong><br />\r\n<strong>Jika anda suka dengan aplikasi music mp3 ini</strong><br />\r\n<strong>Terimakasih</strong></span></p>\r\n"
+    },
+    {
+      "id": 40,
+      "name_category": "Dj Opus populer",
+      "title": "DJ Kutimang Adiku Sayang",
+      "image": "https://1.bp.blogspot.com/-f3AVYhdP3iY/YDxyGH0HJlI/AAAAAAAAAgI/wzN5LtcSk0IhLEyUisOGYibJa4kvMGWxACLcBGAsYHQ/s320/2.png",
+      "link_mp3": "https://archive.org/download/dj-tik-tok-figurinha/DJ%20TIK%20TOK%20Kutimang%20Adiku%20Sayang.mp3",
+      "duration": "05",
+      "lyrics": "<p><span style=\"color:#ffffff\"><strong>Selamat menikmati audio music mp3</strong><br />\r\n<strong>Jangan lupa rating 5 bintangnya</strong><br />\r\n<strong>Jika anda suka dengan aplikasi music mp3 ini</strong><br />\r\n<strong>Terimakasih</strong></span></p>\r\n"
+    }
+
+  ]
+}
