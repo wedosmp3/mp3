@@ -2,7 +2,7 @@
   "Ads": [
     {
       "select_ads": "ADMOB",
-      "status_app": "1",
+      "status_app": "0",
       "link_redirect": "https://play.google.com/store/apps/details?id=",
       "admob_interid": "ca-app-pub-2521648737251856/9241928954",
       "admob_bannerid": "ca-app-pub-2521648737251856/5080797444",
