@@ -5,14 +5,14 @@
         "status": "0",
         "link": "https://play.google.com/store/apps/details?id=",
 
-        "appid": "",
-        "admobappid": "",
-        "interid": "",
-        "bannerid":"",
+        "appid": "ca-app-pub-2521648737251856~3213978162",
+        "admobappid": "ca-app-pub-2521648737251856/1900896493",
+        "interid": "ca-app-pub-2521648737251856/2990616881",
+        "bannerid":"ca-app-pub-2521648737251856/5616780222",
    
 
 
-        "pengaturan_iklan":"0",
+        "pengaturan_iklan":"1",
         
         "deskripsi_update": "",
         "link_update": "",
