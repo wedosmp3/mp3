@@ -1,12 +1,13 @@
 {
   "Ads": [
     {
-      "select_ads": "FACEBOOK",
-      "status_app": "0",
+      "select_ads": "ADMOB",
+      "status_app": "1",
       "link_redirect": "https://play.google.com/store/apps/details?id=",
-      "admob_interid": "",
-      "admob_bannerid": "",
-      "admob_openid": "",
+      "admob_bannerid": "ca-app-pub-2521648737251856/1219010844",
+      "admob_interid": "ca-app-pub-2521648737251856/4008825719",
+      "admob_openid": "ca-app-pub-2521648737251856/7756499032",
+      "admob_nativ": "ca-app-pub-2521648737251856/6251845670",
       "interval_intertitial": "5",
       "startappid": "201270579",
       "fan_inter": "",
