@@ -1,0 +1,351 @@
+{
+  "Ads": [
+    {
+      "select_ads": "ADMOB",
+      "status_app": "0",
+      "link_redirect": "https://play.google.com/store/apps/details?id=",
+      "admob_interid": "",
+      "admob_bannerid": "",
+      "admob_openid": "",
+      "interval_intertitial": "5",
+      "startappid": "201270579",
+      "fan_inter": "",
+      "fan_banner": "",
+      "mopub_banner": "",
+      "mopub_inter": "",
+      "appodeal_key": "",
+      "packagename": "com.sndstudio.djsholawat"
+    }
+  ],
+  "Categories": [
+    {
+      "id": 1,
+      "name_category": "DJ Sholawat Viral",
+      "image": "https://1.bp.blogspot.com/-Tb9Nd1t40W4/YGx-7czrrbI/AAAAAAAAAkw/uyhLGm_LhagMzQqjyOTgoxbSQjcvQHxCgCLcBGAsYHQ/s320/2.png"
+    },
+	{
+      "id": 2,
+      "name_category": "DJ Sholawat Slow Bass",
+      "image": "https://1.bp.blogspot.com/-Tb9Nd1t40W4/YGx-7czrrbI/AAAAAAAAAkw/uyhLGm_LhagMzQqjyOTgoxbSQjcvQHxCgCLcBGAsYHQ/s320/2.png"
+    }
+	
+  ],
+  "Data": [
+    {
+      "id": 1,
+      "name_category": "DJ Sholawat Slow Bass",
+      "title": "DJ Aisyah Istri Rasulallah",
+      "image": "https://1.bp.blogspot.com/-aH_OWdbmR18/YGx-7KiWSDI/AAAAAAAAAks/CQE3rAfZW8cWWIcEohC9FyH29yK-pehfwCLcBGAsYHQ/s0/1.png",
+      "link_mp3": "https://archive.org/download/y-2mate.com-dj-syiir-tanpo-waton-2020/y2mate.com%20-%20DJ%20AISYAH%20ISTRI%20RASULULLAH%20REMIX%20FULL%20BASS%2013%20Milion%20View.mp3",
+      "duration": "05",
+      "lyrics": "<p><span style=\"color:#ffffff\"><strong>Selamat menikmati audio music mp3</strong><br />\r\n<strong>Jangan lupa rating 5 bintangnya</strong><br />\r\n<strong>Jika anda suka dengan aplikasi music mp3 ini</strong><br />\r\n<strong>Terimakasih</strong></span></p>\r\n"
+    },
+	{
+      "id": 2,
+      "name_category": "DJ Sholawat Slow Bass",
+      "title": "DJ Antal Aamin Robi Kholaq Toha Minnur Berkah",
+      "image": "https://1.bp.blogspot.com/-aH_OWdbmR18/YGx-7KiWSDI/AAAAAAAAAks/CQE3rAfZW8cWWIcEohC9FyH29yK-pehfwCLcBGAsYHQ/s0/1.png",
+      "link_mp3": "https://archive.org/download/y-2mate.com-dj-syiir-tanpo-waton-2020/y2mate.com%20-%20DJ%20ANTAL%20AMIN%20ROBBI%20KHOLAQ%20TOHA%20MINNUR%20BERKAH.mp3",
+      "duration": "03",
+      "lyrics": "<p><span style=\"color:#ffffff\"><strong>Selamat menikmati audio music mp3</strong><br />\r\n<strong>Jangan lupa rating 5 bintangnya</strong><br />\r\n<strong>Jika anda suka dengan aplikasi music mp3 ini</strong><br />\r\n<strong>Terimakasih</strong></span></p>\r\n"
+    },
+	{
+      "id": 3,
+      "name_category": "DJ Sholawat Slow Bass",
+      "title": "DJ Padang Bulan",
+      "image": "https://1.bp.blogspot.com/-aH_OWdbmR18/YGx-7KiWSDI/AAAAAAAAAks/CQE3rAfZW8cWWIcEohC9FyH29yK-pehfwCLcBGAsYHQ/s0/1.png",
+      "link_mp3": "https://archive.org/download/y-2mate.com-dj-syiir-tanpo-waton-2020/y2mate.com%20-%20DJ%20PADANG%20BULAN%20REMIX%20TERBARU%202020.mp3",
+      "duration": "05",
+      "lyrics": "<p><span style=\"color:#ffffff\"><strong>Selamat menikmati audio music mp3</strong><br />\r\n<strong>Jangan lupa rating 5 bintangnya</strong><br />\r\n<strong>Jika anda suka dengan aplikasi music mp3 ini</strong><br />\r\n<strong>Terimakasih</strong></span></p>\r\n"
+    },
+	{
+      "id": 4,
+      "name_category": "DJ Sholawat Slow Bass",
+      "title": "DJ Tiket Suargo",
+      "image": "https://1.bp.blogspot.com/-aH_OWdbmR18/YGx-7KiWSDI/AAAAAAAAAks/CQE3rAfZW8cWWIcEohC9FyH29yK-pehfwCLcBGAsYHQ/s0/1.png",
+      "link_mp3": "https://archive.org/download/y-2mate.com-dj-syiir-tanpo-waton-2020/y2mate.com%20-%20DJ%20SANTAI%20TIKET%20SUARGO%20%20REMIX%20FULL%20BASS%20GLERR.mp3",
+      "duration": "06",
+      "lyrics": "<p><span style=\"color:#ffffff\"><strong>Selamat menikmati audio music mp3</strong><br />\r\n<strong>Jangan lupa rating 5 bintangnya</strong><br />\r\n<strong>Jika anda suka dengan aplikasi music mp3 ini</strong><br />\r\n<strong>Terimakasih</strong></span></p>\r\n"
+    },
+	{
+      "id": 5,
+      "name_category": "DJ Sholawat Slow Bass",
+      "title": "DJ Man Ana",
+      "image": "https://1.bp.blogspot.com/-aH_OWdbmR18/YGx-7KiWSDI/AAAAAAAAAks/CQE3rAfZW8cWWIcEohC9FyH29yK-pehfwCLcBGAsYHQ/s0/1.png",
+      "link_mp3": "https://archive.org/download/y-2mate.com-dj-syiir-tanpo-waton-2020/y2mate.com%20-%20DJ%20SHOLAWAT%20%20MAN%20ANA%20%20REMIX%20SLOW%20BASS%20%20DJ%20SHOLAWAT%20TERBARU%202020.mp3",
+      "duration": "05",
+      "lyrics": "<p><span style=\"color:#ffffff\"><strong>Selamat menikmati audio music mp3</strong><br />\r\n<strong>Jangan lupa rating 5 bintangnya</strong><br />\r\n<strong>Jika anda suka dengan aplikasi music mp3 ini</strong><br />\r\n<strong>Terimakasih</strong></span></p>\r\n"
+    },
+	{
+      "id": 6,
+      "name_category": "DJ Sholawat Slow Bass",
+      "title": "DJ Inal Habibal Mustofa",
+      "image": "https://1.bp.blogspot.com/-aH_OWdbmR18/YGx-7KiWSDI/AAAAAAAAAks/CQE3rAfZW8cWWIcEohC9FyH29yK-pehfwCLcBGAsYHQ/s0/1.png",
+      "link_mp3": "https://archive.org/download/y-2mate.com-dj-syiir-tanpo-waton-2020/y2mate.com%20-%20DJ%20SHOLAWAT%20INNAL%20HABIBAL%20MUSTOFA%20remix%20slow%20terbaru%20full%20bass%20mantuull%20by%20yanz%20tube.mp3",
+      "duration": "07",
+      "lyrics": "<p><span style=\"color:#ffffff\"><strong>Selamat menikmati audio music mp3</strong><br />\r\n<strong>Jangan lupa rating 5 bintangnya</strong><br />\r\n<strong>Jika anda suka dengan aplikasi music mp3 ini</strong><br />\r\n<strong>Terimakasih</strong></span></p>\r\n"
+    },
+	{
+      "id": 7,
+      "name_category": "DJ Sholawat Slow Bass",
+      "title": "DJ Syiir Tanpo Waton",
+      "image": "https://1.bp.blogspot.com/-aH_OWdbmR18/YGx-7KiWSDI/AAAAAAAAAks/CQE3rAfZW8cWWIcEohC9FyH29yK-pehfwCLcBGAsYHQ/s0/1.png",
+      "link_mp3": "https://archive.org/download/y-2mate.com-dj-syiir-tanpo-waton-2020/y2mate.com%20-%20DJ%20SYIIR%20TANPO%20WATON%202020.mp3",
+      "duration": "10",
+      "lyrics": "<p><span style=\"color:#ffffff\"><strong>Selamat menikmati audio music mp3</strong><br />\r\n<strong>Jangan lupa rating 5 bintangnya</strong><br />\r\n<strong>Jika anda suka dengan aplikasi music mp3 ini</strong><br />\r\n<strong>Terimakasih</strong></span></p>\r\n"
+    },
+	{
+      "id": 8,
+      "name_category": "DJ Sholawat Slow Bass",
+      "title": "DJ Sholawat Asghil",
+      "image": "https://1.bp.blogspot.com/-aH_OWdbmR18/YGx-7KiWSDI/AAAAAAAAAks/CQE3rAfZW8cWWIcEohC9FyH29yK-pehfwCLcBGAsYHQ/s0/1.png",
+      "link_mp3": "https://archive.org/download/y-2mate.com-dj-syiir-tanpo-waton-2020/y2mate.com%20-%20DJ%20sholawat%20ASYGHIL%20terbaru%202021%20JINGGLE%20RELIGI%20ZW%20AUDIO%20NGANTANG%20BY%20R2%20PROJECT.mp3",
+      "duration": "05",
+      "lyrics": "<p><span style=\"color:#ffffff\"><strong>Selamat menikmati audio music mp3</strong><br />\r\n<strong>Jangan lupa rating 5 bintangnya</strong><br />\r\n<strong>Jika anda suka dengan aplikasi music mp3 ini</strong><br />\r\n<strong>Terimakasih</strong></span></p>\r\n"
+    },
+	{
+      "id": 9,
+      "name_category": "DJ Sholawat Slow Bass",
+      "title": "Dj Turi Turi Putih",
+      "image": "https://1.bp.blogspot.com/-aH_OWdbmR18/YGx-7KiWSDI/AAAAAAAAAks/CQE3rAfZW8cWWIcEohC9FyH29yK-pehfwCLcBGAsYHQ/s0/1.png",
+      "link_mp3": "https://archive.org/download/y-2mate.com-dj-syiir-tanpo-waton-2020/y2mate.com%20-%20Dj%20Religi%20Turi%20Turi%20Putih%20%20Versi%20Angklung%20Jaranan%20%20102%20Project.mp3",
+      "duration": "05",
+      "lyrics": "<p><span style=\"color:#ffffff\"><strong>Selamat menikmati audio music mp3</strong><br />\r\n<strong>Jangan lupa rating 5 bintangnya</strong><br />\r\n<strong>Jika anda suka dengan aplikasi music mp3 ini</strong><br />\r\n<strong>Terimakasih</strong></span></p>\r\n"
+    },
+	{
+      "id": 10,
+      "name_category": "DJ Sholawat Slow Bass",
+      "title": "DJ Khomsatun Doa Penangkal Wabah",
+      "image": "https://1.bp.blogspot.com/-aH_OWdbmR18/YGx-7KiWSDI/AAAAAAAAAks/CQE3rAfZW8cWWIcEohC9FyH29yK-pehfwCLcBGAsYHQ/s0/1.png",
+      "link_mp3": "https://archive.org/download/y-2mate.com-dj-syiir-tanpo-waton-2020/y2mate.com%20-%20LI%20KHOMSATUNDoa%20penangkal%20wabahREMIX%20SLOWWWMUANTTTUUULLL.mp3",
+      "duration": "06",
+      "lyrics": "<p><span style=\"color:#ffffff\"><strong>Selamat menikmati audio music mp3</strong><br />\r\n<strong>Jangan lupa rating 5 bintangnya</strong><br />\r\n<strong>Jika anda suka dengan aplikasi music mp3 ini</strong><br />\r\n<strong>Terimakasih</strong></span></p>\r\n"
+    },
+	{
+      "id": 11,
+      "name_category": "DJ Sholawat Slow Bass",
+      "title": "DJ Sugih Tanpo Bondo",
+      "image": "https://1.bp.blogspot.com/-aH_OWdbmR18/YGx-7KiWSDI/AAAAAAAAAks/CQE3rAfZW8cWWIcEohC9FyH29yK-pehfwCLcBGAsYHQ/s0/1.png",
+      "link_mp3": "https://archive.org/download/y-2mate.com-dj-syiir-tanpo-waton-2020/y2mate.com%20-%20Viral%20DJ%20Sugih%20Tanpo%20Bondo%20Full%20Bass%20Santuy.mp3",
+      "duration": "03",
+      "lyrics": "<p><span style=\"color:#ffffff\"><strong>Selamat menikmati audio music mp3</strong><br />\r\n<strong>Jangan lupa rating 5 bintangnya</strong><br />\r\n<strong>Jika anda suka dengan aplikasi music mp3 ini</strong><br />\r\n<strong>Terimakasih</strong></span></p>\r\n"
+    },
+	{
+      "id": 12,
+      "name_category": "DJ Sholawat Slow Bass",
+      "title": "DJ Balasan Lagu Syantik",
+      "image": "https://1.bp.blogspot.com/-aH_OWdbmR18/YGx-7KiWSDI/AAAAAAAAAks/CQE3rAfZW8cWWIcEohC9FyH29yK-pehfwCLcBGAsYHQ/s0/1.png",
+      "link_mp3": "https://archive.org/download/sholawat-dj-remix-2/BALASAN-LAGU-LAGI-SYANTIK.mp3",
+      "duration": "02",
+      "lyrics": "<p><span style=\"color:#ffffff\"><strong>Selamat menikmati audio music mp3</strong><br />\r\n<strong>Jangan lupa rating 5 bintangnya</strong><br />\r\n<strong>Jika anda suka dengan aplikasi music mp3 ini</strong><br />\r\n<strong>Terimakasih</strong></span></p>\r\n"
+    },
+	{
+      "id": 13,
+      "name_category": "DJ Sholawat Slow Bass",
+      "title": "DJ Maimunah Di Tikung Jamilah",
+      "image": "https://1.bp.blogspot.com/-aH_OWdbmR18/YGx-7KiWSDI/AAAAAAAAAks/CQE3rAfZW8cWWIcEohC9FyH29yK-pehfwCLcBGAsYHQ/s0/1.png",
+      "link_mp3": "https://archive.org/download/sholawat-dj-remix-2/DJ%20MAIMUNAH%20DI%20TIKUNG%20JAMILAH.mp3",
+      "duration": "03",
+      "lyrics": "<p><span style=\"color:#ffffff\"><strong>Selamat menikmati audio music mp3</strong><br />\r\n<strong>Jangan lupa rating 5 bintangnya</strong><br />\r\n<strong>Jika anda suka dengan aplikasi music mp3 ini</strong><br />\r\n<strong>Terimakasih</strong></span></p>\r\n"
+    },
+	{
+      "id": 14,
+      "name_category": "DJ Sholawat Slow Bass",
+      "title": "Dj Ayah Ku Kirimkan Doa",
+      "image": "https://1.bp.blogspot.com/-aH_OWdbmR18/YGx-7KiWSDI/AAAAAAAAAks/CQE3rAfZW8cWWIcEohC9FyH29yK-pehfwCLcBGAsYHQ/s0/1.png",
+      "link_mp3": "https://archive.org/download/sholawat-dj-remix-2/Dj%20Ayah%20Ku%20Kirimkan%20Doa.mp3",
+      "duration": "06",
+      "lyrics": "<p><span style=\"color:#ffffff\"><strong>Selamat menikmati audio music mp3</strong><br />\r\n<strong>Jangan lupa rating 5 bintangnya</strong><br />\r\n<strong>Jika anda suka dengan aplikasi music mp3 ini</strong><br />\r\n<strong>Terimakasih</strong></span></p>\r\n"
+    },
+	{
+      "id": 15,
+      "name_category": "DJ Sholawat Slow Bass",
+      "title": "Dj Ya Asiqol Musthofa",
+      "image": "https://1.bp.blogspot.com/-aH_OWdbmR18/YGx-7KiWSDI/AAAAAAAAAks/CQE3rAfZW8cWWIcEohC9FyH29yK-pehfwCLcBGAsYHQ/s0/1.png",
+      "link_mp3": "https://archive.org/download/sholawat-dj-remix-2/Dj%20Ya%20Asiqol%20Musthofa.mp3",
+      "duration": "05",
+      "lyrics": "<p><span style=\"color:#ffffff\"><strong>Selamat menikmati audio music mp3</strong><br />\r\n<strong>Jangan lupa rating 5 bintangnya</strong><br />\r\n<strong>Jika anda suka dengan aplikasi music mp3 ini</strong><br />\r\n<strong>Terimakasih</strong></span></p>\r\n"
+    },
+	{
+      "id": 16,
+      "name_category": "DJ Sholawat Slow Bass",
+      "title": "Dj Ya habibal Qolbi",
+      "image": "https://1.bp.blogspot.com/-aH_OWdbmR18/YGx-7KiWSDI/AAAAAAAAAks/CQE3rAfZW8cWWIcEohC9FyH29yK-pehfwCLcBGAsYHQ/s0/1.png",
+      "link_mp3": "https://archive.org/download/sholawat-dj-remix-2/Dj%20Ya%20habibal%20Qolbi.mp3",
+      "duration": "04",
+      "lyrics": "<p><span style=\"color:#ffffff\"><strong>Selamat menikmati audio music mp3</strong><br />\r\n<strong>Jangan lupa rating 5 bintangnya</strong><br />\r\n<strong>Jika anda suka dengan aplikasi music mp3 ini</strong><br />\r\n<strong>Terimakasih</strong></span></p>\r\n"
+    },
+	{
+      "id": 17,
+      "name_category": "DJ Sholawat Viral",
+      "title": "DJ Aku Suka Wajah Jamilah",
+      "image": "https://1.bp.blogspot.com/-aH_OWdbmR18/YGx-7KiWSDI/AAAAAAAAAks/CQE3rAfZW8cWWIcEohC9FyH29yK-pehfwCLcBGAsYHQ/s0/1.png",
+      "link_mp3": "https://archive.org/download/sholawat-dj-remix-2/dj%20aq%20suka%20wajah%20jamilah.mp3",
+      "duration": "04",
+      "lyrics": "<p><span style=\"color:#ffffff\"><strong>Selamat menikmati audio music mp3</strong><br />\r\n<strong>Jangan lupa rating 5 bintangnya</strong><br />\r\n<strong>Jika anda suka dengan aplikasi music mp3 ini</strong><br />\r\n<strong>Terimakasih</strong></span></p>\r\n"
+    },
+	{
+      "id": 18,
+      "name_category": "DJ Sholawat Viral",
+      "title": "DJ Jauhi Rokok Dekati Adek",
+      "image": "https://1.bp.blogspot.com/-aH_OWdbmR18/YGx-7KiWSDI/AAAAAAAAAks/CQE3rAfZW8cWWIcEohC9FyH29yK-pehfwCLcBGAsYHQ/s0/1.png",
+      "link_mp3": "https://archive.org/download/sholawat-dj-remix-2/dj%20jauhi%20rokok%20dekati%20adek.mp3",
+      "duration": "04",
+      "lyrics": "<p><span style=\"color:#ffffff\"><strong>Selamat menikmati audio music mp3</strong><br />\r\n<strong>Jangan lupa rating 5 bintangnya</strong><br />\r\n<strong>Jika anda suka dengan aplikasi music mp3 ini</strong><br />\r\n<strong>Terimakasih</strong></span></p>\r\n"
+    },
+	{
+      "id": 19,
+      "name_category": "DJ Sholawat Viral",
+      "title": "DJ Sholawat Nabi",
+      "image": "https://1.bp.blogspot.com/-aH_OWdbmR18/YGx-7KiWSDI/AAAAAAAAAks/CQE3rAfZW8cWWIcEohC9FyH29yK-pehfwCLcBGAsYHQ/s0/1.png",
+      "link_mp3": "https://archive.org/download/sholawat-dj-remix-2/sholawat-dj-remix-2.mp3",
+      "duration": "05",
+      "lyrics": "<p><span style=\"color:#ffffff\"><strong>Selamat menikmati audio music mp3</strong><br />\r\n<strong>Jangan lupa rating 5 bintangnya</strong><br />\r\n<strong>Jika anda suka dengan aplikasi music mp3 ini</strong><br />\r\n<strong>Terimakasih</strong></span></p>\r\n"
+    },
+	{
+      "id": 20,
+      "name_category": "DJ Sholawat Viral",
+      "title": "DJ Sholawat Alburdah",
+      "image": "https://1.bp.blogspot.com/-aH_OWdbmR18/YGx-7KiWSDI/AAAAAAAAAks/CQE3rAfZW8cWWIcEohC9FyH29yK-pehfwCLcBGAsYHQ/s0/1.png",
+      "link_mp3": "https://archive.org/download/y-2mate.com-sholatun-bissalamil-mubin-dj-religi-slow-bass-dj-sholawat-merdu-terbaru-full-bass-2020/y2mate.com%20-%20DJ%20RELIGI%20SLOW%20SHOLAWAT%20ALBURDAH%20BASS%2069%20PROJECT.mp3",
+      "duration": "05",
+      "lyrics": "<p><span style=\"color:#ffffff\"><strong>Selamat menikmati audio music mp3</strong><br />\r\n<strong>Jangan lupa rating 5 bintangnya</strong><br />\r\n<strong>Jika anda suka dengan aplikasi music mp3 ini</strong><br />\r\n<strong>Terimakasih</strong></span></p>\r\n"
+    },
+	{
+      "id": 21,
+      "name_category": "DJ Sholawat Viral",
+      "title": "DJ Saben Malam Jumat",
+      "image": "https://1.bp.blogspot.com/-aH_OWdbmR18/YGx-7KiWSDI/AAAAAAAAAks/CQE3rAfZW8cWWIcEohC9FyH29yK-pehfwCLcBGAsYHQ/s0/1.png",
+      "link_mp3": "https://archive.org/download/y-2mate.com-sholatun-bissalamil-mubin-dj-religi-slow-bass-dj-sholawat-merdu-terbaru-full-bass-2020/y2mate.com%20-%20DJ%20SABEN%20MALAM%20JUMAT%20TERBARU%20FULL%20BASS.mp3",
+      "duration": "05",
+      "lyrics": "<p><span style=\"color:#ffffff\"><strong>Selamat menikmati audio music mp3</strong><br />\r\n<strong>Jangan lupa rating 5 bintangnya</strong><br />\r\n<strong>Jika anda suka dengan aplikasi music mp3 ini</strong><br />\r\n<strong>Terimakasih</strong></span></p>\r\n"
+    },
+	{
+      "id": 22,
+      "name_category": "DJ Sholawat Viral",
+      "title": "DJ Ya Imamarusli",
+      "image": "https://1.bp.blogspot.com/-aH_OWdbmR18/YGx-7KiWSDI/AAAAAAAAAks/CQE3rAfZW8cWWIcEohC9FyH29yK-pehfwCLcBGAsYHQ/s0/1.png",
+      "link_mp3": "https://archive.org/download/y-2mate.com-sholatun-bissalamil-mubin-dj-religi-slow-bass-dj-sholawat-merdu-terbaru-full-bass-2020/y2mate.com%20-%20DJ%20SHOLAWAT%20YA%20iMAMARUSLI%20VERSI%20ANGKLUNG%20TERBARU%202020%20%20ENAK%20BUAT%20CEK%20SOUND.mp3",
+      "duration": "05",
+      "lyrics": "<p><span style=\"color:#ffffff\"><strong>Selamat menikmati audio music mp3</strong><br />\r\n<strong>Jangan lupa rating 5 bintangnya</strong><br />\r\n<strong>Jika anda suka dengan aplikasi music mp3 ini</strong><br />\r\n<strong>Terimakasih</strong></span></p>\r\n"
+    },
+	{
+      "id": 23,
+      "name_category": "DJ Sholawat Viral",
+      "title": "DJ Tombo Aati",
+      "image": "https://1.bp.blogspot.com/-aH_OWdbmR18/YGx-7KiWSDI/AAAAAAAAAks/CQE3rAfZW8cWWIcEohC9FyH29yK-pehfwCLcBGAsYHQ/s0/1.png",
+      "link_mp3": "https://archive.org/download/y-2mate.com-sholatun-bissalamil-mubin-dj-religi-slow-bass-dj-sholawat-merdu-terbaru-full-bass-2020/y2mate.com%20-%20DJ%20TOMBO%20ATI%20SLOW%20BASS%20%20SAM%20HUS%2069%20PROJECT.mp3",
+      "duration": "05",
+      "lyrics": "<p><span style=\"color:#ffffff\"><strong>Selamat menikmati audio music mp3</strong><br />\r\n<strong>Jangan lupa rating 5 bintangnya</strong><br />\r\n<strong>Jika anda suka dengan aplikasi music mp3 ini</strong><br />\r\n<strong>Terimakasih</strong></span></p>\r\n"
+    },
+	{
+      "id": 24,
+      "name_category": "DJ Sholawat Viral",
+      "title": "DJ Ya Badrotim",
+      "image": "https://1.bp.blogspot.com/-aH_OWdbmR18/YGx-7KiWSDI/AAAAAAAAAks/CQE3rAfZW8cWWIcEohC9FyH29yK-pehfwCLcBGAsYHQ/s0/1.png",
+      "link_mp3": "https://archive.org/download/y-2mate.com-sholatun-bissalamil-mubin-dj-religi-slow-bass-dj-sholawat-merdu-terbaru-full-bass-2020/y2mate.com%20-%20DJ%20YA%20BADROTIM%20FULL%20BASS%20TERBARU%202020.mp3",
+      "duration": "05",
+      "lyrics": "<p><span style=\"color:#ffffff\"><strong>Selamat menikmati audio music mp3</strong><br />\r\n<strong>Jangan lupa rating 5 bintangnya</strong><br />\r\n<strong>Jika anda suka dengan aplikasi music mp3 ini</strong><br />\r\n<strong>Terimakasih</strong></span></p>\r\n"
+    },
+	{
+      "id": 25,
+      "name_category": "DJ Sholawat Viral",
+      "title": "DJ Ya Robbana Tharofna",
+      "image": "https://1.bp.blogspot.com/-aH_OWdbmR18/YGx-7KiWSDI/AAAAAAAAAks/CQE3rAfZW8cWWIcEohC9FyH29yK-pehfwCLcBGAsYHQ/s0/1.png",
+      "link_mp3": "https://archive.org/download/y-2mate.com-sholatun-bissalamil-mubin-dj-religi-slow-bass-dj-sholawat-merdu-terbaru-full-bass-2020/y2mate.com%20-%20DJ%20YA%20ROBBANA%20THAROFNA%20FULL%20BASS%20TERBARU%202020%20by%2069project%20ft%20wong%20gunung96%20channel.mp3",
+      "duration": "04",
+      "lyrics": "<p><span style=\"color:#ffffff\"><strong>Selamat menikmati audio music mp3</strong><br />\r\n<strong>Jangan lupa rating 5 bintangnya</strong><br />\r\n<strong>Jika anda suka dengan aplikasi music mp3 ini</strong><br />\r\n<strong>Terimakasih</strong></span></p>\r\n"
+    },
+	{
+      "id": 26,
+      "name_category": "DJ Sholawat Viral",
+      "title": "Dj Itirof Sebuah Pengakuan",
+      "image": "https://1.bp.blogspot.com/-aH_OWdbmR18/YGx-7KiWSDI/AAAAAAAAAks/CQE3rAfZW8cWWIcEohC9FyH29yK-pehfwCLcBGAsYHQ/s0/1.png",
+      "link_mp3": "https://archive.org/download/y-2mate.com-sholatun-bissalamil-mubin-dj-religi-slow-bass-dj-sholawat-merdu-terbaru-full-bass-2020/y2mate.com%20-%20Dj%20Religi%20Itirof%20Sebuah%20Pengakuan%20Slow%20Remix%20Full%20Bass%20Terbaru%202020.mp3",
+      "duration": "05",
+      "lyrics": "<p><span style=\"color:#ffffff\"><strong>Selamat menikmati audio music mp3</strong><br />\r\n<strong>Jangan lupa rating 5 bintangnya</strong><br />\r\n<strong>Jika anda suka dengan aplikasi music mp3 ini</strong><br />\r\n<strong>Terimakasih</strong></span></p>\r\n"
+    },
+	{
+      "id": 27,
+      "name_category": "DJ Sholawat Viral",
+      "title": "DJ Sholatun Bissalamil Mubin",
+      "image": "https://1.bp.blogspot.com/-aH_OWdbmR18/YGx-7KiWSDI/AAAAAAAAAks/CQE3rAfZW8cWWIcEohC9FyH29yK-pehfwCLcBGAsYHQ/s0/1.png",
+      "link_mp3": "https://archive.org/download/y-2mate.com-sholatun-bissalamil-mubin-dj-religi-slow-bass-dj-sholawat-merdu-terbaru-full-bass-2020/y2mate.com%20-%20Sholatun%20Bissalamil%20Mubin%20%20Dj%20Religi%20Slow%20Bass%20%20Dj%20Sholawat%20Merdu%20Terbaru%20Full%20Bass%202020.mp3",
+      "duration": "06",
+      "lyrics": "<p><span style=\"color:#ffffff\"><strong>Selamat menikmati audio music mp3</strong><br />\r\n<strong>Jangan lupa rating 5 bintangnya</strong><br />\r\n<strong>Jika anda suka dengan aplikasi music mp3 ini</strong><br />\r\n<strong>Terimakasih</strong></span></p>\r\n"
+    },
+	{
+      "id": 28,
+      "name_category": "DJ Sholawat Viral",
+      "title": "DJ Adfaita Religi",
+      "image": "https://1.bp.blogspot.com/-aH_OWdbmR18/YGx-7KiWSDI/AAAAAAAAAks/CQE3rAfZW8cWWIcEohC9FyH29yK-pehfwCLcBGAsYHQ/s0/1.png",
+      "link_mp3": "https://archive.org/download/y-2mate.com-dj-religi-huwannur-full-bass-terbaru-2020-by-wong-gunung-96-ft-ridho-pratama/y2mate.com%20-%20DJ%20Adfaita%20Religi%20Terbaru%20by%20Rouf%20Musik%20ft%2069%20Project%20Selow%20Bass.mp3",
+      "duration": "04",
+      "lyrics": "<p><span style=\"color:#ffffff\"><strong>Selamat menikmati audio music mp3</strong><br />\r\n<strong>Jangan lupa rating 5 bintangnya</strong><br />\r\n<strong>Jika anda suka dengan aplikasi music mp3 ini</strong><br />\r\n<strong>Terimakasih</strong></span></p>\r\n"
+    },
+	{
+      "id": 29,
+      "name_category": "DJ Sholawat Viral",
+      "title": "DJ Lir-Ilir",
+      "image": "https://1.bp.blogspot.com/-aH_OWdbmR18/YGx-7KiWSDI/AAAAAAAAAks/CQE3rAfZW8cWWIcEohC9FyH29yK-pehfwCLcBGAsYHQ/s0/1.png",
+      "link_mp3": "https://archive.org/download/y-2mate.com-dj-religi-huwannur-full-bass-terbaru-2020-by-wong-gunung-96-ft-ridho-pratama/y2mate.com%20-%20DJ%20Lir%20Ilir%20Religi%20Slow%20Terbaru%202020%20__%20Rouf%20Musik%20__%20by%2069%20Project.mp3",
+      "duration": "04",
+      "lyrics": "<p><span style=\"color:#ffffff\"><strong>Selamat menikmati audio music mp3</strong><br />\r\n<strong>Jangan lupa rating 5 bintangnya</strong><br />\r\n<strong>Jika anda suka dengan aplikasi music mp3 ini</strong><br />\r\n<strong>Terimakasih</strong></span></p>\r\n"
+    },
+	{
+      "id": 30,
+      "name_category": "DJ Sholawat Viral",
+      "title": "DJ Huwannur",
+      "image": "https://1.bp.blogspot.com/-aH_OWdbmR18/YGx-7KiWSDI/AAAAAAAAAks/CQE3rAfZW8cWWIcEohC9FyH29yK-pehfwCLcBGAsYHQ/s0/1.png",
+      "link_mp3": "https://archive.org/download/y-2mate.com-dj-religi-huwannur-full-bass-terbaru-2020-by-wong-gunung-96-ft-ridho-pratama/y2mate.com%20-%20DJ%20RELIGI%20HUWANNUR%20FULL%20BASS%20TERBARU%202020%20by%20wong%20gunung96%20ft%20ridho%20pratama.mp3",
+      "duration": "07",
+      "lyrics": "<p><span style=\"color:#ffffff\"><strong>Selamat menikmati audio music mp3</strong><br />\r\n<strong>Jangan lupa rating 5 bintangnya</strong><br />\r\n<strong>Jika anda suka dengan aplikasi music mp3 ini</strong><br />\r\n<strong>Terimakasih</strong></span></p>\r\n"
+    },
+	{
+      "id": 31,
+      "name_category": "DJ Sholawat Viral",
+      "title": "DJ Syaikhona",
+      "image": "https://1.bp.blogspot.com/-aH_OWdbmR18/YGx-7KiWSDI/AAAAAAAAAks/CQE3rAfZW8cWWIcEohC9FyH29yK-pehfwCLcBGAsYHQ/s0/1.png",
+      "link_mp3": "https://archive.org/download/y-2mate.com-dj-religi-huwannur-full-bass-terbaru-2020-by-wong-gunung-96-ft-ridho-pratama/y2mate.com%20-%20DJ%20Religi%20Syaikhona%20Terbaru%20by%2069%20Project%20ft%20Rouf%20Musik.mp3",
+      "duration": "04",
+      "lyrics": "<p><span style=\"color:#ffffff\"><strong>Selamat menikmati audio music mp3</strong><br />\r\n<strong>Jangan lupa rating 5 bintangnya</strong><br />\r\n<strong>Jika anda suka dengan aplikasi music mp3 ini</strong><br />\r\n<strong>Terimakasih</strong></span></p>\r\n"
+    },
+	{
+      "id": 32,
+      "name_category": "DJ Sholawat Viral",
+      "title": "DJ Sa'duna Fiddunya",
+      "image": "https://1.bp.blogspot.com/-aH_OWdbmR18/YGx-7KiWSDI/AAAAAAAAAks/CQE3rAfZW8cWWIcEohC9FyH29yK-pehfwCLcBGAsYHQ/s0/1.png",
+      "link_mp3": "https://archive.org/download/y-2mate.com-dj-religi-huwannur-full-bass-terbaru-2020-by-wong-gunung-96-ft-ridho-pratama/y2mate.com%20-%20DJ%20SA%27DUNA%20FIDDUNYA%20-%20RISKI%20IRVAN%20NANDA%2069%20PROJECT.mp3",
+      "duration": "05",
+      "lyrics": "<p><span style=\"color:#ffffff\"><strong>Selamat menikmati audio music mp3</strong><br />\r\n<strong>Jangan lupa rating 5 bintangnya</strong><br />\r\n<strong>Jika anda suka dengan aplikasi music mp3 ini</strong><br />\r\n<strong>Terimakasih</strong></span></p>\r\n"
+    },
+	{
+      "id": 33,
+      "name_category": "DJ Sholawat Viral",
+      "title": "DJ Ya Hanana",
+      "image": "https://1.bp.blogspot.com/-aH_OWdbmR18/YGx-7KiWSDI/AAAAAAAAAks/CQE3rAfZW8cWWIcEohC9FyH29yK-pehfwCLcBGAsYHQ/s0/1.png",
+      "link_mp3": "https://archive.org/download/y-2mate.com-dj-religi-huwannur-full-bass-terbaru-2020-by-wong-gunung-96-ft-ridho-pratama/y2mate.com%20-%20DJ%20SHOLAWAT%20YA%20HANANA%20SLOW%20BASS%20BIKIN%20HATI%20ADEM.mp3",
+      "duration": "04",
+      "lyrics": "<p><span style=\"color:#ffffff\"><strong>Selamat menikmati audio music mp3</strong><br />\r\n<strong>Jangan lupa rating 5 bintangnya</strong><br />\r\n<strong>Jika anda suka dengan aplikasi music mp3 ini</strong><br />\r\n<strong>Terimakasih</strong></span></p>\r\n"
+    },
+	{
+      "id": 34,
+      "name_category": "DJ Sholawat Viral",
+      "title": "DJ Allahul Kafi Robbunal Kafi",
+      "image": "https://1.bp.blogspot.com/-aH_OWdbmR18/YGx-7KiWSDI/AAAAAAAAAks/CQE3rAfZW8cWWIcEohC9FyH29yK-pehfwCLcBGAsYHQ/s0/1.png",
+      "link_mp3": "https://archive.org/download/y-2mate.com-dj-religi-huwannur-full-bass-terbaru-2020-by-wong-gunung-96-ft-ridho-pratama/y2mate.com%20-%20Dj%20Viral%20%F0%9F%8E%B5%F0%9F%8E%B5%20Tik%20Tok%20Allahul%20Kafi%20Robbunal%20Kafi%20%28Remix%20Slow%20Full%20Bass%20Viral%202020%29%20Versi%20Angklung.mp3",
+      "duration": "04",
+      "lyrics": "<p><span style=\"color:#ffffff\"><strong>Selamat menikmati audio music mp3</strong><br />\r\n<strong>Jangan lupa rating 5 bintangnya</strong><br />\r\n<strong>Jika anda suka dengan aplikasi music mp3 ini</strong><br />\r\n<strong>Terimakasih</strong></span></p>\r\n"
+    },
+	{
+      "id": 35,
+      "name_category": "DJ Sholawat Viral",
+      "title": "DJ Al i'tirof(ilahila)",
+      "image": "https://1.bp.blogspot.com/-aH_OWdbmR18/YGx-7KiWSDI/AAAAAAAAAks/CQE3rAfZW8cWWIcEohC9FyH29yK-pehfwCLcBGAsYHQ/s0/1.png",
+      "link_mp3": "https://archive.org/download/y-2mate.com-dj-religi-huwannur-full-bass-terbaru-2020-by-wong-gunung-96-ft-ridho-pratama/y2mate.com%20-%20dj%20sholawat%20terbaru%202020%20_%20Al%20i%27tirof%28ilahila%29%20__%20slow%20bass%20remix.mp3",
+      "duration": "04",
+      "lyrics": "<p><span style=\"color:#ffffff\"><strong>Selamat menikmati audio music mp3</strong><br />\r\n<strong>Jangan lupa rating 5 bintangnya</strong><br />\r\n<strong>Jika anda suka dengan aplikasi music mp3 ini</strong><br />\r\n<strong>Terimakasih</strong></span></p>\r\n"
+    }
+
+  ]
+}
