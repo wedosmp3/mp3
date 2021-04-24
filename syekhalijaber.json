@@ -1,228 +1,328 @@
-{ 
-    
-    "Iklan": [
-        {
-        "status": "0",
-        "link": "https://play.google.com/store/apps/details?id=",
-
-        "appid": "ca-app-pub-2521648737251856~1715217759",
-        "admobappid": "ca-app-pub-2521648737251856/8991072544",
-        "interid": "ca-app-pub-2521648737251856/4149809400",
-        "bannerid":"ca-app-pub-2521648737251856/1304154218",
-   
-
-
-        "pengaturan_iklan":"1",
-        
-        "deskripsi_update": "",
-        "link_update": "",
-        "version_app":1,
-        
-        "fan_inter":"",
-        "fan_banner":"",
-   
-   		"startappid":"123456789",
-
-        "hpk_admob1":"",
-        "hpk_admob2":"",
-        "hpk_admob3":"",
-        "hpk_admob4":"",
-        "hpk_admob5":""
-  
-
-        }
-    ],
-	
-  "Category": [
+{
+  "Ads": [
     {
-      "id" : 1,
-      "host" : "Ceramah Syekh Ali Jaber",
-      "gambar" : "https://cdn.idntimes.com/content-images/post/20200913/unnamed-900x675-bd2b9daede45a4728e861594b00cf7a0_600x400.jpg"
+      "select_ads": "ADMOB",
+      "status_app": "0",
+      "link_redirect": "https://play.google.com/store/apps/details?id=",
+      "admob_interid": "ca-app-pub-2521648737251856/4149809400",
+      "admob_bannerid": "ca-app-pub-2521648737251856/1304154218",
+      "admob_openid": "ca-app-pub-2521648737251856/8991072544",
+      "interval_intertitial": "5",
+      "startappid": "201270579",
+      "fan_inter": "",
+      "fan_banner": "",
+      "mopub_banner": "",
+      "mopub_inter": "",
+      "appodeal_key": "",
+      "packagename": "com.sndstudio.judulpaganame"
     }
   ],
-	
-  "music": [
+  "Categories": [
     {
-      "id" : 1,
-      "judul" : "1. Amalan Agar Hidup Tidak Merugi",
-      "host" : "Ceramah Syekh Ali Jaber",
-      "gambar" : "https://kanalberita.co/wp-content/uploads/2020/09/Profil-Lengkap-Syekh-Ali-Jaber-750x450-1-696x418.png",
-      "link_mp3" : "https://archive.org/download/Ceramah-Syaikh-Ali-Jaber-Indonesia/3%20Amalan%20Agar%20Hidup%20Tidak%20Merugi%20-%20Ceramah%20Syekh%20Ali%20Jaber.mp3",
-      "lirik" : "",
-      "durasi" : 46
-    },
-		{
-      "id" : 2,
-      "judul" : "2. Cara Allah Mengabulkan Doa",
-      "host" : "Ceramah Syekh Ali Jaber",
-      "gambar" : "https://kanalberita.co/wp-content/uploads/2020/09/Profil-Lengkap-Syekh-Ali-Jaber-750x450-1-696x418.png",
-      "link_mp3" : "https://archive.org/download/Ceramah-Syaikh-Ali-Jaber-Indonesia/Cara%20Allah%20Mengabulkan%20Doa%20-%20Syeh%20Ali%20Jaber.mp3",
-      "lirik" : "",
-      "durasi" : 59
-    },
-		{
-      "id" : 3,
-      "judul" : "3. Cara Cepat Doa Dikabul Oleh Allah SWT",
-      "host" : "Ceramah Syekh Ali Jaber",
-      "gambar" : "https://kanalberita.co/wp-content/uploads/2020/09/Profil-Lengkap-Syekh-Ali-Jaber-750x450-1-696x418.png",
-      "link_mp3" : "https://archive.org/download/Ceramah-Syaikh-Ali-Jaber-Indonesia/Ceramah%20Ramadhan%20Syekh%20Ali%20Soleh%202015%20Cara%20Cepat%20Doa%20Dikabul%20Oleh%20Allah%20SWT.mp3",
-      "lirik" : "",
-      "durasi" : 54
-    },
-		{
-      "id" : 4,
-      "judul" : "4. Manfaat Mengambilah Air Wudhu Dikala Ingin Tidur",
-      "host" : "Ceramah Syekh Ali Jaber",
-      "gambar" : "https://kanalberita.co/wp-content/uploads/2020/09/Profil-Lengkap-Syekh-Ali-Jaber-750x450-1-696x418.png",
-      "link_mp3" : "https://archive.org/download/Ceramah-Syaikh-Ali-Jaber-Indonesia/Ceramah%20Syeikh%20Ali%20Jaber%202015%20Manfaat%20Mengambilah%20Air%20Wudhu%20Dikala%20Ingin%20Tidur.mp3",
-      "lirik" : "",
-      "durasi" : 23
-    },
-		{
-      "id" : 5,
-      "judul" : "5. Sebab Allah Jauh Terhadap Manusia",
-      "host" : "Ceramah Syekh Ali Jaber",
-      "gambar" : "https://kanalberita.co/wp-content/uploads/2020/09/Profil-Lengkap-Syekh-Ali-Jaber-750x450-1-696x418.png",
-      "link_mp3" : "https://archive.org/download/Ceramah-Syaikh-Ali-Jaber-Indonesia/Ceramah%20Syekh%20Ali%20Jaber%2010%20Sebab%20Allah%20Jauh%20Terhadap%20Manusia.mp3",
-      "lirik" : "",
-      "durasi" : 59
-    },
-		{
-      "id" : 6,
-      "judul" : "6. Indahnya Hidup Bersama Al-Qur'an",
-      "host" : "Ceramah Syekh Ali Jaber",
-      "gambar" : "https://kanalberita.co/wp-content/uploads/2020/09/Profil-Lengkap-Syekh-Ali-Jaber-750x450-1-696x418.png",
-      "link_mp3" : "https://archive.org/download/Ceramah-Syaikh-Ali-Jaber-Indonesia/Indahnya%20Hidup%20Bersama%20Al-Qur%27an%20-%20Ceramah%20Syekh%20Ali%20Jaber.mp3",
-      "lirik" : "",
-      "durasi" : 59
-    },
-		{
-      "id" : 7,
-      "judul" : "7. Komunikasi Yang Berkualitas Dengan Allah",
-      "host" : "Ceramah Syekh Ali Jaber",
-      "gambar" : "https://kanalberita.co/wp-content/uploads/2020/09/Profil-Lengkap-Syekh-Ali-Jaber-750x450-1-696x418.png",
-      "link_mp3" : "https://archive.org/download/Ceramah-Syaikh-Ali-Jaber-Indonesia/Komunikasi%20Yang%20Berkualitas%20Dengan%20Allah%20-%20Ceramah%20Syekh%20Ali%20Jaber.mp3",
-      "lirik" : "",
-      "durasi" : 54
-    },
-		{
-      "id" : 8,
-      "judul" : "8. Memperbaiki Kualitas Shalat",
-      "host" : "Ceramah Syekh Ali Jaber",
-      "gambar" : "https://kanalberita.co/wp-content/uploads/2020/09/Profil-Lengkap-Syekh-Ali-Jaber-750x450-1-696x418.png",
-      "link_mp3" : "https://archive.org/download/Ceramah-Syaikh-Ali-Jaber-Indonesia/Memperbaiki%20Kualitas%20Shalat%20-%20Ceramah%20Syekh%20Ali%20Jaber.mp3",
-      "lirik" : "",
-      "durasi" : 59
-    },
-		{
-      "id" : 9,
-      "judul" : "9. Menjadi Hamba Allah Yang Shaleh",
-      "host" : "Ceramah Syekh Ali Jaber",
-      "gambar" : "https://kanalberita.co/wp-content/uploads/2020/09/Profil-Lengkap-Syekh-Ali-Jaber-750x450-1-696x418.png",
-      "link_mp3" : "https://archive.org/download/Ceramah-Syaikh-Ali-Jaber-Indonesia/Menjadi%20Hamba%20Allah%20Yang%20Shaleh%20-%20Ceramah%20Syekh%20Ali%20Jaber.mp3",
-      "lirik" : "",
-      "durasi" : 59
-    },
-		{
-      "id" : 10,
-      "judul" : "10. Menjemput Rezeki",
-      "host" : "Ceramah Syekh Ali Jaber",
-      "gambar" : "https://kanalberita.co/wp-content/uploads/2020/09/Profil-Lengkap-Syekh-Ali-Jaber-750x450-1-696x418.png",
-      "link_mp3" : "https://archive.org/download/Ceramah-Syaikh-Ali-Jaber-Indonesia/Menjemput%20Rezeki%20-%20Syeh%20Ali%20Jaber.mp3",
-      "lirik" : "",
-      "durasi" : 33
-    },
-		{
-      "id" : 11,
-      "judul" : "11. Pengabdian Kepada Ibu",
-      "host" : "Ceramah Syekh Ali Jaber",
-      "gambar" : "https://kanalberita.co/wp-content/uploads/2020/09/Profil-Lengkap-Syekh-Ali-Jaber-750x450-1-696x418.png",
-      "link_mp3" : "https://archive.org/download/Ceramah-Syaikh-Ali-Jaber-Indonesia/Pengabdian%20Kepada%20Ibu%20-%20Syekh%20Ali%20Jaber.mp3",
-      "lirik" : "",
-      "durasi" : 59
-    },
-		{
-      "id" : 12,
-      "judul" : "12. Rahasia Subuh",
-      "host" : "Ceramah Syekh Ali Jaber",
-      "gambar" : "https://kanalberita.co/wp-content/uploads/2020/09/Profil-Lengkap-Syekh-Ali-Jaber-750x450-1-696x418.png",
-      "link_mp3" : "https://archive.org/download/Ceramah-Syaikh-Ali-Jaber-Indonesia/Rahasia%20Subuh%20-%20Syeh%20Ali%20Jaber.mp3",
-      "lirik" : "",
-      "durasi" : 09
-    },
-		{
-      "id" : 13,
-      "judul" : "13. Amalan Kecil dengan Pahala Besar",
-      "host" : "Ceramah Syekh Ali Jaber",
-      "gambar" : "https://kanalberita.co/wp-content/uploads/2020/09/Profil-Lengkap-Syekh-Ali-Jaber-750x450-1-696x418.png",
-      "link_mp3" : "https://archive.org/download/Ceramah-Syaikh-Ali-Jaber-Indonesia/Syekh%20Ali%20Jaber%20-%20Amalan%20Kecil%20dengan%20Pahala%20Besar.mp3",
-      "lirik" : "",
-      "durasi" : 53
-    },
-		{
-      "id" : 14,
-      "judul" : "14. Cara Berdo'a Yang Baik Agar Dikabulkan Oleh Allah",
-      "host" : "Ceramah Syekh Ali Jaber",
-      "gambar" : "https://kanalberita.co/wp-content/uploads/2020/09/Profil-Lengkap-Syekh-Ali-Jaber-750x450-1-696x418.png",
-      "link_mp3" : "https://archive.org/download/Ceramah-Syaikh-Ali-Jaber-Indonesia/Syekh%20Ali%20Jaber%20-%20Cara%20Berdo%27a%20Yang%20Baik%20Agar%20Dikabulkan%20Oleh%20Allah.mp3",
-      "lirik" : "",
-      "durasi" : 32
-    },
-		{
-      "id" : 15,
-      "judul" : "15. Dunia Tempat Mencari Amal Untuk Memperoleh Balasan Akhirat",
-      "host" : "Ceramah Syekh Ali Jaber",
-      "gambar" : "https://kanalberita.co/wp-content/uploads/2020/09/Profil-Lengkap-Syekh-Ali-Jaber-750x450-1-696x418.png",
-      "link_mp3" : "https://archive.org/download/Ceramah-Syaikh-Ali-Jaber-Indonesia/Syekh%20Ali%20Jaber%20-%20Ceramah%20Dunia%20Tempat%20Mencari%20Amal%20Untuk%20Memperoleh%20Balasan%20Akhirat.mp3",
-      "lirik" : "",
-      "durasi" : 59
-    },
-		{
-      "id" : 16,
-      "judul" : "16. Keistimewaan Do'a",
-      "host" : "Ceramah Syekh Ali Jaber",
-      "gambar" : "https://kanalberita.co/wp-content/uploads/2020/09/Profil-Lengkap-Syekh-Ali-Jaber-750x450-1-696x418.png",
-      "link_mp3" : "https://archive.org/download/Ceramah-Syaikh-Ali-Jaber-Indonesia/Syekh%20Ali%20Jaber%20-%20Keistimewaan%20DO%27A.mp3",
-      "lirik" : "",
-      "durasi" : 51
-    },
-		{
-      "id" : 17,
-      "judul" : "17. Kuat Menghadapi Ujian dan Musibah",
-      "host" : "Ceramah Syekh Ali Jaber",
-      "gambar" : "https://kanalberita.co/wp-content/uploads/2020/09/Profil-Lengkap-Syekh-Ali-Jaber-750x450-1-696x418.png",
-      "link_mp3" : "https://archive.org/download/Ceramah-Syaikh-Ali-Jaber-Indonesia/Syekh%20Ali%20Jaber%20-%20Kuat%20Menghadapi%20Ujian%20dan%20Musibah.mp3",
-      "lirik" : "",
-      "durasi" : 30
-    },
-		{
-      "id" : 18,
-      "judul" : "18. Mensyukuri Nikmat Umur",
-      "host" : "Ceramah Syekh Ali Jaber",
-      "gambar" : "https://kanalberita.co/wp-content/uploads/2020/09/Profil-Lengkap-Syekh-Ali-Jaber-750x450-1-696x418.png",
-      "link_mp3" : "https://archive.org/download/Ceramah-Syaikh-Ali-Jaber-Indonesia/Syekh%20Ali%20Jaber%20-%20Mensyukuri%20Nikmat%20Umur.mp3",
-      "lirik" : "",
-      "durasi" : 59
-    },
-		{
-      "id" : 19,
-      "judul" : "19. Rendah Hati",
-      "host" : "Ceramah Syekh Ali Jaber",
-      "gambar" : "https://kanalberita.co/wp-content/uploads/2020/09/Profil-Lengkap-Syekh-Ali-Jaber-750x450-1-696x418.png",
-      "link_mp3" : "https://archive.org/download/Ceramah-Syaikh-Ali-Jaber-Indonesia/Syekh%20Ali%20Jaber%20-%20Rendah%20Hati.mp3",
-      "lirik" : "",
-      "durasi" : 45
-    },
-		{
-      "id" : 20,
-      "judul" : "20. Ujian Kesabaran dan Hadiah Indah Bagi Orang Yang Sabar",
-      "host" : "Ceramah Syekh Ali Jaber",
-      "gambar" : "https://kanalberita.co/wp-content/uploads/2020/09/Profil-Lengkap-Syekh-Ali-Jaber-750x450-1-696x418.png",
-      "link_mp3" : "https://archive.org/download/Ceramah-Syaikh-Ali-Jaber-Indonesia/Syekh%20Ali%20Jaber%20-%20Ujian%20Kesabaran%20dan%20Hadiah%20Indah%20Bagi%20Orang%20Yang%20Sabar.mp3",
-      "lirik" : "",
-      "durasi" : 19
+      "id": 1,
+      "name_category": "Ceramah Syekh Ali Jaber",
+      "image": "https://cdn.idntimes.com/content-images/post/20200913/unnamed-900x675-bd2b9daede45a4728e861594b00cf7a0_600x400.jpg"
     }
-  ]
+	
+  ],
+  "Data": [
+    {
+      "id": 1,
+      "name_category": "Ceramah Syekh Ali Jaber",
+      "title": "Amalan Agar Hidup Tidak Merugi",
+      "image": "https://kanalberita.co/wp-content/uploads/2020/09/Profil-Lengkap-Syekh-Ali-Jaber-750x450-1-696x418.png",
+      "link_mp3": "https://archive.org/download/Ceramah-Syaikh-Ali-Jaber-Indonesia/3%20Amalan%20Agar%20Hidup%20Tidak%20Merugi%20-%20Ceramah%20Syekh%20Ali%20Jaber.mp3",
+      "duration": "46",
+      "lyrics": "<p><span style=\"color:#ffffff\"><strong>Selamat menikmati audio music mp3</strong><br />\r\n<strong>Jangan lupa rating 5 bintangnya</strong><br />\r\n<strong>Jika anda suka dengan aplikasi music mp3 ini</strong><br />\r\n<strong>Terimakasih</strong></span></p>\r\n"
+    },
+    {
+      "id": 2,
+      "name_category": "Ceramah Syekh Ali Jaber",
+      "title": "Cara Allah Mengabulkan Doa",
+      "image": "https://kanalberita.co/wp-content/uploads/2020/09/Profil-Lengkap-Syekh-Ali-Jaber-750x450-1-696x418.png",
+      "link_mp3": "https://archive.org/download/Ceramah-Syaikh-Ali-Jaber-Indonesia/Cara%20Allah%20Mengabulkan%20Doa%20-%20Syeh%20Ali%20Jaber.mp3",
+      "duration": "59",
+      "lyrics": "<p><span style=\"color:#ffffff\"><strong>Selamat menikmati audio music mp3</strong><br />\r\n<strong>Jangan lupa rating 5 bintangnya</strong><br />\r\n<strong>Jika anda suka dengan aplikasi music mp3 ini</strong><br />\r\n<strong>Terimakasih</strong></span></p>\r\n"
+    },
+    {
+      "id": 3,
+      "name_category": "Ceramah Syekh Ali Jaber",
+      "title": "Cara Cepat Doa Dikabul Oleh Allah SWT",
+      "image": "https://kanalberita.co/wp-content/uploads/2020/09/Profil-Lengkap-Syekh-Ali-Jaber-750x450-1-696x418.png",
+      "link_mp3": "https://archive.org/download/Ceramah-Syaikh-Ali-Jaber-Indonesia/Ceramah%20Ramadhan%20Syekh%20Ali%20Soleh%202015%20Cara%20Cepat%20Doa%20Dikabul%20Oleh%20Allah%20SWT.mp3",
+      "duration": "54",
+      "lyrics": "<p><span style=\"color:#ffffff\"><strong>Selamat menikmati audio music mp3</strong><br />\r\n<strong>Jangan lupa rating 5 bintangnya</strong><br />\r\n<strong>Jika anda suka dengan aplikasi music mp3 ini</strong><br />\r\n<strong>Terimakasih</strong></span></p>\r\n"
+    },
+    {
+      "id": 4,
+      "name_category": "Ceramah Syekh Ali Jaber",
+      "title": "Manfaat Mengambilah Air Wudhu Dikala Ingin Tidur",
+      "image": "https://kanalberita.co/wp-content/uploads/2020/09/Profil-Lengkap-Syekh-Ali-Jaber-750x450-1-696x418.png",
+      "link_mp3": "https://archive.org/download/Ceramah-Syaikh-Ali-Jaber-Indonesia/Ceramah%20Syeikh%20Ali%20Jaber%202015%20Manfaat%20Mengambilah%20Air%20Wudhu%20Dikala%20Ingin%20Tidur.mp3",
+      "duration": "23",
+      "lyrics": "<p><span style=\"color:#ffffff\"><strong>Selamat menikmati audio music mp3</strong><br />\r\n<strong>Jangan lupa rating 5 bintangnya</strong><br />\r\n<strong>Jika anda suka dengan aplikasi music mp3 ini</strong><br />\r\n<strong>Terimakasih</strong></span></p>\r\n"
+    },
+    {
+      "id": 5,
+      "name_category": "Ceramah Syekh Ali Jaber",
+      "title": "Sebab Allah Jauh Terhadap Manusia",
+      "image": "https://kanalberita.co/wp-content/uploads/2020/09/Profil-Lengkap-Syekh-Ali-Jaber-750x450-1-696x418.png",
+      "link_mp3": "https://archive.org/download/Ceramah-Syaikh-Ali-Jaber-Indonesia/Ceramah%20Syekh%20Ali%20Jaber%2010%20Sebab%20Allah%20Jauh%20Terhadap%20Manusia.mp3",
+      "duration": "59",
+      "lyrics": "<p><span style=\"color:#ffffff\"><strong>Selamat menikmati audio music mp3</strong><br />\r\n<strong>Jangan lupa rating 5 bintangnya</strong><br />\r\n<strong>Jika anda suka dengan aplikasi music mp3 ini</strong><br />\r\n<strong>Terimakasih</strong></span></p>\r\n"
+    },
+    {
+      "id": 6,
+      "name_category": "Ceramah Syekh Ali Jaber",
+      "title": "Indahnya Hidup Bersama Al-Qur'an",
+      "image": "https://kanalberita.co/wp-content/uploads/2020/09/Profil-Lengkap-Syekh-Ali-Jaber-750x450-1-696x418.png",
+      "link_mp3": "https://archive.org/download/Ceramah-Syaikh-Ali-Jaber-Indonesia/Indahnya%20Hidup%20Bersama%20Al-Qur%27an%20-%20Ceramah%20Syekh%20Ali%20Jaber.mp3",
+      "duration": "59",
+      "lyrics": "<p><span style=\"color:#ffffff\"><strong>Selamat menikmati audio music mp3</strong><br />\r\n<strong>Jangan lupa rating 5 bintangnya</strong><br />\r\n<strong>Jika anda suka dengan aplikasi music mp3 ini</strong><br />\r\n<strong>Terimakasih</strong></span></p>\r\n"
+    },
+    {
+      "id": 7,
+      "name_category": "Ceramah Syekh Ali Jaber",
+      "title": "Komunikasi Yang Berkualitas Dengan Allah",
+      "image": "https://kanalberita.co/wp-content/uploads/2020/09/Profil-Lengkap-Syekh-Ali-Jaber-750x450-1-696x418.png",
+      "link_mp3": "https://archive.org/download/Ceramah-Syaikh-Ali-Jaber-Indonesia/Komunikasi%20Yang%20Berkualitas%20Dengan%20Allah%20-%20Ceramah%20Syekh%20Ali%20Jaber.mp3",
+      "duration": "54",
+      "lyrics": "<p><span style=\"color:#ffffff\"><strong>Selamat menikmati audio music mp3</strong><br />\r\n<strong>Jangan lupa rating 5 bintangnya</strong><br />\r\n<strong>Jika anda suka dengan aplikasi music mp3 ini</strong><br />\r\n<strong>Terimakasih</strong></span></p>\r\n"
+    },
+    {
+      "id": 8,
+      "name_category": "Ceramah Syekh Ali Jaber",
+      "title": "Memperbaiki Kualitas Shalat",
+      "image": "https://kanalberita.co/wp-content/uploads/2020/09/Profil-Lengkap-Syekh-Ali-Jaber-750x450-1-696x418.png",
+      "link_mp3": "https://archive.org/download/Ceramah-Syaikh-Ali-Jaber-Indonesia/Memperbaiki%20Kualitas%20Shalat%20-%20Ceramah%20Syekh%20Ali%20Jaber.mp3",
+      "duration": "59",
+      "lyrics": "<p><span style=\"color:#ffffff\"><strong>Selamat menikmati audio music mp3</strong><br />\r\n<strong>Jangan lupa rating 5 bintangnya</strong><br />\r\n<strong>Jika anda suka dengan aplikasi music mp3 ini</strong><br />\r\n<strong>Terimakasih</strong></span></p>\r\n"
+    },
+    {
+      "id": 9,
+      "name_category": "Ceramah Syekh Ali Jaber",
+      "title": "Menjadi Hamba Allah Yang Shaleh",
+      "image": "https://kanalberita.co/wp-content/uploads/2020/09/Profil-Lengkap-Syekh-Ali-Jaber-750x450-1-696x418.png",
+      "link_mp3": "https://archive.org/download/Ceramah-Syaikh-Ali-Jaber-Indonesia/Menjadi%20Hamba%20Allah%20Yang%20Shaleh%20-%20Ceramah%20Syekh%20Ali%20Jaber.mp3",
+      "duration": "59",
+      "lyrics": "<p><span style=\"color:#ffffff\"><strong>Selamat menikmati audio music mp3</strong><br />\r\n<strong>Jangan lupa rating 5 bintangnya</strong><br />\r\n<strong>Jika anda suka dengan aplikasi music mp3 ini</strong><br />\r\n<strong>Terimakasih</strong></span></p>\r\n"
+    },
+    {
+      "id": 10,
+      "name_category": "Ceramah Syekh Ali Jaber",
+      "title": "Menjemput Rezeki",
+      "image": "https://kanalberita.co/wp-content/uploads/2020/09/Profil-Lengkap-Syekh-Ali-Jaber-750x450-1-696x418.png",
+      "link_mp3": "https://archive.org/download/Ceramah-Syaikh-Ali-Jaber-Indonesia/Menjemput%20Rezeki%20-%20Syeh%20Ali%20Jaber.mp3",
+      "duration": "33",
+      "lyrics": "<p><span style=\"color:#ffffff\"><strong>Selamat menikmati audio music mp3</strong><br />\r\n<strong>Jangan lupa rating 5 bintangnya</strong><br />\r\n<strong>Jika anda suka dengan aplikasi music mp3 ini</strong><br />\r\n<strong>Terimakasih</strong></span></p>\r\n"
+    },
+    {
+      "id": 11,
+      "name_category": "Ceramah Syekh Ali Jaber",
+      "title": "Pengabdian Kepada Ibu",
+      "image": "https://kanalberita.co/wp-content/uploads/2020/09/Profil-Lengkap-Syekh-Ali-Jaber-750x450-1-696x418.png",
+      "link_mp3": "https://archive.org/download/Ceramah-Syaikh-Ali-Jaber-Indonesia/Pengabdian%20Kepada%20Ibu%20-%20Syekh%20Ali%20Jaber.mp3",
+      "duration": "59",
+      "lyrics": "<p><span style=\"color:#ffffff\"><strong>Selamat menikmati audio music mp3</strong><br />\r\n<strong>Jangan lupa rating 5 bintangnya</strong><br />\r\n<strong>Jika anda suka dengan aplikasi music mp3 ini</strong><br />\r\n<strong>Terimakasih</strong></span></p>\r\n"
+    },
+    {
+      "id": 12,
+      "name_category": "Ceramah Syekh Ali Jaber",
+      "title": "Rahasia Subuh",
+      "image": "https://kanalberita.co/wp-content/uploads/2020/09/Profil-Lengkap-Syekh-Ali-Jaber-750x450-1-696x418.png",
+      "link_mp3": "https://archive.org/download/Ceramah-Syaikh-Ali-Jaber-Indonesia/Rahasia%20Subuh%20-%20Syeh%20Ali%20Jaber.mp3",
+      "duration": "09",
+      "lyrics": "<p><span style=\"color:#ffffff\"><strong>Selamat menikmati audio music mp3</strong><br />\r\n<strong>Jangan lupa rating 5 bintangnya</strong><br />\r\n<strong>Jika anda suka dengan aplikasi music mp3 ini</strong><br />\r\n<strong>Terimakasih</strong></span></p>\r\n"
+    },
+    {
+      "id": 13,
+      "name_category": "Ceramah Syekh Ali Jaber",
+      "title": "Amalan Kecil dengan Pahala Besar",
+      "image": "https://kanalberita.co/wp-content/uploads/2020/09/Profil-Lengkap-Syekh-Ali-Jaber-750x450-1-696x418.png",
+      "link_mp3": "https://archive.org/download/Ceramah-Syaikh-Ali-Jaber-Indonesia/Syekh%20Ali%20Jaber%20-%20Amalan%20Kecil%20dengan%20Pahala%20Besar.mp3",
+      "duration": "53",
+      "lyrics": "<p><span style=\"color:#ffffff\"><strong>Selamat menikmati audio music mp3</strong><br />\r\n<strong>Jangan lupa rating 5 bintangnya</strong><br />\r\n<strong>Jika anda suka dengan aplikasi music mp3 ini</strong><br />\r\n<strong>Terimakasih</strong></span></p>\r\n"
+    },
+    {
+      "id": 14,
+      "name_category": "Ceramah Syekh Ali Jaber",
+      "title": "Cara Berdo'a Yang Baik Agar Dikabulkan Oleh Allah",
+      "image": "https://kanalberita.co/wp-content/uploads/2020/09/Profil-Lengkap-Syekh-Ali-Jaber-750x450-1-696x418.png",
+      "link_mp3": "https://archive.org/download/Ceramah-Syaikh-Ali-Jaber-Indonesia/Syekh%20Ali%20Jaber%20-%20Cara%20Berdo%27a%20Yang%20Baik%20Agar%20Dikabulkan%20Oleh%20Allah.mp3",
+      "duration": "32",
+      "lyrics": "<p><span style=\"color:#ffffff\"><strong>Selamat menikmati audio music mp3</strong><br />\r\n<strong>Jangan lupa rating 5 bintangnya</strong><br />\r\n<strong>Jika anda suka dengan aplikasi music mp3 ini</strong><br />\r\n<strong>Terimakasih</strong></span></p>\r\n"
+    },
+    {
+      "id": 15,
+      "name_category": "Ceramah Syekh Ali Jaber",
+      "title": "Dunia Tempat Mencari Amal Untuk Memperoleh Balasan Akhirat",
+      "image": "https://kanalberita.co/wp-content/uploads/2020/09/Profil-Lengkap-Syekh-Ali-Jaber-750x450-1-696x418.png",
+      "link_mp3": "https://archive.org/download/Ceramah-Syaikh-Ali-Jaber-Indonesia/Syekh%20Ali%20Jaber%20-%20Ceramah%20Dunia%20Tempat%20Mencari%20Amal%20Untuk%20Memperoleh%20Balasan%20Akhirat.mp3",
+      "duration": "59",
+      "lyrics": "<p><span style=\"color:#ffffff\"><strong>Selamat menikmati audio music mp3</strong><br />\r\n<strong>Jangan lupa rating 5 bintangnya</strong><br />\r\n<strong>Jika anda suka dengan aplikasi music mp3 ini</strong><br />\r\n<strong>Terimakasih</strong></span></p>\r\n"
+    },
+    {
+      "id": 16,
+      "name_category": "Ceramah Syekh Ali Jaber",
+      "title": "Keistimewaan Do'a",
+      "image": "https://kanalberita.co/wp-content/uploads/2020/09/Profil-Lengkap-Syekh-Ali-Jaber-750x450-1-696x418.png",
+      "link_mp3": "https://archive.org/download/Ceramah-Syaikh-Ali-Jaber-Indonesia/Syekh%20Ali%20Jaber%20-%20Keistimewaan%20DO%27A.mp3",
+      "duration": "51",
+      "lyrics": "<p><span style=\"color:#ffffff\"><strong>Selamat menikmati audio music mp3</strong><br />\r\n<strong>Jangan lupa rating 5 bintangnya</strong><br />\r\n<strong>Jika anda suka dengan aplikasi music mp3 ini</strong><br />\r\n<strong>Terimakasih</strong></span></p>\r\n"
+    },
+    {
+      "id": 17,
+      "name_category": "Ceramah Syekh Ali Jaber",
+      "title": "Kuat Menghadapi Ujian dan Musibah",
+      "image": "https://kanalberita.co/wp-content/uploads/2020/09/Profil-Lengkap-Syekh-Ali-Jaber-750x450-1-696x418.png",
+      "link_mp3": "https://archive.org/download/Ceramah-Syaikh-Ali-Jaber-Indonesia/Syekh%20Ali%20Jaber%20-%20Kuat%20Menghadapi%20Ujian%20dan%20Musibah.mp3",
+      "duration": "30",
+      "lyrics": "<p><span style=\"color:#ffffff\"><strong>Selamat menikmati audio music mp3</strong><br />\r\n<strong>Jangan lupa rating 5 bintangnya</strong><br />\r\n<strong>Jika anda suka dengan aplikasi music mp3 ini</strong><br />\r\n<strong>Terimakasih</strong></span></p>\r\n"
+    },
+    {
+      "id": 18,
+      "name_category": "Ceramah Syekh Ali Jaber",
+      "title": "Mensyukuri Nikmat Umur",
+      "image": "https://kanalberita.co/wp-content/uploads/2020/09/Profil-Lengkap-Syekh-Ali-Jaber-750x450-1-696x418.png",
+      "link_mp3": "https://archive.org/download/Ceramah-Syaikh-Ali-Jaber-Indonesia/Syekh%20Ali%20Jaber%20-%20Mensyukuri%20Nikmat%20Umur.mp3",
+      "duration": "59",
+      "lyrics": "<p><span style=\"color:#ffffff\"><strong>Selamat menikmati audio music mp3</strong><br />\r\n<strong>Jangan lupa rating 5 bintangnya</strong><br />\r\n<strong>Jika anda suka dengan aplikasi music mp3 ini</strong><br />\r\n<strong>Terimakasih</strong></span></p>\r\n"
+    },
+    {
+      "id": 19,
+      "name_category": "Ceramah Syekh Ali Jaber",
+      "title": "Rendah Hati",
+      "image": "https://kanalberita.co/wp-content/uploads/2020/09/Profil-Lengkap-Syekh-Ali-Jaber-750x450-1-696x418.png",
+      "link_mp3": "https://archive.org/download/Ceramah-Syaikh-Ali-Jaber-Indonesia/Syekh%20Ali%20Jaber%20-%20Rendah%20Hati.mp3",
+      "duration": "45",
+      "lyrics": "<p><span style=\"color:#ffffff\"><strong>Selamat menikmati audio music mp3</strong><br />\r\n<strong>Jangan lupa rating 5 bintangnya</strong><br />\r\n<strong>Jika anda suka dengan aplikasi music mp3 ini</strong><br />\r\n<strong>Terimakasih</strong></span></p>\r\n"
+    },
+    {
+      "id": 20,
+      "name_category": "Ceramah Syekh Ali Jaber",
+      "title": "Ujian Kesabaran dan Hadiah Indah Bagi Orang Yang Sabar",
+      "image": "https://kanalberita.co/wp-content/uploads/2020/09/Profil-Lengkap-Syekh-Ali-Jaber-750x450-1-696x418.png",
+      "link_mp3": "https://archive.org/download/Ceramah-Syaikh-Ali-Jaber-Indonesia/Syekh%20Ali%20Jaber%20-%20Ujian%20Kesabaran%20dan%20Hadiah%20Indah%20Bagi%20Orang%20Yang%20Sabar.mp3",
+      "duration": "19",
+      "lyrics": "<p><span style=\"color:#ffffff\"><strong>Selamat menikmati audio music mp3</strong><br />\r\n<strong>Jangan lupa rating 5 bintangnya</strong><br />\r\n<strong>Jika anda suka dengan aplikasi music mp3 ini</strong><br />\r\n<strong>Terimakasih</strong></span></p>\r\n"
+    },
+    {
+      "id": 21,
+      "name_category": "Ceramah Syekh Ali Jaber",
+      "title": "Kesempurnaan Iman",
+      "image": "https://kanalberita.co/wp-content/uploads/2020/09/Profil-Lengkap-Syekh-Ali-Jaber-750x450-1-696x418.png",
+      "link_mp3": "https://archive.org/download/SheikhAliJaberPilihan1/Sheikh%20Ali%20Jaber%20-%20KESEMPURNAAN%20IMAN.mp3",
+      "duration": "44",
+      "lyrics": "<p><span style=\"color:#ffffff\"><strong>Selamat menikmati audio music mp3</strong><br />\r\n<strong>Jangan lupa rating 5 bintangnya</strong><br />\r\n<strong>Jika anda suka dengan aplikasi music mp3 ini</strong><br />\r\n<strong>Terimakasih</strong></span></p>\r\n"
+    },
+    {
+      "id": 22,
+      "name_category": "Ceramah Syekh Ali Jaber",
+      "title": "Konsep Manusia Sempurna Dalam Islam",
+      "image": "https://kanalberita.co/wp-content/uploads/2020/09/Profil-Lengkap-Syekh-Ali-Jaber-750x450-1-696x418.png",
+      "link_mp3": "https://archive.org/download/SheikhAliJaberPilihan1/Sheikh%20Ali%20Jaber%20-%20Konsep%20Manusia%20Sempurna%20Dalam%20Islam.mp3",
+      "duration": "08",
+      "lyrics": "<p><span style=\"color:#ffffff\"><strong>Selamat menikmati audio music mp3</strong><br />\r\n<strong>Jangan lupa rating 5 bintangnya</strong><br />\r\n<strong>Jika anda suka dengan aplikasi music mp3 ini</strong><br />\r\n<strong>Terimakasih</strong></span></p>\r\n"
+    },
+    {
+      "id": 23,
+      "name_category": "Ceramah Syekh Ali Jaber",
+      "title": "Menjaga Kesucian Hati dan Akal Pikiran Kita",
+      "image": "https://kanalberita.co/wp-content/uploads/2020/09/Profil-Lengkap-Syekh-Ali-Jaber-750x450-1-696x418.png",
+      "link_mp3": "https://archive.org/download/SheikhAliJaberPilihan1/Sheikh%20Ali%20Jaber%20-%20Menjaga%20Kesucian%20Hati%20dan%20Akal%20Pikiran%20Kita.mp3",
+      "duration": "17",
+      "lyrics": "<p><span style=\"color:#ffffff\"><strong>Selamat menikmati audio music mp3</strong><br />\r\n<strong>Jangan lupa rating 5 bintangnya</strong><br />\r\n<strong>Jika anda suka dengan aplikasi music mp3 ini</strong><br />\r\n<strong>Terimakasih</strong></span></p>\r\n"
+    },
+    {
+      "id": 24,
+      "name_category": "Ceramah Syekh Ali Jaber",
+      "title": "Nisfu Sya'ban",
+      "image": "https://kanalberita.co/wp-content/uploads/2020/09/Profil-Lengkap-Syekh-Ali-Jaber-750x450-1-696x418.png",
+      "link_mp3": "https://archive.org/download/SheikhAliJaberPilihan1/Sheikh%20Ali%20Jaber%20-%20Nisfu%20Sya%27ban%20-%20Part%2001.mp3",
+      "duration": "38",
+      "lyrics": "<p><span style=\"color:#ffffff\"><strong>Selamat menikmati audio music mp3</strong><br />\r\n<strong>Jangan lupa rating 5 bintangnya</strong><br />\r\n<strong>Jika anda suka dengan aplikasi music mp3 ini</strong><br />\r\n<strong>Terimakasih</strong></span></p>\r\n"
+    },
+    {
+      "id": 25,
+      "name_category": "Ceramah Syekh Ali Jaber",
+      "title": "Nyatakan Cintamu Padanya Rasulullah",
+      "image": "https://kanalberita.co/wp-content/uploads/2020/09/Profil-Lengkap-Syekh-Ali-Jaber-750x450-1-696x418.png",
+      "link_mp3": "https://archive.org/download/SheikhAliJaberPilihan1/Sheikh%20Ali%20Jaber%20-%20Nyatakan%20Cintamu%20Padanya%20%28Rasulullah%29.mp3",
+      "duration": "59",
+      "lyrics": "<p><span style=\"color:#ffffff\"><strong>Selamat menikmati audio music mp3</strong><br />\r\n<strong>Jangan lupa rating 5 bintangnya</strong><br />\r\n<strong>Jika anda suka dengan aplikasi music mp3 ini</strong><br />\r\n<strong>Terimakasih</strong></span></p>\r\n"
+    },
+    {
+      "id": 26,
+      "name_category": "Ceramah Syekh Ali Jaber",
+      "title": "10 Amalan Dahsyat Supaya Dicintai Allah",
+      "image": "https://kanalberita.co/wp-content/uploads/2020/09/Profil-Lengkap-Syekh-Ali-Jaber-750x450-1-696x418.png",
+      "link_mp3": "https://archive.org/download/CeramahSyechAliJaber/10%20Amalan%20Dahsyat%20Supaya%20Dicintai%20Allah.mp3",
+      "duration": "59",
+      "lyrics": "<p><span style=\"color:#ffffff\"><strong>Selamat menikmati audio music mp3</strong><br />\r\n<strong>Jangan lupa rating 5 bintangnya</strong><br />\r\n<strong>Jika anda suka dengan aplikasi music mp3 ini</strong><br />\r\n<strong>Terimakasih</strong></span></p>\r\n"
+    },
+    {
+      "id": 27,
+      "name_category": "Ceramah Syekh Ali Jaber",
+      "title": "3 Amalan Supaya Hidup Berkah Mulia Dunia Akhirat",
+      "image": "https://kanalberita.co/wp-content/uploads/2020/09/Profil-Lengkap-Syekh-Ali-Jaber-750x450-1-696x418.png",
+      "link_mp3": "https://archive.org/download/CeramahSyechAliJaber/3%20Amalan%20Supaya%20Hidup%20Berkah%20Mulia%20Dunia%20Akhirat.mp3",
+      "duration": "46",
+      "lyrics": "<p><span style=\"color:#ffffff\"><strong>Selamat menikmati audio music mp3</strong><br />\r\n<strong>Jangan lupa rating 5 bintangnya</strong><br />\r\n<strong>Jika anda suka dengan aplikasi music mp3 ini</strong><br />\r\n<strong>Terimakasih</strong></span></p>\r\n"
+    },
+    {
+      "id": 28,
+      "name_category": "Ceramah Syekh Ali Jaber",
+      "title": "Amalan Ringan Tapi Pahala Besar Luar Biasa",
+      "image": "https://kanalberita.co/wp-content/uploads/2020/09/Profil-Lengkap-Syekh-Ali-Jaber-750x450-1-696x418.png",
+      "link_mp3": "https://archive.org/download/CeramahSyechAliJaber/Amalan%20Ringan%20Tapi%20Pahala%20Besar%20Luar%20Biasa.mp3",
+      "duration": "53",
+      "lyrics": "<p><span style=\"color:#ffffff\"><strong>Selamat menikmati audio music mp3</strong><br />\r\n<strong>Jangan lupa rating 5 bintangnya</strong><br />\r\n<strong>Jika anda suka dengan aplikasi music mp3 ini</strong><br />\r\n<strong>Terimakasih</strong></span></p>\r\n"
+    },
+    {
+      "id": 29,
+      "name_category": "Ceramah Syekh Ali Jaber",
+      "title": "Bersyukurlah..!!! Inilah Ragam Kenikmatan Menjadi Umat Nabi Muhammad",
+      "image": "https://kanalberita.co/wp-content/uploads/2020/09/Profil-Lengkap-Syekh-Ali-Jaber-750x450-1-696x418.png",
+      "link_mp3": "https://archive.org/download/CeramahSyechAliJaber/Bersyukurlah..%21%21%21%20Inilah%20Ragam%20Kenikmatan%20Menjadi%20Umat%20Nabi%20Muhammad.mp3",
+      "duration": "59",
+      "lyrics": "<p><span style=\"color:#ffffff\"><strong>Selamat menikmati audio music mp3</strong><br />\r\n<strong>Jangan lupa rating 5 bintangnya</strong><br />\r\n<strong>Jika anda suka dengan aplikasi music mp3 ini</strong><br />\r\n<strong>Terimakasih</strong></span></p>\r\n"
+    },
+    {
+      "id": 30,
+      "name_category": "Ceramah Syekh Ali Jaber",
+      "title": "Manfaat Sholawat",
+      "image": "https://kanalberita.co/wp-content/uploads/2020/09/Profil-Lengkap-Syekh-Ali-Jaber-750x450-1-696x418.png",
+      "link_mp3": "https://archive.org/download/CeramahSyechAliJaber/Manfaat%20Sholawat%20Ceramah%20Syekh%20Ali%20Jaber.mp3",
+      "duration": "42",
+      "lyrics": "<p><span style=\"color:#ffffff\"><strong>Selamat menikmati audio music mp3</strong><br />\r\n<strong>Jangan lupa rating 5 bintangnya</strong><br />\r\n<strong>Jika anda suka dengan aplikasi music mp3 ini</strong><br />\r\n<strong>Terimakasih</strong></span></p>\r\n"
+    },
+    {
+      "id": 31,
+      "name_category": "Ceramah Syekh Ali Jaber",
+      "title": "Mengungkap Rahasia Sedekah Yang Belum Banyak Diketahui",
+      "image": "https://kanalberita.co/wp-content/uploads/2020/09/Profil-Lengkap-Syekh-Ali-Jaber-750x450-1-696x418.png",
+      "link_mp3": "https://archive.org/download/CeramahSyechAliJaber/Mengungkap%20Rahasia%20Sedekah%20Yang%20Belum%20Banyak%20Diketahui.mp3",
+      "duration": "59",
+      "lyrics": "<p><span style=\"color:#ffffff\"><strong>Selamat menikmati audio music mp3</strong><br />\r\n<strong>Jangan lupa rating 5 bintangnya</strong><br />\r\n<strong>Jika anda suka dengan aplikasi music mp3 ini</strong><br />\r\n<strong>Terimakasih</strong></span></p>\r\n"
+    },
+    {
+      "id": 32,
+      "name_category": "Ceramah Syekh Ali Jaber",
+      "title": "Menjemput Rezeki Melimpah dan Berkah",
+      "image": "https://kanalberita.co/wp-content/uploads/2020/09/Profil-Lengkap-Syekh-Ali-Jaber-750x450-1-696x418.png",
+      "link_mp3": "https://archive.org/download/CeramahSyechAliJaber/Menjemput%20Rezeki%20Melimpah%20dan%20Berkah.mp3",
+      "duration": "33",
+      "lyrics": "<p><span style=\"color:#ffffff\"><strong>Selamat menikmati audio music mp3</strong><br />\r\n<strong>Jangan lupa rating 5 bintangnya</strong><br />\r\n<strong>Jika anda suka dengan aplikasi music mp3 ini</strong><br />\r\n<strong>Terimakasih</strong></span></p>\r\n"
+    },
+    {
+      "id": 33,
+      "name_category": "Ceramah Syekh Ali Jaber",
+      "title": "Rahasia Agar Hajat Cepat Terpenuhi",
+      "image": "https://kanalberita.co/wp-content/uploads/2020/09/Profil-Lengkap-Syekh-Ali-Jaber-750x450-1-696x418.png",
+      "link_mp3": "https://archive.org/download/CeramahSyechAliJaber/Rahasia%20Agar%20Hajat%20Cepat%20Terpenuhi.mp3",
+      "duration": "25",
+      "lyrics": "<p><span style=\"color:#ffffff\"><strong>Selamat menikmati audio music mp3</strong><br />\r\n<strong>Jangan lupa rating 5 bintangnya</strong><br />\r\n<strong>Jika anda suka dengan aplikasi music mp3 ini</strong><br />\r\n<strong>Terimakasih</strong></span></p>\r\n"
+    }
 
-}
+  ]
 }
