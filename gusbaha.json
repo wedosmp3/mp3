@@ -1,320 +1,346 @@
-{ 
-    
-    "Iklan": [
-        {
-        "status": "0",
-        "link": "https://play.google.com/store/apps/details?id=",
-
-        "appid": "ca-app-pub-2521648737251856~1485963527",
-        "admobappid": "ca-app-pub-2521648737251856/9587814822",
-        "interid": "ca-app-pub-2521648737251856/3920555173",
-        "bannerid":"ca-app-pub-2521648737251856/6546718513",
-   
-
-
-        "pengaturan_iklan":"1",
-        
-        "deskripsi_update": "",
-        "link_update": "",
-        "version_app":1,
-        
-        "fan_inter":"",
-        "fan_banner":"",
-   
-   		"startappid":"123456789",
-
-        "hpk_admob1":"",
-        "hpk_admob2":"",
-        "hpk_admob3":"",
-        "hpk_admob4":"",
-        "hpk_admob5":""
-  
-
-        }
-    ],
-	
-  "Category": [
+{
+  "Ads": [
     {
-      "id" : 1,
-      "host" : "Ceramah Gus Baha",
-      "gambar" : "https://www.laduni.id/panel/themes/default/uploads/post/Screenshot_20200209-182303_Gallery.jpg"
+      "select_ads": "ADMOB",
+      "status_app": "0",
+      "link_redirect": "https://play.google.com/store/apps/details?id=",
+      "admob_interid": "ca-app-pub-2521648737251856/3920555173",
+      "admob_bannerid": "ca-app-pub-2521648737251856/6546718513",
+      "admob_openid": "ca-app-pub-2521648737251856/9587814822",
+      "interval_intertitial": "5",
+      "startappid": "201270579",
+      "fan_inter": "",
+      "fan_banner": "",
+      "mopub_banner": "",
+      "mopub_inter": "",
+      "appodeal_key": "",
+      "packagename": "com.sndstudio.gusbaha"
     }
   ],
-	
-  "music": [
+  "Categories": [
     {
-      "id" : 1,
-      "judul" : "1. Cara Mendidik Anak Yang Baik",
-      "host" : "Ceramah Gus Baha",
-      "gambar" : "https://iqra.id/wp-content/uploads/2020/07/Gus-Baha-ngaji.jpg",
-      "link_mp3" : "https://archive.org/download/gus-baha-terbaru-2020/Gus%20Baha%20%20Cara%20Mendidik%20Anak%20Yang%20Baik.mp3",
-      "lirik" : "",
-      "durasi" : 10
-    },
-		{
-      "id" : 2,
-      "judul" : "2. Bolehkah Menerima Pemberian Orang Kafir?",
-      "host" : "Ceramah Gus Baha",
-      "gambar" : "https://iqra.id/wp-content/uploads/2020/07/Gus-Baha-ngaji.jpg",
-      "link_mp3" : "https://archive.org/download/gus-baha-terbaru-2020/Gus%20Baha%20%20Bolehkah%20Menerima%20Pemberian%20Orang%20Kafir%20%28Terjemah%20Indonesia%29.mp3",
-      "lirik" : "",
-      "durasi" : 13
-    },
-		{
-      "id" : 3,
-      "judul" : "3. Alasan Kenapa Nabi Poligami",
-      "host" : "Ceramah Gus Baha",
-      "gambar" : "https://iqra.id/wp-content/uploads/2020/07/Gus-Baha-ngaji.jpg",
-      "link_mp3" : "https://archive.org/download/gus-baha-terbaru-2020/Gus%20Baha%20%20Alasan%20Kenapa%20Nabi%20Poligami%20%28Terjemah%20Indonesia%29.mp3",
-      "lirik" : "",
-      "durasi" : 08
-    },
-		{
-      "id" : 4,
-      "judul" : "4. Apakah Boleh Berbohong?",
-      "host" : "Ceramah Gus Baha",
-      "gambar" : "https://iqra.id/wp-content/uploads/2020/07/Gus-Baha-ngaji.jpg",
-      "link_mp3" : "https://archive.org/download/gus-baha-terbaru-2020/Gus%20Baha%20%20Apakah%20Boleh%20Berbohong%20%5BTerjemah%20Indonesia%5D.mp3",
-      "lirik" : "",
-      "durasi" : 16
-    },
-		{
-      "id" : 5,
-      "judul" : "5. Bumi Datar Atau Bulat?",
-      "host" : "Ceramah Gus Baha",
-      "gambar" : "https://iqra.id/wp-content/uploads/2020/07/Gus-Baha-ngaji.jpg",
-      "link_mp3" : "https://archive.org/download/gus-baha-terbaru-2020/Bumi%20Datar%20Atau%20Bulat%20%20%20Gus%20Baha%20Terjemah%20Indonesia.mp3",
-      "lirik" : "",
-      "durasi" : 05
-    },
-		{
-      "id" : 6,
-      "judul" : "6. Asal-Usul Najisnya Hewan Anjing",
-      "host" : "Ceramah Gus Baha",
-      "gambar" : "https://iqra.id/wp-content/uploads/2020/07/Gus-Baha-ngaji.jpg",
-      "link_mp3" : "https://archive.org/download/gus-baha-terbaru-2020/ASAL-USUL%20NAJISNYA%20ANJING%20%20%20Ngaji%20Online%20Gus%20Baha%27.mp3",
-      "lirik" : "",
-      "durasi" : 13
-    },
-		{
-      "id" : 7,
-      "judul" : "7. Hidup Itu Yang Ceria",
-      "host" : "Ceramah Gus Baha",
-      "gambar" : "https://iqra.id/wp-content/uploads/2020/07/Gus-Baha-ngaji.jpg",
-      "link_mp3" : "https://archive.org/download/gus-baha-terbaru-2020/Gus%20Baha%20%20Hidup%20Itu%20Yang%20Ceria.mp3",
-      "lirik" : "",
-      "durasi" : 15
-    },
-		{
-      "id" : 8,
-      "judul" : "8. Kedahsyatan Kiamat",
-      "host" : "Ceramah Gus Baha",
-      "gambar" : "https://iqra.id/wp-content/uploads/2020/07/Gus-Baha-ngaji.jpg",
-      "link_mp3" : "https://archive.org/download/gus-baha-terbaru-2020/Gus%20Baha%20%20Kedahsyatan%20Kiamat.mp3",
-      "lirik" : "",
-      "durasi" : 11
-    },
-		{
-      "id" : 9,
-      "judul" : "9. Orang Tidur yang Ditakuti Setan Daripada Orang Sholat",
-      "host" : "Ceramah Gus Baha",
-      "gambar" : "https://iqra.id/wp-content/uploads/2020/07/Gus-Baha-ngaji.jpg",
-      "link_mp3" : "https://archive.org/download/gus-baha-terbaru-2020/Gus%20Baha%20%20Orang%20Tidur%20yang%20Ditakuti%20Setan%20Daripada%20Orang%20Sholat%20%5BTerjemah%20Indonesia%5D.mp3",
-      "lirik" : "",
-      "durasi" : 08
-    },
-		{
-      "id" : 10,
-      "judul" : "10. Sarana Kesalehan Ditangan Orang Tidak Soleh Bahaya",
-      "host" : "Ceramah Gus Baha",
-      "gambar" : "https://iqra.id/wp-content/uploads/2020/07/Gus-Baha-ngaji.jpg",
-      "link_mp3" : "https://archive.org/download/gus-baha-terbaru-2020/Gus%20Baha%20%20Sarana%20Kesalehan%20Ditangan%20Orang%20Tidak%20Soleh%20Bahaya%20%5BTerjemah%20Indonesia%5D.mp3",
-      "lirik" : "",
-      "durasi" : 15
-    },
-		{
-      "id" : 11,
-      "judul" : "11. Sembahlah Allah Walau Caramu Salah",
-      "host" : "Ceramah Gus Baha",
-      "gambar" : "https://iqra.id/wp-content/uploads/2020/07/Gus-Baha-ngaji.jpg",
-      "link_mp3" : "https://archive.org/download/gus-baha-terbaru-2020/Gus%20Baha%20%20Sembahlah%20Allah%20Walau%20Caramu%20Salah%20%5BTerjemah%20Indonesia%5D.mp3",
-      "lirik" : "",
-      "durasi" : 11
-    },
-		{
-      "id" : 12,
-      "judul" : "12. Hukum Shalat Jumat Kurang Dari 40 Orang",
-      "host" : "Ceramah Gus Baha",
-      "gambar" : "https://iqra.id/wp-content/uploads/2020/07/Gus-Baha-ngaji.jpg",
-      "link_mp3" : "https://archive.org/download/gus-baha-terbaru-2020/Gus%20Baha%20-%20Hukum%20Shalat%20Jumat%20Kurang%20Dari%2040%20Orang%20%20%20Episode%2020.mp3",
-      "lirik" : "",
-      "durasi" : 15
-    },
-		{
-      "id" : 13,
-      "judul" : "13. Hukum Rokok",
-      "host" : "Ceramah Gus Baha",
-      "gambar" : "https://iqra.id/wp-content/uploads/2020/07/Gus-Baha-ngaji.jpg",
-      "link_mp3" : "https://archive.org/download/gus-baha-terbaru-2020/Hukum%20Rokok%20%20%20Gus%20Baha%20Terjemah%20Indonesia.mp3",
-      "lirik" : "",
-      "durasi" : 09
-    },
-		{
-      "id" : 14,
-      "judul" : "14. Jangan Menganggap Istrimu Belahan Jiwamu",
-      "host" : "Ceramah Gus Baha",
-      "gambar" : "https://iqra.id/wp-content/uploads/2020/07/Gus-Baha-ngaji.jpg",
-      "link_mp3" : "https://archive.org/download/gus-baha-terbaru-2020/Jangan%20Menganggap%20Istrimu%20Belahan%20Jiwamu%20%20%20Gus%20Baha.mp3",
-      "lirik" : "",
-      "durasi" : 09
-    },
-		{
-      "id" : 15,
-      "judul" : "15. Kirim Doa Ke Mayit Tidak Sampai?",
-      "host" : "Ceramah Gus Baha",
-      "gambar" : "https://iqra.id/wp-content/uploads/2020/07/Gus-Baha-ngaji.jpg",
-      "link_mp3" : "https://archive.org/download/gus-baha-terbaru-2020/Kirim%20Doa%20Ke%20Mayit%20Tidak%20Sampai%20%20%20Gus%20Baha%20Terjemah%20Indonesia.mp3",
-      "lirik" : "",
-      "durasi" : 11
-    },
-		{
-      "id" : 16,
-      "judul" : "16. Kisah Sahabat Yang Gemar Mabuk",
-      "host" : "Ceramah Gus Baha",
-      "gambar" : "https://iqra.id/wp-content/uploads/2020/07/Gus-Baha-ngaji.jpg",
-      "link_mp3" : "https://archive.org/download/gus-baha-terbaru-2020/Kisah%20Sahabat%20Yang%20Gemar%20Mabuk%20-%20Gus%20Baha.mp3",
-      "lirik" : "",
-      "durasi" : 15
-    },
-		{
-      "id" : 17,
-      "judul" : "17. Masuk Surga Bukan Karena Amal",
-      "host" : "Ceramah Gus Baha",
-      "gambar" : "https://iqra.id/wp-content/uploads/2020/07/Gus-Baha-ngaji.jpg",
-      "link_mp3" : "https://archive.org/download/gus-baha-terbaru-2020/Masuk%20Surga%20Bukan%20Karena%20Amal%20%20%20Gus%20Baha%20Terjemah%20Indonesia.mp3",
-      "lirik" : "",
-      "durasi" : 04
-    },
-		{
-      "id" : 18,
-      "judul" : "18. Menurut Saya Resepsi Nikah Itu Haram",
-      "host" : "Ceramah Gus Baha",
-      "gambar" : "https://iqra.id/wp-content/uploads/2020/07/Gus-Baha-ngaji.jpg",
-      "link_mp3" : "https://archive.org/download/gus-baha-terbaru-2020/Menurut%20Saya%20Resepsi%20Nikah%20Itu%20Haram%20%20%20Gus%20Baha.mp3",
-      "lirik" : "",
-      "durasi" : 09
-    },
-		{
-      "id" : 19,
-      "judul" : "19. Ruh Tidak Pernah Mati",
-      "host" : "Ceramah Gus Baha",
-      "gambar" : "https://iqra.id/wp-content/uploads/2020/07/Gus-Baha-ngaji.jpg",
-      "link_mp3" : "https://archive.org/download/gus-baha-terbaru-2020/Ruh%20Tidak%20Pernah%20Mati%20%20%20Gus%20Baha%20Terjemah%20Indonesia.mp3",
-      "lirik" : "",
-      "durasi" : 10
-    },
-		{
-      "id" : 20,
-      "judul" : "20. Penyesatan Setan Melalui Ibadah",
-      "host" : "Ceramah Gus Baha",
-      "gambar" : "https://iqra.id/wp-content/uploads/2020/07/Gus-Baha-ngaji.jpg",
-      "link_mp3" : "https://archive.org/download/gus-baha-terbaru-2020/Penyesatan%20Setan%20Melalui%20Ibadah%20%20%20Gus%20Baha%20Terjemah%20Indonesia.mp3",
-      "lirik" : "",
-      "durasi" : 14
-    },
-		{
-      "id" : 21,
-      "judul" : "21. Qodo' Qodar Allah",
-      "host" : "Ceramah Gus Baha",
-      "gambar" : "https://iqra.id/wp-content/uploads/2020/07/Gus-Baha-ngaji.jpg",
-      "link_mp3" : "https://archive.org/download/gus-baha-terbaru-2020/Qodo%27%20Qodar%20Allah%20%20%20Gus%20Baha%20Terjemah%20Indonesia.mp3",
-      "lirik" : "",
-      "durasi" : 05
-    },
-		{
-      "id" : 22,
-      "judul" : "22. Orang Sholeh Pasif Juga Salah",
-      "host" : "Ceramah Gus Baha",
-      "gambar" : "https://iqra.id/wp-content/uploads/2020/07/Gus-Baha-ngaji.jpg",
-      "link_mp3" : "https://archive.org/download/gus-baha-terbaru-2020/Orang%20Sholeh%20Pasif%20Juga%20Salah%20%20%20Gus%20Baha.mp3",
-      "lirik" : "",
-      "durasi" : 08
-    },
-		{
-      "id" : 23,
-      "judul" : "23. Nabi Saja Tak Perlu di Bela, Apalagi Allah",
-      "host" : "Ceramah Gus Baha",
-      "gambar" : "https://iqra.id/wp-content/uploads/2020/07/Gus-Baha-ngaji.jpg",
-      "link_mp3" : "https://archive.org/download/gus-baha-terbaru-2020/Nabi%20Saja%20Tak%20Perlu%20di%20Bela%2C%20Apalagi%20Allah%20%20%20Ngaji%20Gus%20Baha.mp3",
-      "lirik" : "",
-      "durasi" : 12
-    },
-		{
-      "id" : 24,
-      "judul" : "24. Masuk Surga Bukan Karena Amal",
-      "host" : "Ceramah Gus Baha",
-      "gambar" : "https://iqra.id/wp-content/uploads/2020/07/Gus-Baha-ngaji.jpg",
-      "link_mp3" : "https://archive.org/download/gus-baha-terbaru-2020/Masuk%20Surga%20Bukan%20Karena%20Amal%20%20%20Gus%20Baha%20Terjemah%20Indonesia.mp3",
-      "lirik" : "",
-      "durasi" : 04
-    },
-		{
-      "id" : 25,
-      "judul" : "25. Pentingnya Ghiroh Islam",
-      "host" : "Ceramah Gus Baha",
-      "gambar" : "https://iqra.id/wp-content/uploads/2020/07/Gus-Baha-ngaji.jpg",
-      "link_mp3" : "https://archive.org/download/gus-baha-terbaru-2020/Pentingnya%20Ghiroh%20Islam%20%20%20Gus%20Baha%20Terjemah%20Indonesia.mp3",
-      "lirik" : "",
-      "durasi" : 08
-    },
-		{
-      "id" : 26,
-      "judul" : "26. semua ulama klo ditanya nabi pertama pasti Nuh bkn adam",
-      "host" : "Ceramah Gus Baha",
-      "gambar" : "https://iqra.id/wp-content/uploads/2020/07/Gus-Baha-ngaji.jpg",
-      "link_mp3" : "https://archive.org/download/gus-baha-terbaru-2020/Gus%20Baha%20-%20semua%20ulama%20klo%20ditanya%20nabi%20pertama%20pasti%20Nuh%20bkn%20adam.mp3",
-      "lirik" : "",
-      "durasi" : 10
-    },
-		{
-      "id" : 27,
-      "judul" : "27. Hukum Shalat Jumat Kurang Dari 40 Orang",
-      "host" : "Ceramah Gus Baha",
-      "gambar" : "https://iqra.id/wp-content/uploads/2020/07/Gus-Baha-ngaji.jpg",
-      "link_mp3" : "https://archive.org/download/gus-baha-terbaru-2020/Gus%20Baha%20-%20Hukum%20Shalat%20Jumat%20Kurang%20Dari%2040%20Orang%20%20%20Episode%2020.mp3",
-      "lirik" : "",
-      "durasi" : 10
-    },
-		{
-      "id" : 28,
-      "judul" : "28. Hukum Rajam bagi orang yang berzina",
-      "host" : "Ceramah Gus Baha",
-      "gambar" : "https://iqra.id/wp-content/uploads/2020/07/Gus-Baha-ngaji.jpg",
-      "link_mp3" : "https://archive.org/download/gus-baha-terbaru-2020/Gus%20Baha%27%20Hukum%20Rajam%20bagi%20orang%20yang%20berzina.mp3",
-      "lirik" : "",
-      "durasi" : 08
+      "id": 1,
+      "name_category": "Ceramah Gus Baha",
+      "image": "https://www.laduni.id/panel/themes/default/uploads/post/Screenshot_20200209-182303_Gallery.jpg"
     }
-	,
-		{
-      "id" : 29,
-      "judul" : "29. Jihad atau Mayoritas",
-      "host" : "Ceramah Gus Baha",
-      "gambar" : "https://iqra.id/wp-content/uploads/2020/07/Gus-Baha-ngaji.jpg",
-      "link_mp3" : "https://archive.org/download/gus-baha-terbaru-2020/Jihad%20atau%20Mayoritas%20%20%20Ngaji%20Gus%20Baha.mp3",
-      "lirik" : "",
-      "durasi" : 15
+	
+  ],
+  "Data": [
+    {
+      "id": 1,
+      "name_category": "Ceramah Gus Baha",
+      "title": "Cara Mendidik Anak Yang Baik",
+      "image": "https://iqra.id/wp-content/uploads/2020/07/Gus-Baha-ngaji.jpg",
+      "link_mp3": "https://archive.org/download/gus-baha-terbaru-2020/Gus%20Baha%20%20Cara%20Mendidik%20Anak%20Yang%20Baik.mp3",
+      "duration": "10",
+      "lyrics": "<p><span style=\"color:#ffffff\"><strong>Selamat menikmati audio music mp3</strong><br />\r\n<strong>Jangan lupa rating 5 bintangnya</strong><br />\r\n<strong>Jika anda suka dengan aplikasi music mp3 ini</strong><br />\r\n<strong>Terimakasih</strong></span></p>\r\n"
+    },
+	{
+      "id": 2,
+      "name_category": "Ceramah Gus Baha",
+      "title": "Bolehkah Menerima Pemberian Orang Kafir?",
+      "image": "https://iqra.id/wp-content/uploads/2020/07/Gus-Baha-ngaji.jpg",
+      "link_mp3": "https://archive.org/download/gus-baha-terbaru-2020/Gus%20Baha%20%20Bolehkah%20Menerima%20Pemberian%20Orang%20Kafir%20%28Terjemah%20Indonesia%29.mp3",
+      "duration": "13",
+      "lyrics": "<p><span style=\"color:#ffffff\"><strong>Selamat menikmati audio music mp3</strong><br />\r\n<strong>Jangan lupa rating 5 bintangnya</strong><br />\r\n<strong>Jika anda suka dengan aplikasi music mp3 ini</strong><br />\r\n<strong>Terimakasih</strong></span></p>\r\n"
+    },
+	{
+      "id": 3,
+      "name_category": "Ceramah Gus Baha",
+      "title": "Alasan Kenapa Nabi Poligami",
+      "image": "https://iqra.id/wp-content/uploads/2020/07/Gus-Baha-ngaji.jpg",
+      "link_mp3": "https://archive.org/download/gus-baha-terbaru-2020/Gus%20Baha%20%20Alasan%20Kenapa%20Nabi%20Poligami%20%28Terjemah%20Indonesia%29.mp3",
+      "duration": "08",
+      "lyrics": "<p><span style=\"color:#ffffff\"><strong>Selamat menikmati audio music mp3</strong><br />\r\n<strong>Jangan lupa rating 5 bintangnya</strong><br />\r\n<strong>Jika anda suka dengan aplikasi music mp3 ini</strong><br />\r\n<strong>Terimakasih</strong></span></p>\r\n"
+    },
+	{
+      "id": 4,
+      "name_category": "Ceramah Gus Baha",
+      "title": "Apakah Boleh Berbohong?",
+      "image": "https://iqra.id/wp-content/uploads/2020/07/Gus-Baha-ngaji.jpg",
+      "link_mp3": "https://archive.org/download/gus-baha-terbaru-2020/Gus%20Baha%20%20Apakah%20Boleh%20Berbohong%20%5BTerjemah%20Indonesia%5D.mp3",
+      "duration": "16",
+      "lyrics": "<p><span style=\"color:#ffffff\"><strong>Selamat menikmati audio music mp3</strong><br />\r\n<strong>Jangan lupa rating 5 bintangnya</strong><br />\r\n<strong>Jika anda suka dengan aplikasi music mp3 ini</strong><br />\r\n<strong>Terimakasih</strong></span></p>\r\n"
+    },
+	{
+      "id": 5,
+      "name_category": "Ceramah Gus Baha",
+      "title": "Bumi Datar Atau Bulat?",
+      "image": "https://iqra.id/wp-content/uploads/2020/07/Gus-Baha-ngaji.jpg",
+      "link_mp3": "https://archive.org/download/gus-baha-terbaru-2020/Bumi%20Datar%20Atau%20Bulat%20%20%20Gus%20Baha%20Terjemah%20Indonesia.mp3",
+      "duration": "05",
+      "lyrics": "<p><span style=\"color:#ffffff\"><strong>Selamat menikmati audio music mp3</strong><br />\r\n<strong>Jangan lupa rating 5 bintangnya</strong><br />\r\n<strong>Jika anda suka dengan aplikasi music mp3 ini</strong><br />\r\n<strong>Terimakasih</strong></span></p>\r\n"
+    },
+	{
+      "id": 6,
+      "name_category": "Ceramah Gus Baha",
+      "title": "Asal-Usul Najisnya Hewan Anjing",
+      "image": "https://iqra.id/wp-content/uploads/2020/07/Gus-Baha-ngaji.jpg",
+      "link_mp3": "https://archive.org/download/gus-baha-terbaru-2020/ASAL-USUL%20NAJISNYA%20ANJING%20%20%20Ngaji%20Online%20Gus%20Baha%27.mp3",
+      "duration": "13",
+      "lyrics": "<p><span style=\"color:#ffffff\"><strong>Selamat menikmati audio music mp3</strong><br />\r\n<strong>Jangan lupa rating 5 bintangnya</strong><br />\r\n<strong>Jika anda suka dengan aplikasi music mp3 ini</strong><br />\r\n<strong>Terimakasih</strong></span></p>\r\n"
+    },
+	{
+      "id": 7,
+      "name_category": "Ceramah Gus Baha",
+      "title": "Hidup Itu Yang Ceria",
+      "image": "https://iqra.id/wp-content/uploads/2020/07/Gus-Baha-ngaji.jpg",
+      "link_mp3": "https://archive.org/download/gus-baha-terbaru-2020/Gus%20Baha%20%20Hidup%20Itu%20Yang%20Ceria.mp3",
+      "duration": "15",
+      "lyrics": "<p><span style=\"color:#ffffff\"><strong>Selamat menikmati audio music mp3</strong><br />\r\n<strong>Jangan lupa rating 5 bintangnya</strong><br />\r\n<strong>Jika anda suka dengan aplikasi music mp3 ini</strong><br />\r\n<strong>Terimakasih</strong></span></p>\r\n"
+    },
+	{
+      "id": 8,
+      "name_category": "Ceramah Gus Baha",
+      "title": "Kedahsyatan Kiamat",
+      "image": "https://iqra.id/wp-content/uploads/2020/07/Gus-Baha-ngaji.jpg",
+      "link_mp3": "https://archive.org/download/gus-baha-terbaru-2020/Gus%20Baha%20%20Kedahsyatan%20Kiamat.mp3",
+      "duration": "11",
+      "lyrics": "<p><span style=\"color:#ffffff\"><strong>Selamat menikmati audio music mp3</strong><br />\r\n<strong>Jangan lupa rating 5 bintangnya</strong><br />\r\n<strong>Jika anda suka dengan aplikasi music mp3 ini</strong><br />\r\n<strong>Terimakasih</strong></span></p>\r\n"
+    },
+	{
+      "id": 9,
+      "name_category": "Ceramah Gus Baha",
+      "title": "Orang Tidur yang Ditakuti Setan Daripada Orang Sholat",
+      "image": "https://iqra.id/wp-content/uploads/2020/07/Gus-Baha-ngaji.jpg",
+      "link_mp3": "https://archive.org/download/gus-baha-terbaru-2020/Gus%20Baha%20%20Orang%20Tidur%20yang%20Ditakuti%20Setan%20Daripada%20Orang%20Sholat%20%5BTerjemah%20Indonesia%5D.mp3",
+      "duration": "08",
+      "lyrics": "<p><span style=\"color:#ffffff\"><strong>Selamat menikmati audio music mp3</strong><br />\r\n<strong>Jangan lupa rating 5 bintangnya</strong><br />\r\n<strong>Jika anda suka dengan aplikasi music mp3 ini</strong><br />\r\n<strong>Terimakasih</strong></span></p>\r\n"
+    },
+	{
+      "id": 10,
+      "name_category": "Ceramah Gus Baha",
+      "title": "Sarana Kesalehan Ditangan Orang Tidak Soleh Bahaya",
+      "image": "https://iqra.id/wp-content/uploads/2020/07/Gus-Baha-ngaji.jpg",
+      "link_mp3": "https://archive.org/download/gus-baha-terbaru-2020/Gus%20Baha%20%20Sarana%20Kesalehan%20Ditangan%20Orang%20Tidak%20Soleh%20Bahaya%20%5BTerjemah%20Indonesia%5D.mp3",
+      "duration": "15",
+      "lyrics": "<p><span style=\"color:#ffffff\"><strong>Selamat menikmati audio music mp3</strong><br />\r\n<strong>Jangan lupa rating 5 bintangnya</strong><br />\r\n<strong>Jika anda suka dengan aplikasi music mp3 ini</strong><br />\r\n<strong>Terimakasih</strong></span></p>\r\n"
+    },
+	{
+      "id": 11,
+      "name_category": "Ceramah Gus Baha",
+      "title": "Sembahlah Allah Walau Caramu Salah",
+      "image": "https://iqra.id/wp-content/uploads/2020/07/Gus-Baha-ngaji.jpg",
+      "link_mp3": "https://archive.org/download/gus-baha-terbaru-2020/Gus%20Baha%20%20Sembahlah%20Allah%20Walau%20Caramu%20Salah%20%5BTerjemah%20Indonesia%5D.mp3",
+      "duration": "11",
+      "lyrics": "<p><span style=\"color:#ffffff\"><strong>Selamat menikmati audio music mp3</strong><br />\r\n<strong>Jangan lupa rating 5 bintangnya</strong><br />\r\n<strong>Jika anda suka dengan aplikasi music mp3 ini</strong><br />\r\n<strong>Terimakasih</strong></span></p>\r\n"
+    },
+	{
+      "id": 12,
+      "name_category": "Ceramah Gus Baha",
+      "title": "Hukum Shalat Jumat Kurang Dari 40 Orang",
+      "image": "https://iqra.id/wp-content/uploads/2020/07/Gus-Baha-ngaji.jpg",
+      "link_mp3": "https://archive.org/download/gus-baha-terbaru-2020/Gus%20Baha%20-%20Hukum%20Shalat%20Jumat%20Kurang%20Dari%2040%20Orang%20%20%20Episode%2020.mp3",
+      "duration": "15",
+      "lyrics": "<p><span style=\"color:#ffffff\"><strong>Selamat menikmati audio music mp3</strong><br />\r\n<strong>Jangan lupa rating 5 bintangnya</strong><br />\r\n<strong>Jika anda suka dengan aplikasi music mp3 ini</strong><br />\r\n<strong>Terimakasih</strong></span></p>\r\n"
+    },
+	{
+      "id": 13,
+      "name_category": "Ceramah Gus Baha",
+      "title": "Hukum Rokok",
+      "image": "https://iqra.id/wp-content/uploads/2020/07/Gus-Baha-ngaji.jpg",
+      "link_mp3": "https://archive.org/download/gus-baha-terbaru-2020/Hukum%20Rokok%20%20%20Gus%20Baha%20Terjemah%20Indonesia.mp3",
+      "duration": "09",
+      "lyrics": "<p><span style=\"color:#ffffff\"><strong>Selamat menikmati audio music mp3</strong><br />\r\n<strong>Jangan lupa rating 5 bintangnya</strong><br />\r\n<strong>Jika anda suka dengan aplikasi music mp3 ini</strong><br />\r\n<strong>Terimakasih</strong></span></p>\r\n"
+    },
+	{
+      "id": 14,
+      "name_category": "Ceramah Gus Baha",
+      "title": "Jangan Menganggap Istrimu Belahan Jiwamu",
+      "image": "https://iqra.id/wp-content/uploads/2020/07/Gus-Baha-ngaji.jpg",
+      "link_mp3": "https://archive.org/download/gus-baha-terbaru-2020/Jangan%20Menganggap%20Istrimu%20Belahan%20Jiwamu%20%20%20Gus%20Baha.mp3",
+      "duration": "09",
+      "lyrics": "<p><span style=\"color:#ffffff\"><strong>Selamat menikmati audio music mp3</strong><br />\r\n<strong>Jangan lupa rating 5 bintangnya</strong><br />\r\n<strong>Jika anda suka dengan aplikasi music mp3 ini</strong><br />\r\n<strong>Terimakasih</strong></span></p>\r\n"
+    },
+	{
+      "id": 15,
+      "name_category": "Ceramah Gus Baha",
+      "title": "Kirim Doa Ke Mayit Tidak Sampai?",
+      "image": "https://iqra.id/wp-content/uploads/2020/07/Gus-Baha-ngaji.jpg",
+      "link_mp3": "https://archive.org/download/gus-baha-terbaru-2020/Kirim%20Doa%20Ke%20Mayit%20Tidak%20Sampai%20%20%20Gus%20Baha%20Terjemah%20Indonesia.mp3",
+      "duration": "11",
+      "lyrics": "<p><span style=\"color:#ffffff\"><strong>Selamat menikmati audio music mp3</strong><br />\r\n<strong>Jangan lupa rating 5 bintangnya</strong><br />\r\n<strong>Jika anda suka dengan aplikasi music mp3 ini</strong><br />\r\n<strong>Terimakasih</strong></span></p>\r\n"
+    },
+	{
+      "id": 16,
+      "name_category": "Ceramah Gus Baha",
+      "title": "Kisah Sahabat Yang Gemar Mabuk",
+      "image": "https://iqra.id/wp-content/uploads/2020/07/Gus-Baha-ngaji.jpg",
+      "link_mp3": "https://archive.org/download/gus-baha-terbaru-2020/Kisah%20Sahabat%20Yang%20Gemar%20Mabuk%20-%20Gus%20Baha.mp3",
+      "duration": "15",
+      "lyrics": "<p><span style=\"color:#ffffff\"><strong>Selamat menikmati audio music mp3</strong><br />\r\n<strong>Jangan lupa rating 5 bintangnya</strong><br />\r\n<strong>Jika anda suka dengan aplikasi music mp3 ini</strong><br />\r\n<strong>Terimakasih</strong></span></p>\r\n"
+    },
+	{
+      "id": 17,
+      "name_category": "Ceramah Gus Baha",
+      "title": "Masuk Surga Bukan Karena Amal",
+      "image": "https://iqra.id/wp-content/uploads/2020/07/Gus-Baha-ngaji.jpg",
+      "link_mp3": "https://archive.org/download/gus-baha-terbaru-2020/Masuk%20Surga%20Bukan%20Karena%20Amal%20%20%20Gus%20Baha%20Terjemah%20Indonesia.mp3",
+      "duration": "04",
+      "lyrics": "<p><span style=\"color:#ffffff\"><strong>Selamat menikmati audio music mp3</strong><br />\r\n<strong>Jangan lupa rating 5 bintangnya</strong><br />\r\n<strong>Jika anda suka dengan aplikasi music mp3 ini</strong><br />\r\n<strong>Terimakasih</strong></span></p>\r\n"
+    },
+	{
+      "id": 18,
+      "name_category": "Ceramah Gus Baha",
+      "title": "Menurut Saya Resepsi Nikah Itu Haram",
+      "image": "https://iqra.id/wp-content/uploads/2020/07/Gus-Baha-ngaji.jpg",
+      "link_mp3": "https://archive.org/download/gus-baha-terbaru-2020/Menurut%20Saya%20Resepsi%20Nikah%20Itu%20Haram%20%20%20Gus%20Baha.mp3",
+      "duration": "09",
+      "lyrics": "<p><span style=\"color:#ffffff\"><strong>Selamat menikmati audio music mp3</strong><br />\r\n<strong>Jangan lupa rating 5 bintangnya</strong><br />\r\n<strong>Jika anda suka dengan aplikasi music mp3 ini</strong><br />\r\n<strong>Terimakasih</strong></span></p>\r\n"
+    },
+	{
+      "id": 19,
+      "name_category": "Ceramah Gus Baha",
+      "title": "Ruh Tidak Pernah Mati",
+      "image": "https://iqra.id/wp-content/uploads/2020/07/Gus-Baha-ngaji.jpg",
+      "link_mp3": "https://archive.org/download/gus-baha-terbaru-2020/Ruh%20Tidak%20Pernah%20Mati%20%20%20Gus%20Baha%20Terjemah%20Indonesia.mp3",
+      "duration": "10",
+      "lyrics": "<p><span style=\"color:#ffffff\"><strong>Selamat menikmati audio music mp3</strong><br />\r\n<strong>Jangan lupa rating 5 bintangnya</strong><br />\r\n<strong>Jika anda suka dengan aplikasi music mp3 ini</strong><br />\r\n<strong>Terimakasih</strong></span></p>\r\n"
+    },
+	{
+      "id": 20,
+      "name_category": "Ceramah Gus Baha",
+      "title": "Penyesatan Setan Melalui Ibadah",
+      "image": "https://iqra.id/wp-content/uploads/2020/07/Gus-Baha-ngaji.jpg",
+      "link_mp3": "https://archive.org/download/gus-baha-terbaru-2020/Penyesatan%20Setan%20Melalui%20Ibadah%20%20%20Gus%20Baha%20Terjemah%20Indonesia.mp3",
+      "duration": "14",
+      "lyrics": "<p><span style=\"color:#ffffff\"><strong>Selamat menikmati audio music mp3</strong><br />\r\n<strong>Jangan lupa rating 5 bintangnya</strong><br />\r\n<strong>Jika anda suka dengan aplikasi music mp3 ini</strong><br />\r\n<strong>Terimakasih</strong></span></p>\r\n"
+    },
+	{
+      "id": 21,
+      "name_category": "Ceramah Gus Baha",
+      "title": "Qodo' Qodar Allah",
+      "image": "https://iqra.id/wp-content/uploads/2020/07/Gus-Baha-ngaji.jpg",
+      "link_mp3": "https://archive.org/download/gus-baha-terbaru-2020/Qodo%27%20Qodar%20Allah%20%20%20Gus%20Baha%20Terjemah%20Indonesia.mp3",
+      "duration": "05",
+      "lyrics": "<p><span style=\"color:#ffffff\"><strong>Selamat menikmati audio music mp3</strong><br />\r\n<strong>Jangan lupa rating 5 bintangnya</strong><br />\r\n<strong>Jika anda suka dengan aplikasi music mp3 ini</strong><br />\r\n<strong>Terimakasih</strong></span></p>\r\n"
+    },
+	{
+      "id": 22,
+      "name_category": "Ceramah Gus Baha",
+      "title": "Orang Sholeh Pasif Juga Salah",
+      "image": "https://iqra.id/wp-content/uploads/2020/07/Gus-Baha-ngaji.jpg",
+      "link_mp3": "https://archive.org/download/gus-baha-terbaru-2020/Orang%20Sholeh%20Pasif%20Juga%20Salah%20%20%20Gus%20Baha.mp3",
+      "duration": "08",
+      "lyrics": "<p><span style=\"color:#ffffff\"><strong>Selamat menikmati audio music mp3</strong><br />\r\n<strong>Jangan lupa rating 5 bintangnya</strong><br />\r\n<strong>Jika anda suka dengan aplikasi music mp3 ini</strong><br />\r\n<strong>Terimakasih</strong></span></p>\r\n"
+    },
+	{
+      "id": 23,
+      "name_category": "Ceramah Gus Baha",
+      "title": "Nabi Saja Tak Perlu di Bela, Apalagi Allah",
+      "image": "https://iqra.id/wp-content/uploads/2020/07/Gus-Baha-ngaji.jpg",
+      "link_mp3": "https://archive.org/download/gus-baha-terbaru-2020/Nabi%20Saja%20Tak%20Perlu%20di%20Bela%2C%20Apalagi%20Allah%20%20%20Ngaji%20Gus%20Baha.mp3",
+      "duration": "12",
+      "lyrics": "<p><span style=\"color:#ffffff\"><strong>Selamat menikmati audio music mp3</strong><br />\r\n<strong>Jangan lupa rating 5 bintangnya</strong><br />\r\n<strong>Jika anda suka dengan aplikasi music mp3 ini</strong><br />\r\n<strong>Terimakasih</strong></span></p>\r\n"
+    },
+	{
+      "id": 24,
+      "name_category": "Ceramah Gus Baha",
+      "title": "Masuk Surga Bukan Karena Amal",
+      "image": "https://iqra.id/wp-content/uploads/2020/07/Gus-Baha-ngaji.jpg",
+      "link_mp3": "https://archive.org/download/gus-baha-terbaru-2020/Masuk%20Surga%20Bukan%20Karena%20Amal%20%20%20Gus%20Baha%20Terjemah%20Indonesia.mp3",
+      "duration": "04",
+      "lyrics": "<p><span style=\"color:#ffffff\"><strong>Selamat menikmati audio music mp3</strong><br />\r\n<strong>Jangan lupa rating 5 bintangnya</strong><br />\r\n<strong>Jika anda suka dengan aplikasi music mp3 ini</strong><br />\r\n<strong>Terimakasih</strong></span></p>\r\n"
+    },
+	{
+      "id": 25,
+      "name_category": "Ceramah Gus Baha",
+      "title": "Pentingnya Ghiroh Islam",
+      "image": "https://iqra.id/wp-content/uploads/2020/07/Gus-Baha-ngaji.jpg",
+      "link_mp3": "https://archive.org/download/gus-baha-terbaru-2020/Pentingnya%20Ghiroh%20Islam%20%20%20Gus%20Baha%20Terjemah%20Indonesia.mp3",
+      "duration": "08",
+      "lyrics": "<p><span style=\"color:#ffffff\"><strong>Selamat menikmati audio music mp3</strong><br />\r\n<strong>Jangan lupa rating 5 bintangnya</strong><br />\r\n<strong>Jika anda suka dengan aplikasi music mp3 ini</strong><br />\r\n<strong>Terimakasih</strong></span></p>\r\n"
+    },
+	{
+      "id": 26,
+      "name_category": "Ceramah Gus Baha",
+      "title": "semua ulama klo ditanya nabi pertama pasti Nuh bkn adam",
+      "image": "https://iqra.id/wp-content/uploads/2020/07/Gus-Baha-ngaji.jpg",
+      "link_mp3": "https://archive.org/download/gus-baha-terbaru-2020/Gus%20Baha%20-%20semua%20ulama%20klo%20ditanya%20nabi%20pertama%20pasti%20Nuh%20bkn%20adam.mp3",
+      "duration": "10",
+      "lyrics": "<p><span style=\"color:#ffffff\"><strong>Selamat menikmati audio music mp3</strong><br />\r\n<strong>Jangan lupa rating 5 bintangnya</strong><br />\r\n<strong>Jika anda suka dengan aplikasi music mp3 ini</strong><br />\r\n<strong>Terimakasih</strong></span></p>\r\n"
+    },
+	{
+      "id": 27,
+      "name_category": "Ceramah Gus Baha",
+      "title": "Hukum Shalat Jumat Kurang Dari 40 Orang",
+      "image": "https://iqra.id/wp-content/uploads/2020/07/Gus-Baha-ngaji.jpg",
+      "link_mp3": "https://archive.org/download/gus-baha-terbaru-2020/Gus%20Baha%20-%20Hukum%20Shalat%20Jumat%20Kurang%20Dari%2040%20Orang%20%20%20Episode%2020.mp3",
+      "duration": "10",
+      "lyrics": "<p><span style=\"color:#ffffff\"><strong>Selamat menikmati audio music mp3</strong><br />\r\n<strong>Jangan lupa rating 5 bintangnya</strong><br />\r\n<strong>Jika anda suka dengan aplikasi music mp3 ini</strong><br />\r\n<strong>Terimakasih</strong></span></p>\r\n"
+    },
+	{
+      "id": 28,
+      "name_category": "Ceramah Gus Baha",
+      "title": "Hukum Rajam bagi orang yang berzina",
+      "image": "https://iqra.id/wp-content/uploads/2020/07/Gus-Baha-ngaji.jpg",
+      "link_mp3": "https://archive.org/download/gus-baha-terbaru-2020/Gus%20Baha%27%20Hukum%20Rajam%20bagi%20orang%20yang%20berzina.mp3",
+      "duration": "08",
+      "lyrics": "<p><span style=\"color:#ffffff\"><strong>Selamat menikmati audio music mp3</strong><br />\r\n<strong>Jangan lupa rating 5 bintangnya</strong><br />\r\n<strong>Jika anda suka dengan aplikasi music mp3 ini</strong><br />\r\n<strong>Terimakasih</strong></span></p>\r\n"
+    },
+	{
+      "id": 29,
+      "name_category": "Ceramah Gus Baha",
+      "title": "Jihad atau Mayoritas",
+      "image": "https://iqra.id/wp-content/uploads/2020/07/Gus-Baha-ngaji.jpg",
+      "link_mp3": "https://archive.org/download/gus-baha-terbaru-2020/Jihad%20atau%20Mayoritas%20%20%20Ngaji%20Gus%20Baha.mp3",
+      "duration": "15",
+      "lyrics": "<p><span style=\"color:#ffffff\"><strong>Selamat menikmati audio music mp3</strong><br />\r\n<strong>Jangan lupa rating 5 bintangnya</strong><br />\r\n<strong>Jika anda suka dengan aplikasi music mp3 ini</strong><br />\r\n<strong>Terimakasih</strong></span></p>\r\n"
+    },
+	{
+      "id": 30,
+      "name_category": "Ceramah Gus Baha",
+      "title": "Do'a yan saya dapat dari Nabi Khidir",
+      "image": "https://iqra.id/wp-content/uploads/2020/07/Gus-Baha-ngaji.jpg",
+      "link_mp3": "https://archive.org/download/gus-baha-terbaru-2020/19%23%20Ngaji%20Gus%20Baha%20%20Do%27a%20yan%20saya%20dapat%20dari%20Nabi%20Khidir%20%20%20Terejemah%20Indonesia.mp3",
+      "duration": "12",
+      "lyrics": "<p><span style=\"color:#ffffff\"><strong>Selamat menikmati audio music mp3</strong><br />\r\n<strong>Jangan lupa rating 5 bintangnya</strong><br />\r\n<strong>Jika anda suka dengan aplikasi music mp3 ini</strong><br />\r\n<strong>Terimakasih</strong></span></p>\r\n"
+    },
+	{
+      "id": 31,
+      "name_category": "Ceramah Gus Baha",
+      "title": "Sebenar-benar Perkataan Adalah Apa Yang Ada Dihati",
+      "image": "https://iqra.id/wp-content/uploads/2020/07/Gus-Baha-ngaji.jpg",
+      "link_mp3": "https://archive.org/download/gusbahaterbarusebenarbenarperkataanadalahapayangadadihati/Gus%20Baha%20Terbaru%20Sebenar-benar%20Perkataan%20Adalah%20Apa%20Yang%20Ada%20Dihati.mp3",
+      "duration": "18",
+      "lyrics": "<p><span style=\"color:#ffffff\"><strong>Selamat menikmati audio music mp3</strong><br />\r\n<strong>Jangan lupa rating 5 bintangnya</strong><br />\r\n<strong>Jika anda suka dengan aplikasi music mp3 ini</strong><br />\r\n<strong>Terimakasih</strong></span></p>\r\n"
+    },
+	{
+      "id": 32,
+      "name_category": "Ceramah Gus Baha",
+      "title": "Hakikat penyakit mematikan",
+      "image": "https://iqra.id/wp-content/uploads/2020/07/Gus-Baha-ngaji.jpg",
+      "link_mp3": "https://archive.org/download/hakikatpenyakitmematikangusbaha/Hakikat%20penyakit%20mematikan%20Gus%20Baha.mp3",
+      "duration": "14",
+      "lyrics": "<p><span style=\"color:#ffffff\"><strong>Selamat menikmati audio music mp3</strong><br />\r\n<strong>Jangan lupa rating 5 bintangnya</strong><br />\r\n<strong>Jika anda suka dengan aplikasi music mp3 ini</strong><br />\r\n<strong>Terimakasih</strong></span></p>\r\n"
+    },
+	{
+      "id": 33,
+      "name_category": "Ceramah Gus Baha",
+      "title": "Ceramah Gus Baha Terbaru",
+      "image": "https://iqra.id/wp-content/uploads/2020/07/Gus-Baha-ngaji.jpg",
+      "link_mp3": "https://archive.org/download/ceramah-terbaru-gus-baha-ceramah-gus-baha-terbaru-2020-r-tt-xvfstmk/CERAMAH%20TERBARU%20GUS%20BAHA%20-%20CERAMAH%20GUS%20BAHA%20TERBARU%202020_R-TtXVFSTmk.mp3",
+      "duration": "59",
+      "lyrics": "<p><span style=\"color:#ffffff\"><strong>Selamat menikmati audio music mp3</strong><br />\r\n<strong>Jangan lupa rating 5 bintangnya</strong><br />\r\n<strong>Jika anda suka dengan aplikasi music mp3 ini</strong><br />\r\n<strong>Terimakasih</strong></span></p>\r\n"
+    },
+	{
+      "id": 34,
+      "name_category": "Ceramah Gus Baha",
+      "title": "Ceramah Gus Baha Terbaru di Pesantren Gus Mus I Logika Al-Quran Mematikan",
+      "image": "https://iqra.id/wp-content/uploads/2020/07/Gus-Baha-ngaji.jpg",
+      "link_mp3": "https://archive.org/download/ceramah-terbaru-gus-baha-ceramah-gus-baha-terbaru-2020-r-tt-xvfstmk/Ceramah%20Gus%20Baha%20Terbaru%20di%20Pesantren%20Gus%20Mus%20I%20Logika%20Al-Quran%20Mematikan_BuPbwrunn-M.mp3",
+      "duration": "59",
+      "lyrics": "<p><span style=\"color:#ffffff\"><strong>Selamat menikmati audio music mp3</strong><br />\r\n<strong>Jangan lupa rating 5 bintangnya</strong><br />\r\n<strong>Jika anda suka dengan aplikasi music mp3 ini</strong><br />\r\n<strong>Terimakasih</strong></span></p>\r\n"
+    },
+	{
+      "id": 35,
+      "name_category": "Ceramah Gus Baha",
+      "title": "Ramalan Jayabaya Sudah Mulai Terjadi",
+      "image": "https://iqra.id/wp-content/uploads/2020/07/Gus-Baha-ngaji.jpg",
+      "link_mp3": "https://archive.org/download/ceramah-terbaru-gus-baha-ceramah-gus-baha-terbaru-2020-r-tt-xvfstmk/GUS%20BAHA%20-%20MISTERI%20RAMALAN%20JAYABAYA%20TAHUN%202020%20SUDAH%20MULAI%20TERJADI..%21%21%21_IWigiA343pw.mp3",
+      "duration": "59",
+      "lyrics": "<p><span style=\"color:#ffffff\"><strong>Selamat menikmati audio music mp3</strong><br />\r\n<strong>Jangan lupa rating 5 bintangnya</strong><br />\r\n<strong>Jika anda suka dengan aplikasi music mp3 ini</strong><br />\r\n<strong>Terimakasih</strong></span></p>\r\n"
     }
-	,
-		{
-      "id" : 30,
-      "judul" : "30. Do'a yan saya dapat dari Nabi Khidir",
-      "host" : "Ceramah Gus Baha",
-      "gambar" : "https://iqra.id/wp-content/uploads/2020/07/Gus-Baha-ngaji.jpg",
-      "link_mp3" : "https://archive.org/download/gus-baha-terbaru-2020/19%23%20Ngaji%20Gus%20Baha%20%20Do%27a%20yan%20saya%20dapat%20dari%20Nabi%20Khidir%20%20%20Terejemah%20Indonesia.mp3",
-      "lirik" : "",
-      "durasi" : 12
-    }
+	
   ]
-
-}
 }
