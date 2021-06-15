@@ -32,6 +32,11 @@
       "id": 3,
       "name_category": "Dj Mantap",
       "image": "https://1.bp.blogspot.com/-Ne9_aqEmA54/YGYYCnZ7NaI/AAAAAAAAAj0/sLf1AbNojtMdUaHIkcFGsV2NGTsGZH1jgCLcBGAsYHQ/s320/sc.png"
+    },
+	{
+      "id": 4,
+      "name_category": "Dj Terbaru",
+      "image": "https://1.bp.blogspot.com/--LgEVrviGDY/YMgo8JEBOOI/AAAAAAAAAq0/UUYTVa77_bs4EdfYvz_JPOcTvAW2WKYXwCLcBGAsYHQ/s0/new1.png"
     }
 	
   ],
@@ -601,6 +606,159 @@
       "image": "https://1.bp.blogspot.com/-lrXN4a2yEEQ/YGYYCSZtHMI/AAAAAAAAAjw/wkg3s5chVREHFFQV80b-8fwANaB7JMdbQCLcBGAsYHQ/s0/sc2.png",
       "link_mp3": "https://archive.org/download/dj_20210415/DJ%20SA%20JANJI%20TRA%20MABUK%20LAGI.mp3",
       "duration": "06",
+      "lyrics": "<p><span style=\"color:#ffffff\"><strong>Selamat menikmati audio music mp3</strong><br />\r\n<strong>Jangan lupa rating 5 bintangnya</strong><br />\r\n<strong>Jika anda suka dengan aplikasi music mp3 ini</strong><br />\r\n<strong>Terimakasih</strong></span></p>\r\n"
+    },
+    {
+      "id": 64,
+      "name_category": "Dj Terbaru",
+      "title": "DJ Akper ID",
+      "image": "https://1.bp.blogspot.com/-lrXN4a2yEEQ/YGYYCSZtHMI/AAAAAAAAAjw/wkg3s5chVREHFFQV80b-8fwANaB7JMdbQCLcBGAsYHQ/s0/sc2.png",
+      "link_mp3": "https://archive.org/download/dj-putus-lagi-cintaku/DJ%20Akper%20ID.mp3",
+      "duration": "05",
+      "lyrics": "<p><span style=\"color:#ffffff\"><strong>Selamat menikmati audio music mp3</strong><br />\r\n<strong>Jangan lupa rating 5 bintangnya</strong><br />\r\n<strong>Jika anda suka dengan aplikasi music mp3 ini</strong><br />\r\n<strong>Terimakasih</strong></span></p>\r\n"
+    },
+    {
+      "id": 65,
+      "name_category": "Dj Terbaru",
+      "title": "DJ Aku Suka Dia Mak Yang Sedang Sedang Saja",
+      "image": "https://1.bp.blogspot.com/-lrXN4a2yEEQ/YGYYCSZtHMI/AAAAAAAAAjw/wkg3s5chVREHFFQV80b-8fwANaB7JMdbQCLcBGAsYHQ/s0/sc2.png",
+      "link_mp3": "https://archive.org/download/dj-elsa-balon-te-remix/DJ%20Aku%20Suka%20Dia%20Mak%20Yang%20Sedang%20Sedang%20Saja.mp3",
+      "duration": "05",
+      "lyrics": "<p><span style=\"color:#ffffff\"><strong>Selamat menikmati audio music mp3</strong><br />\r\n<strong>Jangan lupa rating 5 bintangnya</strong><br />\r\n<strong>Jika anda suka dengan aplikasi music mp3 ini</strong><br />\r\n<strong>Terimakasih</strong></span></p>\r\n"
+    },
+    {
+      "id": 66,
+      "name_category": "Dj Terbaru",
+      "title": "DJ Bagaimana Lanjut",
+      "image": "https://1.bp.blogspot.com/-lrXN4a2yEEQ/YGYYCSZtHMI/AAAAAAAAAjw/wkg3s5chVREHFFQV80b-8fwANaB7JMdbQCLcBGAsYHQ/s0/sc2.png",
+      "link_mp3": "https://archive.org/download/dj-elsa-balon-te-remix/DJ%20Bagaimana%20Lanjut.mp3",
+      "duration": "05",
+      "lyrics": "<p><span style=\"color:#ffffff\"><strong>Selamat menikmati audio music mp3</strong><br />\r\n<strong>Jangan lupa rating 5 bintangnya</strong><br />\r\n<strong>Jika anda suka dengan aplikasi music mp3 ini</strong><br />\r\n<strong>Terimakasih</strong></span></p>\r\n"
+    },
+    {
+      "id": 67,
+      "name_category": "Dj Terbaru",
+      "title": "DJ Bulan Bawa Bintang Menari Iringi Langkahku",
+      "image": "https://1.bp.blogspot.com/-lrXN4a2yEEQ/YGYYCSZtHMI/AAAAAAAAAjw/wkg3s5chVREHFFQV80b-8fwANaB7JMdbQCLcBGAsYHQ/s0/sc2.png",
+      "link_mp3": "https://archive.org/download/dj-elsa-balon-te-remix/DJ%20Bulan%20Bawa%20Bintang%20Menari%20Iringi%20Langkahku.mp3",
+      "duration": "06",
+      "lyrics": "<p><span style=\"color:#ffffff\"><strong>Selamat menikmati audio music mp3</strong><br />\r\n<strong>Jangan lupa rating 5 bintangnya</strong><br />\r\n<strong>Jika anda suka dengan aplikasi music mp3 ini</strong><br />\r\n<strong>Terimakasih</strong></span></p>\r\n"
+    },
+    {
+      "id": 68,
+      "name_category": "Dj Terbaru",
+      "title": "DJ Caramba",
+      "image": "https://1.bp.blogspot.com/-lrXN4a2yEEQ/YGYYCSZtHMI/AAAAAAAAAjw/wkg3s5chVREHFFQV80b-8fwANaB7JMdbQCLcBGAsYHQ/s0/sc2.png",
+      "link_mp3": "https://archive.org/download/dj-elsa-balon-te-remix/DJ%20Caramba.mp3",
+      "duration": "05",
+      "lyrics": "<p><span style=\"color:#ffffff\"><strong>Selamat menikmati audio music mp3</strong><br />\r\n<strong>Jangan lupa rating 5 bintangnya</strong><br />\r\n<strong>Jika anda suka dengan aplikasi music mp3 ini</strong><br />\r\n<strong>Terimakasih</strong></span></p>\r\n"
+    },
+    {
+      "id": 69,
+      "name_category": "Dj Terbaru",
+      "title": "DJ Dalinda",
+      "image": "https://1.bp.blogspot.com/-lrXN4a2yEEQ/YGYYCSZtHMI/AAAAAAAAAjw/wkg3s5chVREHFFQV80b-8fwANaB7JMdbQCLcBGAsYHQ/s0/sc2.png",
+      "link_mp3": "https://archive.org/download/dj-elsa-balon-te-remix/DJ%20Dalinda.mp3",
+      "duration": "04",
+      "lyrics": "<p><span style=\"color:#ffffff\"><strong>Selamat menikmati audio music mp3</strong><br />\r\n<strong>Jangan lupa rating 5 bintangnya</strong><br />\r\n<strong>Jika anda suka dengan aplikasi music mp3 ini</strong><br />\r\n<strong>Terimakasih</strong></span></p>\r\n"
+    },
+    {
+      "id": 70,
+      "name_category": "Dj Terbaru",
+      "title": "DJ Emas Hantaran",
+      "image": "https://1.bp.blogspot.com/-lrXN4a2yEEQ/YGYYCSZtHMI/AAAAAAAAAjw/wkg3s5chVREHFFQV80b-8fwANaB7JMdbQCLcBGAsYHQ/s0/sc2.png",
+      "link_mp3": "https://archive.org/download/dj-elsa-balon-te-remix/DJ%20Emas%20Hantaran.mp3",
+      "duration": "05",
+      "lyrics": "<p><span style=\"color:#ffffff\"><strong>Selamat menikmati audio music mp3</strong><br />\r\n<strong>Jangan lupa rating 5 bintangnya</strong><br />\r\n<strong>Jika anda suka dengan aplikasi music mp3 ini</strong><br />\r\n<strong>Terimakasih</strong></span></p>\r\n"
+    },
+    {
+      "id": 71,
+      "name_category": "Dj Terbaru",
+      "title": "DJ Gemes Bila Aku Dekat Kamu",
+      "image": "https://1.bp.blogspot.com/-lrXN4a2yEEQ/YGYYCSZtHMI/AAAAAAAAAjw/wkg3s5chVREHFFQV80b-8fwANaB7JMdbQCLcBGAsYHQ/s0/sc2.png",
+      "link_mp3": "https://archive.org/download/dj-elsa-balon-te-remix/DJ%20Gemes%20Bila%20Aku%20Dekat%20Kamu.mp3",
+      "duration": "05",
+      "lyrics": "<p><span style=\"color:#ffffff\"><strong>Selamat menikmati audio music mp3</strong><br />\r\n<strong>Jangan lupa rating 5 bintangnya</strong><br />\r\n<strong>Jika anda suka dengan aplikasi music mp3 ini</strong><br />\r\n<strong>Terimakasih</strong></span></p>\r\n"
+    },
+    {
+      "id": 72,
+      "name_category": "Dj Terbaru",
+      "title": "DJ Im Coming Home",
+      "image": "https://1.bp.blogspot.com/-lrXN4a2yEEQ/YGYYCSZtHMI/AAAAAAAAAjw/wkg3s5chVREHFFQV80b-8fwANaB7JMdbQCLcBGAsYHQ/s0/sc2.png",
+      "link_mp3": "https://archive.org/download/dj-elsa-balon-te-remix/DJ%20Im%20Coming%20Home.mp3",
+      "duration": "06",
+      "lyrics": "<p><span style=\"color:#ffffff\"><strong>Selamat menikmati audio music mp3</strong><br />\r\n<strong>Jangan lupa rating 5 bintangnya</strong><br />\r\n<strong>Jika anda suka dengan aplikasi music mp3 ini</strong><br />\r\n<strong>Terimakasih</strong></span></p>\r\n"
+    },
+    {
+      "id": 73,
+      "name_category": "Dj Terbaru",
+      "title": "DJ Its My Life La la la",
+      "image": "https://1.bp.blogspot.com/-lrXN4a2yEEQ/YGYYCSZtHMI/AAAAAAAAAjw/wkg3s5chVREHFFQV80b-8fwANaB7JMdbQCLcBGAsYHQ/s0/sc2.png",
+      "link_mp3": "https://archive.org/download/dj-elsa-balon-te-remix/DJ%20Its%20My%20Life%20La%20la%20la.mp3",
+      "duration": "06",
+      "lyrics": "<p><span style=\"color:#ffffff\"><strong>Selamat menikmati audio music mp3</strong><br />\r\n<strong>Jangan lupa rating 5 bintangnya</strong><br />\r\n<strong>Jika anda suka dengan aplikasi music mp3 ini</strong><br />\r\n<strong>Terimakasih</strong></span></p>\r\n"
+    },
+    {
+      "id": 74,
+      "name_category": "Dj Terbaru",
+      "title": "DJ Jaga Dia Untukku",
+      "image": "https://1.bp.blogspot.com/-lrXN4a2yEEQ/YGYYCSZtHMI/AAAAAAAAAjw/wkg3s5chVREHFFQV80b-8fwANaB7JMdbQCLcBGAsYHQ/s0/sc2.png",
+      "link_mp3": "https://archive.org/download/dj-elsa-balon-te-remix/DJ%20Jaga%20Dia%20Untukku.mp3",
+      "duration": "05",
+      "lyrics": "<p><span style=\"color:#ffffff\"><strong>Selamat menikmati audio music mp3</strong><br />\r\n<strong>Jangan lupa rating 5 bintangnya</strong><br />\r\n<strong>Jika anda suka dengan aplikasi music mp3 ini</strong><br />\r\n<strong>Terimakasih</strong></span></p>\r\n"
+    },
+    {
+      "id": 75,
+      "name_category": "Dj Terbaru",
+      "title": "DJ Kalau Ko Suka Ko Bilang",
+      "image": "https://1.bp.blogspot.com/-lrXN4a2yEEQ/YGYYCSZtHMI/AAAAAAAAAjw/wkg3s5chVREHFFQV80b-8fwANaB7JMdbQCLcBGAsYHQ/s0/sc2.png",
+      "link_mp3": "https://archive.org/download/dj-elsa-balon-te-remix/DJ%20Kalau%20Ko%20Suka%20Ko%20Bilang.mp3",
+      "duration": "05",
+      "lyrics": "<p><span style=\"color:#ffffff\"><strong>Selamat menikmati audio music mp3</strong><br />\r\n<strong>Jangan lupa rating 5 bintangnya</strong><br />\r\n<strong>Jika anda suka dengan aplikasi music mp3 ini</strong><br />\r\n<strong>Terimakasih</strong></span></p>\r\n"
+    },
+    {
+      "id": 76,
+      "name_category": "Dj Terbaru",
+      "title": "DJ Manis Buah Kelapa Tak Semanis Gula",
+      "image": "https://1.bp.blogspot.com/-lrXN4a2yEEQ/YGYYCSZtHMI/AAAAAAAAAjw/wkg3s5chVREHFFQV80b-8fwANaB7JMdbQCLcBGAsYHQ/s0/sc2.png",
+      "link_mp3": "https://archive.org/download/dj-elsa-balon-te-remix/DJ%20Manis%20Buah%20KelapaTak%20Semanis%20Gula.mp3",
+      "duration": "05",
+      "lyrics": "<p><span style=\"color:#ffffff\"><strong>Selamat menikmati audio music mp3</strong><br />\r\n<strong>Jangan lupa rating 5 bintangnya</strong><br />\r\n<strong>Jika anda suka dengan aplikasi music mp3 ini</strong><br />\r\n<strong>Terimakasih</strong></span></p>\r\n"
+    },
+    {
+      "id": 77,
+      "name_category": "Dj Terbaru",
+      "title": "DJ Mantan Jadi Mama Muda",
+      "image": "https://1.bp.blogspot.com/-lrXN4a2yEEQ/YGYYCSZtHMI/AAAAAAAAAjw/wkg3s5chVREHFFQV80b-8fwANaB7JMdbQCLcBGAsYHQ/s0/sc2.png",
+      "link_mp3": "https://archive.org/download/dj-elsa-balon-te-remix/DJ%20Mantan%20Jadi%20Mana%20Muda.mp3",
+      "duration": "05",
+      "lyrics": "<p><span style=\"color:#ffffff\"><strong>Selamat menikmati audio music mp3</strong><br />\r\n<strong>Jangan lupa rating 5 bintangnya</strong><br />\r\n<strong>Jika anda suka dengan aplikasi music mp3 ini</strong><br />\r\n<strong>Terimakasih</strong></span></p>\r\n"
+    },
+    {
+      "id": 78,
+      "name_category": "Dj Terbaru",
+      "title": "DJ Putus Lagi Cintaku",
+      "image": "https://1.bp.blogspot.com/-lrXN4a2yEEQ/YGYYCSZtHMI/AAAAAAAAAjw/wkg3s5chVREHFFQV80b-8fwANaB7JMdbQCLcBGAsYHQ/s0/sc2.png",
+      "link_mp3": "https://archive.org/download/dj-elsa-balon-te-remix/DJ%20Putus%20Lagi%20Cintaku.mp3",
+      "duration": "06",
+      "lyrics": "<p><span style=\"color:#ffffff\"><strong>Selamat menikmati audio music mp3</strong><br />\r\n<strong>Jangan lupa rating 5 bintangnya</strong><br />\r\n<strong>Jika anda suka dengan aplikasi music mp3 ini</strong><br />\r\n<strong>Terimakasih</strong></span></p>\r\n"
+    },
+    {
+      "id": 79,
+      "name_category": "Dj Terbaru",
+      "title": "DJ Tanam Tanam Ubi",
+      "image": "https://1.bp.blogspot.com/-lrXN4a2yEEQ/YGYYCSZtHMI/AAAAAAAAAjw/wkg3s5chVREHFFQV80b-8fwANaB7JMdbQCLcBGAsYHQ/s0/sc2.png",
+      "link_mp3": "https://archive.org/download/dj-elsa-balon-te-remix/DJ%20Tanam%20Tanam%20Ubi.mp3",
+      "duration": "05",
+      "lyrics": "<p><span style=\"color:#ffffff\"><strong>Selamat menikmati audio music mp3</strong><br />\r\n<strong>Jangan lupa rating 5 bintangnya</strong><br />\r\n<strong>Jika anda suka dengan aplikasi music mp3 ini</strong><br />\r\n<strong>Terimakasih</strong></span></p>\r\n"
+    },
+    {
+      "id": 80,
+      "name_category": "Dj Terbaru",
+      "title": "DJ Visi Misi Foya Foya",
+      "image": "https://1.bp.blogspot.com/-lrXN4a2yEEQ/YGYYCSZtHMI/AAAAAAAAAjw/wkg3s5chVREHFFQV80b-8fwANaB7JMdbQCLcBGAsYHQ/s0/sc2.png",
+      "link_mp3": "https://archive.org/download/dj-elsa-balon-te-remix/DJ%20Visi%20Misi%20Foya%20Foya.mp3",
+      "duration": "04",
       "lyrics": "<p><span style=\"color:#ffffff\"><strong>Selamat menikmati audio music mp3</strong><br />\r\n<strong>Jangan lupa rating 5 bintangnya</strong><br />\r\n<strong>Jika anda suka dengan aplikasi music mp3 ini</strong><br />\r\n<strong>Terimakasih</strong></span></p>\r\n"
     }
 
