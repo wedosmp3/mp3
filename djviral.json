@@ -1,14 +1,14 @@
 {
   "Ads": [
     {
-      "select_ads": "ADMOB",
+      "select_ads": "",
       "status_app": "0",
       "link_redirect": "https://play.google.com/store/apps/details?id=",
-      "admob_interid": "ca-app-pub-2521648737251856/8482423190",
-      "admob_bannerid": "ca-app-pub-2521648737251856/5107667855",
-      "admob_openid": "ca-app-pub-2521648737251856/7274666195",
+      "admob_interid": "",
+      "admob_bannerid": "",
+      "admob_openid": "",
       "interval_intertitial": "5",
-      "startappid": "201270579",
+      "startappid": "",
       "fan_inter": "",
       "fan_banner": "",
       "mopub_banner": "",
